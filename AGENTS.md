@@ -102,18 +102,8 @@ Once the Bootstrap Agent self‑destructs:
 
 ---
 
-## 8 · Running the agent
 
-```bash
-pip install openai
-python agents/bootstrap_agent.py  # default assumes OPENAI_API_KEY is set
-```
-
-For debugging, pass `--dry‑run` to skip writes.
-
----
-
-## 9 · License
+## 8 · License
 
 MIT for code, Creative Commons BY‑SA 4.0 for narrative content.
 
