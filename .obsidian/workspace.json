@@ -1,0 +1,193 @@
+{
+  "main": {
+    "id": "b8fce0748293d30a",
+    "type": "split",
+    "children": [
+      {
+        "id": "49d84b8f9474c8d9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0aa55e9d388046c4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f175045cfaae9c60",
+    "type": "split",
+    "children": [
+      {
+        "id": "95e0f93a6a934a67",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e549fc5d93d2839c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f15d5551349da645",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "953f8ec164a42123",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 455.5
+  },
+  "right": {
+    "id": "e3a10b93c693f1a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "f256a3582522673f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fd136feac17ae18",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Module/Voltaire's D&D Module.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Voltaire's D&D Module"
+            }
+          },
+          {
+            "id": "532719abf27cf6d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Gods/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "55f465aaf57388d9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2f2ec4bdc9c55197",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "e549fc5d93d2839c",
+  "lastOpenFiles": [
+    "dump.md",
+    "Adventures/20.7.2025.pdf",
+    "Items/Crab Book/Pages/Ramblings.md",
+    "Adventures/2025-07-20.md",
+    "2025-08-13.md",
+    "Adventures",
+    "Items/Crab Book/Machinations & Actions - Player's Handbook.md",
+    "Items/Crab Book/Crab Book.md",
+    "Lore/Shar.md",
+    "Lore/Beshaba.md",
+    "Lore/Glasya.md",
+    "Voltaire.md",
+    "Module/Voltaire's D&D Module.md",
+    "Crab-Book.md",
+    "Glaysa.md",
+    "Lore",
+    "Items/Crab Book/Pages",
+    "Items/Crab Book",
+    "Items",
+    "Module",
+    "Gods/Beshaba.md",
+    "Gods/Relevant.canvas",
+    "Gods"
+  ]
+}
