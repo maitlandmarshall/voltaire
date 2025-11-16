@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "49d84b8f9474c8d9",
+        "id": "d3c2c49e8f150fd8",
         "type": "tabs",
         "children": [
           {
-            "id": "0aa55e9d388046c4",
+            "id": "127283058d1e743a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Glasya.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Glasya"
             }
           }
         ]
@@ -138,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Lore/Glasya.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Glasya"
             }
           }
         ],
@@ -155,6 +160,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -164,30 +170,44 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "e549fc5d93d2839c",
+  "active": "127283058d1e743a",
   "lastOpenFiles": [
+    "Module/Voltaire's D&D Module.md",
+    "Adventures/2025-08-16.md",
+    "Voltaire.md",
+    "Adventures/2025-07-20.pdf",
+    "Powers/The Ink of Unbeing.md",
+    "Items/Shadow's Weave.md",
+    "Items/Crab Book/Machinations & Actions - Player's Handbook.md",
+    "Lore/Beshaba.md",
+    "Items/Dagoth's Diary.md",
+    "NPCs/Greg.md",
+    "Items/Deck of Many Things.md",
+    "Powers",
+    "Lore/Glasya.md",
+    "Lore/Shar.md",
+    "NPCs/Party/Elora.md",
+    "NPCs/Party/Dagoth.md",
+    "NPCs/Party/Tamerac.md",
+    "NPCs/Party/Yennefer.md",
+    "NPCs/Party/Untitled",
+    "NPCs/Party/Cromash.md",
+    "NPCs/Party/Cornholio.md",
+    "Overview.md",
     "dump.md",
-    "Adventures/20.7.2025.pdf",
+    "The Crab Book.md",
+    "NPCs/Party",
+    "NPCs",
+    "Adventures/Voltaire's D&D Notes.json",
+    "Adventures/Voltaire's D&D Dilemma.json",
+    "Adventures/Copy of Voltaire's D&D Dilemma.json",
+    "Adventures/Copy of Voltaire's D&D Dilemma",
     "Items/Crab Book/Pages/Ramblings.md",
     "Adventures/2025-07-20.md",
     "2025-08-13.md",
     "Adventures",
-    "Items/Crab Book/Machinations & Actions - Player's Handbook.md",
     "Items/Crab Book/Crab Book.md",
-    "Lore/Shar.md",
-    "Lore/Beshaba.md",
-    "Lore/Glasya.md",
-    "Voltaire.md",
-    "Module/Voltaire's D&D Module.md",
     "Crab-Book.md",
-    "Glaysa.md",
-    "Lore",
-    "Items/Crab Book/Pages",
-    "Items/Crab Book",
-    "Items",
-    "Module",
-    "Gods/Beshaba.md",
-    "Gods/Relevant.canvas",
-    "Gods"
+    "Gods/Relevant.canvas"
   ]
 }
