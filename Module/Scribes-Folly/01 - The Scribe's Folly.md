@@ -1,9 +1,9 @@
 # The Scribe’s Folly
-## A gladiatorial escape one-shot inside [[Voltaire]]’s Head-Space™
+## A gladiatorial escape one-shot inside [Voltaire](<../../Voltaire.md>)’s Head-Space™
 
 ### What this is
 
-This one-shot begins **directly after** `Adventures/2025-11-22.md`. The temple, the desert above it, and the campaign itself start to feel like *draft text*—as if reality has always been an annotated page inside [[Voltaire]]’s skull.
+This one-shot begins **directly after** `Adventures/2025-11-22.md`. The temple, the desert above it, and the campaign itself start to feel like *draft text*—as if reality has always been an annotated page inside [Voltaire](<../../Voltaire.md>)’s skull.
 
 It opens with a massive, cinematic, **unwinnable** set-piece fight. The point isn’t “win or die”; the point is what the party manages to **protect, steal, learn, or prove** before Voltaire *captures them* for his arena.
 
@@ -32,10 +32,10 @@ From there they awaken in a “ludus” made of bookbinding, crab shell, and rul
 
 ### Scene 0 pack (unwinnable fight)
 
-- Prep + script: `[[Scene 0/00 - Scene 0 - Reality Slip & Capture]]`
-- Monsters: `[[Scene 0/01 - Monsters (Scene 0)]]`
-- Environment + interactables/tables: `[[Scene 0/02 - Environment (Scene 0)]]`
-- PvP fuel + secret slips: `[[Scene 0/03 - PvP Fuel & Secret Slips (Scene 0)]]`
+- Prep + script: [Scene 0 — Reality Slip & Capture](<Scene 0/00 - Scene 0 - Reality Slip & Capture.md>)
+- Monsters: [Scene 0 — Monsters](<Scene 0/01 - Monsters (Scene 0).md>)
+- Environment + interactables/tables: [Scene 0 — Environment](<Scene 0/02 - Environment (Scene 0).md>)
+- PvP fuel + secret slips: [Scene 0 — PvP Fuel & Slips](<Scene 0/03 - PvP Fuel & Secret Slips (Scene 0).md>)
 
 ### Runtime target (6 beats)
 
@@ -187,6 +187,14 @@ Their skin prickles: each has a fresh, faint tattoo at the base of the thumb—*
 
 **B) Arena loadout (clean for new PCs):**
 - Everyone starts with simple gear (PHB baseline). First Favor spend can “drop” a better item.
+
+### Key-Tags (lockers + the Vault)
+
+Key-Tags are brass locker tags the Quillmaster uses as both **keys** and **currency**.
+
+- **1 Key-Tag:** open 1 locker (recover 1 confiscated item).
+- **Loose tags (arena loot):** tags can appear as scattered pickups. Grabbing one normally costs an action, but the arena may grant “free” grabs to anyone who spilled an ally’s blood that round.
+- **Excess Key-Tags:** can be “bundled” in the Ludus to open the **Vault of Margins** (including legendary stage-prop gear usable in the one-shot). See [Vault of Margins (Key-Tag Rewards)](<Scene 0/04 - Vault of Margins (Key-Tag Rewards).md>).
 
 ### Key NPCs (keep it small)
 

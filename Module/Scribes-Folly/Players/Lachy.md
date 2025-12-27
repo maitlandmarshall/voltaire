@@ -13,7 +13,8 @@ _Generated: 2025-12-27 01:26 UTC_
 - **ClassLevel**: Ro-3 / Fi-7
 - **Background**: Outlander
 - **Alignment**: CN
-- **Backstory**: Origin - Hunter-gatherer
+- **Backstory**: Origin - Hunter-gatherer turned bounty hunter & assassin who wanders Toril. Unfortunately for him he is dragged into problem after problem, awakening more than once in places he doesn’t know or even how he got there. Divined on a set of cards when he was young it was told to him that he was born cursed by Beshaba
+- **Tribe legend (answer)**: The old woman who divined my curse
 - **PersonalityTraits**: I tell people I was, in fact, raised by wolves.
 - **Ideals**: Change. Life is like the seasons, in constant change, and we must change with it.
 - **Bonds**: I am the last of my tribe, and it is up to me to ensure their names enter legend.
@@ -53,7 +54,8 @@ Remarkable Athlete - add half prof bonus on; str, dex or con doesn't already use
 Cunning Action - Dash, Disengage, Hide
 Crit on 19 & 20
 - **Background**: Outlander
-- **Backstory**: Origin - Hunter-gatherer
+- **Backstory**: Origin - Hunter-gatherer turned bounty hunter & assassin who wanders Toril. Unfortunately for him he is dragged into problem after problem, awakening more than once in places he doesn’t know or even how he got there. Divined on a set of cards when he was young it was told to him that he was born cursed by Beshaba
+- **Tribe legend (answer)**: The old woman who divined my curse
 - **Bonds**: I am the last of my tribe, and it is up to me to ensure their names enter legend.
 - **CHA**: 9
 - **CHamod**: -1

@@ -18,11 +18,24 @@ At the end of the final round (usually Round 4), each PC makes a **DC 17 Wisdom 
 
 ## Interactables (put these on the map)
 
+### 0) Loose Key-Tags (scattered loot)
+
+Loose Key-Tags (brass tags on short chains) are scattered across the arena floor, stuck in bookbinding seams, or hanging from broken quills.
+
+**Setup:** place **6** Loose Key-Tags as visible tokens around the map (edges, behind cover, near hazards).
+
+**Pickup rules (adjacent):**
+- **Action:** pick up 1 Loose Key-Tag from an adjacent space.
+- **Blood Price (PvP fuel):** if you have dealt damage to a **friend** this round, you can pick up 1 Loose Key-Tag as a **free object interaction** instead (once per round).
+  - A “friend” is any creature you’d reasonably call an ally (PC, allied NPC, summoned ally). Accidental friendly fire still counts.
+  - Tracking shortcut: when you damage a friend, put a marker on your mini: **BLOODED**. Remove all BLOODED markers at initiative count 20.
+
 ### 1) Locker Wall (keys + theft)
 
 An alcove becomes a wall of numbered lockers with brass tags.
 
 - **Use an Item/Action:** spend a Key-Tag to open one locker and reclaim 1 confiscated item (or gain a strong consumable if you’re doing “arena loadout”).
+- **Excess tags:** any Key-Tags not used on lockers can be hoarded and later spent in the Ludus to open higher-tier “Vault of Margins” rewards (including legendary stage-prop gear). See [Vault of Margins](<04 - Vault of Margins (Key-Tag Rewards).md>).
 - **Action (no key):** Thieves’ Tools DC 17 to pop a lock.
   - Success: open it.
   - Fail: take 2d8 lightning damage and trigger **Alarm** (spawn 1 Editorial Enforcer next round at initiative 20).
@@ -69,6 +82,8 @@ Each round at initiative count 20, choose one effect (or roll 1d6):
 5. **Spotlight Swap.** The spotlight tiles move; anyone standing on one is teleported to another spotlight.
 6. **Beshaba’s Nudge.** Everyone rerolls initiative at the start of next round.
 
+**Additionally, every pulse:** scatter **1d4** new Loose Key-Tags onto random empty squares (or toss them toward the loudest part of the fight).
+
 ## New Rule Table (d8)
 
 1. **Gravity Optional.** Until next round: jumps are tripled; falling damage is doubled.
@@ -79,4 +94,3 @@ Each round at initiative count 20, choose one effect (or roll 1d6):
 6. **Footnote.** One PC gains advantage on one roll if they speak a “rule” aloud before rolling.
 7. **Margin Note.** A whisper reveals a Gate clue (Circle/Square/Triangle).
 8. **Insert Clause.** Voltaire “helps” the most damaged PC: they regain 2d8 HP, but their next hit splashes half damage to an ally within 10 ft.
-

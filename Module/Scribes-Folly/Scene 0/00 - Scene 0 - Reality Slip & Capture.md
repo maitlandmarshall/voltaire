@@ -55,7 +55,8 @@ Voltaire:
 
 ## Files you’ll use at the table
 
-- Monsters: `Module/Scribes-Folly/Scene 0/01 - Monsters (Scene 0).md`
-- Environment + interactables: `Module/Scribes-Folly/Scene 0/02 - Environment (Scene 0).md`
-- PvP fuel + secret slips: `Module/Scribes-Folly/Scene 0/03 - PvP Fuel & Secret Slips (Scene 0).md`
-
+- Monsters: [Scene 0 — Monsters](<01 - Monsters (Scene 0).md>)
+- Environment + interactables: [Scene 0 — Environment](<02 - Environment (Scene 0).md>)
+- PvP fuel + secret slips: [Scene 0 — PvP Fuel & Slips](<03 - PvP Fuel & Secret Slips (Scene 0).md>)
+- Vault spending (Key-Tags): [Vault of Margins](<04 - Vault of Margins (Key-Tag Rewards).md>)
+- DM run sheet (at-table reference): [Scene 0 — DM Run Sheet](<05 - Scene 0 - DM Run Sheet.md>)
