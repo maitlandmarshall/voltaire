@@ -1,3 +1,6 @@
+> **Refined draft location:** `Module/Scribes-Folly/01 - The Scribe's Folly.md` (gladiatorial escape one-shot inside Voltaire’s mind).  
+> This file is kept as an earlier scratchpad / seed document.
+
 Voltaire's finally completed his flesh-horror-crab book, crafted with delicate care with the skins of the creatures past slain, inked in hell-hound blood and enchanted with the soul of a crab and merged together with Voltaire in both body and soul.
 
 The book's title **[[Machinations & Actions - Player's Handbook]]** appears to be an intricate guide detailing the rules for a game played with dice.
