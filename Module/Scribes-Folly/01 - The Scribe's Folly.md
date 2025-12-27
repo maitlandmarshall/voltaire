@@ -30,6 +30,13 @@ From there they awaken in a “ludus” made of bookbinding, crab shell, and rul
 - Works best for **Level 8–12** PCs (or scale using the guidance below).
 - Assumes the PCs are the campaign party and starts from the last known state of `Adventures/2025-11-22.md`.
 
+### Scene 0 pack (unwinnable fight)
+
+- Prep + script: `[[Scene 0/00 - Scene 0 - Reality Slip & Capture]]`
+- Monsters: `[[Scene 0/01 - Monsters (Scene 0)]]`
+- Environment + interactables/tables: `[[Scene 0/02 - Environment (Scene 0)]]`
+- PvP fuel + secret slips: `[[Scene 0/03 - PvP Fuel & Secret Slips (Scene 0)]]`
+
 ### Runtime target (6 beats)
 
 If you want this to fit in a single session, **timebox hard**:

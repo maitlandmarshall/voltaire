@@ -25,6 +25,39 @@ def _clean_extracted_text(text: str) -> str:
         out.append(line)
     return "\n".join(out).strip()
 
+def _stringify_pdf_field_value(value: object) -> str:
+    # pypdf returns various objects (TextStringObject, NameObject, BooleanObject, etc.).
+    # We only need a readable string for markdown output.
+    try:
+        text = str(value)
+    except Exception:
+        return ""
+
+    text = text.strip()
+    # Checkbox noise in AcroForms.
+    if text in {"/Off", "Off"}:
+        return ""
+    if text == "/Yes":
+        return "Yes"
+    return _clean_extracted_text(text)
+
+
+def _extract_acroform_fields(reader: PdfReader) -> dict[str, str]:
+    fields = reader.get_fields() or {}
+    out: dict[str, str] = {}
+    for key, meta in fields.items():
+        try:
+            val = meta.get("/V")
+        except Exception:
+            continue
+        if val is None:
+            continue
+        text = _stringify_pdf_field_value(val)
+        if not text:
+            continue
+        out[str(key)] = text
+    return out
+
 
 def _sniff_image_extension(data: bytes) -> str | None:
     if data.startswith(b"\x89PNG\r\n\x1a\n"):
@@ -65,6 +98,7 @@ def convert_pdf_to_markdown(pdf_path: Path, *, force: bool, extract_images: bool
         return "skipped (md exists)"
 
     reader = PdfReader(str(pdf_path))
+    acro_fields = _extract_acroform_fields(reader)
     image_dir = pdf_path.with_suffix("")  # e.g. Adventures/foo.pdf -> Adventures/foo/
     wrote_any_images = False
 
@@ -82,6 +116,58 @@ def convert_pdf_to_markdown(pdf_path: Path, *, force: bool, extract_images: bool
     md_lines.append("")
     md_lines.append(f"_Generated: {datetime.now(timezone.utc).strftime('%Y-%m-%d %H:%M UTC')}_")
     md_lines.append("")
+
+    if acro_fields:
+        md_lines.append("## Character Sheet Fields")
+        md_lines.append("")
+        md_lines.append("### Narrative")
+        md_lines.append("")
+
+        narrative_keys = [
+            "CharacterName",
+            "Race ",
+            "ClassLevel",
+            "Background",
+            "Alignment",
+            "Backstory",
+            "PersonalityTraits ",
+            "Ideals",
+            "Bonds",
+            "Flaws",
+            "Allies",
+        ]
+        for key in narrative_keys:
+            if key not in acro_fields:
+                continue
+            md_lines.append(f"- **{key.strip()}**: {acro_fields[key]}")
+        md_lines.append("")
+
+        md_lines.append("### Combat / Gear")
+        md_lines.append("")
+        combat_keys = [
+            "AC",
+            "HPMax",
+            "HPCurrent",
+            "Speed",
+            "Initiative",
+            "ProfBonus",
+            "AttacksSpellcasting",
+            "Feat+Traits",
+            "Features & Traits",
+            "Treasure ",
+            "Treasure",
+        ]
+        for key in combat_keys:
+            if key not in acro_fields:
+                continue
+            md_lines.append(f"- **{key.strip()}**: {acro_fields[key]}")
+        md_lines.append("")
+
+        md_lines.append("### Full Non-Empty Field Dump")
+        md_lines.append("")
+        for key in sorted(acro_fields.keys(), key=lambda s: s.lower()):
+            md_lines.append(f"- **{key.strip()}**: {acro_fields[key]}")
+        md_lines.append("")
 
     for page_number, page in enumerate(reader.pages, start=1):
         md_lines.append(f"## Page {page_number}")
