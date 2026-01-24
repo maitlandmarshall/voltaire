@@ -19,6 +19,7 @@ Key-Tags are more than locker keys: the Quillmaster can “bundle” excess tags
 If you want a big randomized shop list instead of curated picks, roll on:
 
 - [Vault Catalog (d100)](<06 - Vault Catalog (d100).md>)
+- [Legendary Vault (d100)](<07 - Legendary Vault (d100).md>)
 
 ## Vault (Rare) — 2 Key-Tags (pick one)
 
