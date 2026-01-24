@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Glasya"
             }
+          },
+          {
+            "id": "74e8026faac3f297",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.12"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -142,13 +155,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lore/Glasya.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Glasya"
+              "title": "Outline"
             }
           }
         ],
@@ -170,7 +182,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "127283058d1e743a",
+  "active": "74e8026faac3f297",
   "lastOpenFiles": [
     "Module/Voltaire's D&D Module.md",
     "Adventures/2025-08-16.md",
