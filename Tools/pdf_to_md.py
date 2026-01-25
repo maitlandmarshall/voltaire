@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 import sys
 from datetime import datetime, timezone
+from io import BytesIO
 from pathlib import Path
 
 from pypdf import PdfReader
@@ -59,6 +60,44 @@ def _extract_acroform_fields(reader: PdfReader) -> dict[str, str]:
     return out
 
 
+def _extract_widget_fields(reader: PdfReader) -> dict[str, str]:
+    """
+    Extract PDF form data from /Widget annotations even when /AcroForm is missing.
+
+    Some PDFs (including certain D&D Beyond exports) store filled form values in
+    widget annotations but omit a top-level /AcroForm dictionary, which causes
+    reader.get_fields() to return {}.
+    """
+
+    out: dict[str, str] = {}
+    for page in reader.pages:
+        annots = page.get("/Annots")
+        if not annots:
+            continue
+        try:
+            annots_obj = annots.get_object()
+        except Exception:
+            continue
+        for annot_ref in annots_obj:
+            try:
+                annot = annot_ref.get_object()
+            except Exception:
+                continue
+            if annot.get("/Subtype") != "/Widget":
+                continue
+            key = annot.get("/T")
+            if not key:
+                continue
+            val = annot.get("/V")
+            if val is None:
+                continue
+            text = _stringify_pdf_field_value(val)
+            if not text:
+                continue
+            out[str(key)] = text
+    return out
+
+
 def _sniff_image_extension(data: bytes) -> str | None:
     if data.startswith(b"\x89PNG\r\n\x1a\n"):
         return ".png"
@@ -92,6 +131,33 @@ def _normalize_extension(extension: str) -> str:
     return ext
 
 
+def _maybe_convert_to_png(data: bytes, extension: str) -> tuple[bytes, str]:
+    """
+    Convert image bytes to PNG when the extracted format is awkward for Markdown tooling.
+
+    D&D Beyond PDFs commonly embed JPEG2000 (.jp2) images; Obsidian and various
+    renderers may not handle these well. If Pillow can decode the image, we
+    re-encode as PNG.
+    """
+
+    if extension not in {".jp2", ".jpx", ".jpf", ".jp2k"}:
+        return data, extension
+
+    try:
+        from PIL import Image  # type: ignore
+    except Exception:
+        return data, extension
+
+    try:
+        with Image.open(BytesIO(data)) as im:
+            buf = BytesIO()
+            # Preserve alpha if present.
+            im.save(buf, format="PNG")
+            return buf.getvalue(), ".png"
+    except Exception:
+        return data, extension
+
+
 def convert_pdf_to_markdown(pdf_path: Path, *, force: bool, extract_images: bool) -> str:
     md_path = pdf_path.with_suffix(".md")
     if md_path.exists() and not force:
@@ -99,6 +165,8 @@ def convert_pdf_to_markdown(pdf_path: Path, *, force: bool, extract_images: bool
 
     reader = PdfReader(str(pdf_path))
     acro_fields = _extract_acroform_fields(reader)
+    if not acro_fields:
+        acro_fields = _extract_widget_fields(reader)
     image_dir = pdf_path.with_suffix("")  # e.g. Adventures/foo.pdf -> Adventures/foo/
     wrote_any_images = False
 
@@ -125,16 +193,30 @@ def convert_pdf_to_markdown(pdf_path: Path, *, force: bool, extract_images: bool
 
         narrative_keys = [
             "CharacterName",
+            "CHARACTER NAME",
+            "CharacterName2",
+            "PLAYER NAME",
+            "PLAYER NAME2",
             "Race ",
+            "RACE",
+            "RACE2",
             "ClassLevel",
+            "CLASS  LEVEL",
+            "CLASS  LEVEL2",
             "Background",
+            "BACKGROUND",
+            "BACKGROUND2",
             "Alignment",
+            "ALIGNMENT",
             "Backstory",
             "PersonalityTraits ",
+            "PERSONALITY TRAITS",
             "Ideals",
             "Bonds",
             "Flaws",
             "Allies",
+            "AlliesOrganizations",
+            "FAITH",
         ]
         for key in narrative_keys:
             if key not in acro_fields:
@@ -148,14 +230,26 @@ def convert_pdf_to_markdown(pdf_path: Path, *, force: bool, extract_images: bool
             "AC",
             "HPMax",
             "HPCurrent",
+            "MaxHP",
+            "TempHP",
             "Speed",
+            "SPEED",
             "Initiative",
+            "Init",
             "ProfBonus",
             "AttacksSpellcasting",
             "Feat+Traits",
             "Features & Traits",
+            "FeaturesTraits1",
+            "FeaturesTraits2",
+            "FeaturesTraits3",
+            "FeaturesTraits4",
+            "FeaturesTraits5",
+            "FeaturesTraits6",
             "Treasure ",
             "Treasure",
+            "AdditionalSenses",
+            "SaveModifiers",
         ]
         for key in combat_keys:
             if key not in acro_fields:
@@ -195,6 +289,8 @@ def convert_pdf_to_markdown(pdf_path: Path, *, force: bool, extract_images: bool
                 extension = _normalize_extension(getattr(img, "extension", "") or "")
                 if not extension or extension == ".bin":
                     extension = _sniff_image_extension(data) or ".bin"
+
+                data, extension = _maybe_convert_to_png(data, extension)
 
                 filename = f"page-{page_number:03d}-img-{img_index:02d}{extension}"
                 if not wrote_any_images:

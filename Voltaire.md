@@ -1,13 +1,22 @@
 #voltaire
 
 _Prince-Emeritus of Swampy Repute, The Inephemeral Scribe_
+
+## Latest Character Sheet (D&D Beyond)
+
+- PDF: `Voltaire/Character Sheets/Voltaire_131028470.pdf`
+- Extracted fields + page renders: `Voltaire/Character Sheets/Voltaire_131028470.md`
+- Inventory snapshot: `Codex/Items/Voltaire Inventory (D&D Beyond 2026-01-25).md`
+- Spell list snapshot: `Codex/Powers/Voltaire Spell List (D&D Beyond 2026-01-25).md`
+
 ## Core Identity
 
 **Current Form**: Variant Human (formerly Fae Prince)  
-**Class**: Rogue 4 (Thief) / Warlock 8 (Archfey)  
-**Alignment**: Chaotic Neutral (self-proclaimed god unto himself)  
-**Level**: 12  
-**Experience**: 105,675 / 120,000 XP
+**Class**: Rogue 5 (Thief) / Warlock 8 (Archfey)  
+**Background**: Hermit  
+**Alignment**: Chaotic Good (self-proclaimed god unto himself)  
+**Level**: 13  
+**Experience**: 121,983 / 140,000 XP
 
 ## Backstory
 
@@ -50,6 +59,14 @@ A powerful wizard named Greg later used Voltaire (under the influence of a potio
 - **WIS**: 9 (-1)
 - **CHA**: 20 (+5)
 
+### Combat Snapshot (from latest sheet)
+
+- **AC**: 19
+- **Max HP**: 100
+- **Speed**: 30 ft. (Walking)
+- **Proficiency Bonus**: +5
+- **Senses**: Darkvision 120 ft.
+
 ### Unique Abilities
 
 - **Universal Language**: Can read, write, and understand ALL languages (unconscious ability)
@@ -63,10 +80,12 @@ A powerful wizard named Greg later used Voltaire (under the influence of a potio
 
 ### Class Features
 
-- **Sneak Attack**: 2d6
+- **Sneak Attack**: 3d6
 - **Cunning Action**: Dash, Disengage, or Hide as bonus action
-- **Pact Magic**: 2 spell slots (4th level)
-- **Eldritch Invocations**: Agonizing Blast, Aspect of the Moon, Mask of Many Faces, Repelling Blast
+- **Steady Aim**: Gain advantage on next attack (bonus action; speed 0 for the turn)
+- **Uncanny Dodge**: Reaction to halve damage from an attacker you can see
+- **Pact Magic**: 2 spell slots (4th level); **Spell Save DC 18**, **Spell Attack +10**
+- **Eldritch Invocations**: Agonizing Blast, Aspect of the Moon, Mask of Many Faces, Feral Transformation
 - **Fey Presence**: Charm or frighten in 10ft cube (1/rest)
 - **Misty Escape**: Turn invisible and teleport 60ft when damaged (1/rest)
 
@@ -109,7 +128,10 @@ A horrific yet fascinating merger of multiple elements:
 - **Headband of Intellect** (INT set to 19)
 - **Ring of Protection** (+1 AC and saves)
 - **Robe of Eyes** (enhanced perception in darkness)
+- **Studded Leather, +2**
 - **Shadow Dagger +2** (Finesse, can reappear in hand)
+- **Cape of Darkness**
+- **Chakram +6 (magical)**
 - **Sun Card** (From Deck of Many Things)
 - **Sharite Ceremonial Dagger** (Mysterious connection to Shar)
 

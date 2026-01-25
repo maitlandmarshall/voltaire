@@ -7,9 +7,11 @@
 ## Categories
 
 - Items: `Codex/Items/`
+  - `Codex/Items/Voltaire Inventory (D&D Beyond 2026-01-25).md`
 - Lore: `Codex/Lore/`
 - NPCs: `Codex/NPCs/`
 - Powers: `Codex/Powers/`
+  - `Codex/Powers/Voltaire Spell List (D&D Beyond 2026-01-25).md`
 - Places: `Codex/Places/`
   - `Codex/Places/Anauroch Triumvirate Temple - Mythallar Complex.md`
 - Factions: `Codex/Factions/`
