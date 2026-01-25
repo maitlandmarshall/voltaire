@@ -31,7 +31,7 @@ Keep session logs **chronological** (one timeline) and annotate knowledge bounda
 
 This repo maintains a stateful “Voltaire Codex” under `Codex/` as the canonical store of Voltaire’s remembered knowledge between sessions.
 
-- Put reference pages in the appropriate subfolder (`Codex/Items/`, `Codex/Lore/`, `Codex/NPCs/`, `Codex/Powers/`, `Codex/Places/`, `Codex/Factions/`).
+- Put reference pages in the appropriate subfolder (`Codex/Items/`, `Codex/Lore/`, `Codex/Characters/`, `Codex/Powers/`, `Codex/Places/`, `Codex/Factions/`).
 - When a session reveals new information, update the relevant Codex pages and clearly mark knowledge boundaries (use sections or inline tags like **[Party]** / **[Voltaire-only]** as appropriate).
 
 ### `Module/` handling
@@ -113,3 +113,8 @@ Before yielding, verify embedded images exist:
 - Prefer concise bullets for live notes; reserve paragraphs for lore summaries.
 - Use clear headings and avoid rewriting past entries unless asked.
 - Favor existing naming, tone, and conventions already present in this repo.
+
+## Git workflow
+
+- Never stage files (no `git add`) unless the user explicitly asks.
+- If any files are already staged, never unstage them (no `git reset`, no `git restore --staged`); treat the index as the user’s review queue.
