@@ -28,6 +28,10 @@ Glasya's relationship with [[Voltaire]] is one of amused tolerance and calculati
 *   **The Invitation**: Voltaire, in his grand proposal to [[Shar]], included Glasya on the guest list for his "Head-Space™" game. His reasoning was that she is "literate, inquisitive, and enjoys structured sin," and that she would appreciate his "quality literature." He sees her as an essential intellectual counterpoint for his game.
 *   **Current Status**: Upon returning from Shar's realm, Voltaire's first act was to seek out Glasya again, likely to boast of his "negotiations" and formally recruit her for the upcoming "trial." His obsession with gaining her approval and attention remains a primary motivator.
 
+## Recent Note
+
+- Voltaire attempted to call on Glasya for a favor to “bind” a summoned demon and shape it into “Zeppo” before attacking Cromash; it is **unknown** whether Glasya heard or responded.
+
 ## Inferred Motivations & Interests
 
 Glasya is a schemer who plays the long game. Her interest in Voltaire is unlikely to be whimsical.

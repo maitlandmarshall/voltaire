@@ -1,5 +1,7 @@
 #party-member #paladin #grûumsh #shar #noble
 
+![Cromash](./Cromash_portrait.png)
+
 **Title**: Lord of Palashaey
 **Class**: Paladin of Grûumsh
 **Affiliation**: The Party, Lord of Palashaey, Unwitting/Unwilling "Patron" of Shar's Realm

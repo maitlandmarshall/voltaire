@@ -15,10 +15,12 @@
 - Lore: `Codex/Lore/`
   - `Codex/Lore/Divine Rank 0.md`
   - `Codex/Lore/Fae.md`
+  - `Codex/Lore/Inspiration (House Rule).md`
   - `Codex/Lore/The Trial of Shar.md`
   - `Codex/Lore/Voltaire's Divine Blueprint.md`
 - NPCs: `Codex/NPCs/`
   - `Codex/NPCs/Blink Dog (Norhan’s).md`
+  - `Codex/NPCs/Quasit (Zeppo’s Claim).md`
   - `Codex/NPCs/Robin.md`
   - `Codex/NPCs/Shrek.md`
 - Powers: `Codex/Powers/`
