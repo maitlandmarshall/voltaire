@@ -4,6 +4,8 @@ _Prince-Emeritus of Swampy Repute, The Inephemeral Scribe_
 
 ![Voltaire](./Voltaire_portrait.png)
 
+![Voltaire with Robin](./Voltaire_portrait_robin.png)
+
 ## Latest Character Sheet (D&D Beyond)
 
 - PDF: `Voltaire/Character Sheets/Voltaire_131028470.pdf`
