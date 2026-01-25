@@ -14,6 +14,7 @@
   - `Codex/Items/Sun Card.md`
 - Lore: `Codex/Lore/`
   - `Codex/Lore/Divine Rank 0.md`
+  - `Codex/Lore/Explosive Swamp Frogs.md`
   - `Codex/Lore/Fae.md`
   - `Codex/Lore/Inspiration (House Rule).md`
   - `Codex/Lore/The Trial of Shar.md`
@@ -21,6 +22,8 @@
   - `Codex/Lore/Voltaire's Divine Blueprint.md`
 - NPCs: `Codex/NPCs/`
   - `Codex/NPCs/Blink Dog (Norhan’s).md`
+  - `Codex/NPCs/Gold Dragon (Westward Slayer).md`
+  - `Codex/NPCs/Green Dragon (Swamp Lake).md`
   - `Codex/NPCs/Halfling (Golden Sickle).md`
   - `Codex/NPCs/Quasit (Zeppo’s Claim).md`
   - `Codex/NPCs/Robin.md`
@@ -32,7 +35,10 @@
 - Places: `Codex/Places/`
   - `Codex/Places/Anauroch Triumvirate Temple - Mythallar Complex.md`
   - `Codex/Places/Circle of Dreams.md`
+  - `Codex/Places/Dellhalls.md`
+  - `Codex/Places/Dellhalls Northeast Swamp.md`
   - `Codex/Places/Head-Space.md`
+  - `Codex/Places/Palashaey.md`
   - `Codex/Places/Prime Material Plane.md`
   - `Codex/Places/Shadowfell.md`
   - `Codex/Places/Vasa.md`

@@ -6,6 +6,11 @@ An ancient underground temple complex beneath the Anauroch desert, dedicated to 
 
 ## Party Knowledge
 
+### Base Status
+
+- The party is treating the temple as a **home base**.
+- On **2026-01-25**, the party sets a procurement plan: travel to [[Palashaey]] to buy supplies/furnishings to make the temple feel **homely** and support ongoing operations.
+
 ### Location / Setting
 - Beneath the Anauroch desert (Faerûn).
 - Architecture: moonstone walls; abundant hanging plants (ivy, night shades, night roses, night orchids, etc.).

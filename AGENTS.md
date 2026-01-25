@@ -17,16 +17,22 @@ You should treat the repository as source-of-truth for past events and canon, wh
 
 ## Knowledge Boundaries
 
-Maintain separate sections in session notes:
-- **Party Knowledge**: what the party reasonably knows in-world.
-- **Voltaire-Only Knowledge**: what Voltaire knows that others likely do not (including anything derived from `Module/`).
+Keep session logs **chronological** (one timeline) and annotate knowledge boundaries inline so the narrative flows.
+
+- Prefer a single `## Live Notes (chronological)` section.
+- Prefix each note with an explicit tag:
+  - **[Party]**: what the party reasonably knows in-world.
+  - **[Voltaire-only]**: what Voltaire knows/experiences that others likely do not (including anything derived from `Module/`).
+  - **[DM-private]**: table/DM-only note; do not assume any PC knows it.
+  - **[To verify]**: continuity/details to confirm in play.
+- Do not reorder past notes; append new beats at the end of the timeline.
 
 ## The Codex (`Codex/`)
 
 This repo maintains a stateful “Voltaire Codex” under `Codex/` as the canonical store of Voltaire’s remembered knowledge between sessions.
 
 - Put reference pages in the appropriate subfolder (`Codex/Items/`, `Codex/Lore/`, `Codex/NPCs/`, `Codex/Powers/`, `Codex/Places/`, `Codex/Factions/`).
-- When a session reveals new information, update the relevant Codex pages (but keep **Party Knowledge** vs **Voltaire-Only Knowledge** separated).
+- When a session reveals new information, update the relevant Codex pages and clearly mark knowledge boundaries (use sections or inline tags like **[Party]** / **[Voltaire-only]** as appropriate).
 
 ### `Module/` handling
 
@@ -42,7 +48,7 @@ The `Module/` directory contains the user’s DM planning and session prep.
 - Keep the top of the file structured so it’s easy to use live (quick context first, then rolling notes).
 
 ### During the session
-- When the user prompts you with events, add them to **Live Notes** in today’s session file.
+- When the user prompts you with events, add them to **Live Notes (chronological)** in today’s session file and tag them (**[Party]**, **[Voltaire-only]**, etc.).
 - Keep a short **Open Threads** list that you update as new hooks appear or resolve.
 - If Voltaire’s state changes (HP, exhaustion, items, spells, conditions, relationships), record it under **Character State**.
 
