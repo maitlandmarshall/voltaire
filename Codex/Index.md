@@ -11,4 +11,5 @@
 - NPCs: `Codex/NPCs/`
 - Powers: `Codex/Powers/`
 - Places: `Codex/Places/`
+  - `Codex/Places/Anauroch Triumvirate Temple - Mythallar Complex.md`
 - Factions: `Codex/Factions/`
