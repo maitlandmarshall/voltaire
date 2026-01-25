@@ -1,4 +1,4 @@
-#party-member #bard #tiamat #insanity #player-jackson
+#party-member #bard #tiamat #insanity #player/jackson
 
 **Aliases**: Tamarac, Tamerenac
 **Affiliation**: The Party, Unwitting Agent of Tiamat

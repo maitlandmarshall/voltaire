@@ -1,4 +1,4 @@
-#party-member #tiefling #wings #player-norhan
+#party-member #tiefling #wings #player/norhan
 
 **Affiliation**: The Party
 **Race**: Tiefling

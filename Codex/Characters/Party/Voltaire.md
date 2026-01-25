@@ -1,4 +1,4 @@
-#voltaire #player-maitland
+#voltaire #player/maitland
 
 _Prince-Emeritus of Swampy Repute, The Inephemeral Scribe_
 

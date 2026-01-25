@@ -1,4 +1,4 @@
-#party-member #echo-knight #shar #player-tom
+#party-member #echo-knight #shar #player/tom
 
 ![Cornholio](./Cornholio_portrait.png)
 

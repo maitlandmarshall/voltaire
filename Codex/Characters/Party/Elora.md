@@ -1,4 +1,4 @@
-#party-member #fighter #archer #player-emily
+#party-member #fighter #archer #player/emily
 
 **Affiliation**: The Party
 **Known For**: Archery, impromptu arena combat, prophetic poetry

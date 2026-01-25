@@ -1,4 +1,4 @@
-#party-member #warlock #chronicler #player-matt
+#party-member #warlock #chronicler #player/matt
 
 **Affiliation**: The Party
 **Class**: Warlock
