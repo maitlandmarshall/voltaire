@@ -10,7 +10,7 @@ Fae are beings tied to strange laws of story, bargain, and place. They are not m
 
 ## Relevance to Voltaire
 
-- Voltaire was formerly a fae prince before being transformed into a variant human (see `Voltaire.md`).
+- Voltaire was formerly a fae prince before being transformed into a variant human (see `Codex/Characters/Party/Voltaire.md`).
 - Voltaire has used [[The Ink of Unbeing]] to overwrite fae “theological anchors,” replacing memories of their gods with memories of Voltaire (direct conversion).
 
 ## Open Questions

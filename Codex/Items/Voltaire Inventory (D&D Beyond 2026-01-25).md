@@ -1,8 +1,8 @@
 # Voltaire Inventory (D&D Beyond) — 2026-01-25
 
-_Source: `Voltaire/Character Sheets/Voltaire_131028470.pdf`_
+_Source: `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Voltaire_131028470.pdf`_
 
-_Extracted fields: `Voltaire/Character Sheets/Voltaire_131028470.md`_
+_Extracted fields: `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Voltaire_131028470.md`_
 
 ## Attuned
 

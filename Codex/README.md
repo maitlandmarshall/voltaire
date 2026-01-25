@@ -24,7 +24,7 @@ When writing/updating Codex pages, prefer to separate:
 
 - `Codex/Items/`
 - `Codex/Lore/`
-- `Codex/NPCs/`
+- `Codex/Characters/`
 - `Codex/Powers/`
 - `Codex/Places/`
 - `Codex/Factions/`

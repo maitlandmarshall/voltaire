@@ -1,9 +1,9 @@
 # The Scribe’s Folly
-## A gladiatorial escape one-shot inside [Voltaire](<../../Voltaire.md>)’s Head-Space™
+## A gladiatorial escape one-shot inside [Voltaire](<../../Codex/Characters/Party/Voltaire.md>)’s Head-Space™
 
 ### What this is
 
-This one-shot begins **directly after** `Adventures/2025-11-22.md`. The temple, the desert above it, and the campaign itself start to feel like *draft text*—as if reality has always been an annotated page inside [Voltaire](<../../Voltaire.md>)’s skull.
+This one-shot begins **directly after** `Adventures/2025-11-22.md`. The temple, the desert above it, and the campaign itself start to feel like *draft text*—as if reality has always been an annotated page inside [Voltaire](<../../Codex/Characters/Party/Voltaire.md>)’s skull.
 
 It opens with a massive, cinematic, **unwinnable** set-piece fight. The point isn’t “win or die”; the point is what the party manages to **protect, steal, learn, or prove** before Voltaire *captures them* for his arena.
 
