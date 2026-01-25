@@ -57,13 +57,22 @@ An ancient underground temple complex beneath the Anauroch desert, dedicated to 
 
 From the post-session lore notes (floor plans and key visuals):
 - [PostSessionLoreNotes](../../Adventures/2026-01-03/PostSessionLoreNotes.md)
-- [Floor plan image-3](../../Adventures/2026-01-03/image-3.png)
-- [Floor plan image-4](../../Adventures/2026-01-03/image-4.png)
-- [Floor plan image-5](../../Adventures/2026-01-03/image-5.png)
-- [Floor plan image-6](../../Adventures/2026-01-03/image-6.png)
-- [Floor plan image-7](../../Adventures/2026-01-03/image-7.png)
-- [Floor plan image-8](../../Adventures/2026-01-03/image-8.png)
-- [Floor plan image-9](../../Adventures/2026-01-03/image-9.png)
+
+### Floor Plans
+
+![Floor plan image-3](../../Adventures/2026-01-03/image-3.png)
+
+![Floor plan image-4](../../Adventures/2026-01-03/image-4.png)
+
+![Floor plan image-5](../../Adventures/2026-01-03/image-5.png)
+
+![Floor plan image-6](../../Adventures/2026-01-03/image-6.png)
+
+![Floor plan image-7](../../Adventures/2026-01-03/image-7.png)
+
+![Floor plan image-8](../../Adventures/2026-01-03/image-8.png)
+
+![Floor plan image-9](../../Adventures/2026-01-03/image-9.png)
 
 ## Voltaire-Only Knowledge (incl. `Module/`)
 
