@@ -1,0 +1,77 @@
+Scene 0:
+Lachlan - holds up his bag, and feels a bore hide that he sold.
+	he sold to a travelling merchant, in exchange for 10 gold and some wine.
+		Finds the borehide with  branding of a triangle
+
+"I've only known dishonesty and secularism"
+
+Jackabo - runeMemory
+	Rune Memory 1: “Despite the void, I feel a sense of belonging”
+	+ 1 Key-Tag
+	Rune Memory 2 (void replies): “The wind speaks in my voice, and it says: stay.”
+	"I hope to impart to this strange fellow, a feeling of reassurance and calm."
+
+Tommo -
+	"Throw me any of your trash." - in order to execute his secret goal.
+	Does anyone throw the trash?
+
+Scene 0 Favour
+	Norhan 10
+	Jackson 2
+	Lachlan 1
+	Tom 5
+	Emily 2
+	Christina 2
+
+Lachlan Rule
+	"Those who speak truly, act truly."
+	"Forgets where my tribe is from, the greater the sacrifice, the greater the reward"
+	Lachlan smuggled a member of the audience [roll for this]
+	Turn this plane into a plane of positive energy [the trial transcript]   Once total: declare one rule out loud. For 1 round, that rule becomes true physics (within reason).
+	
+
+Emily
+	Gate Clue Vision
+
+The Monster
+	420 - 20 - 8 = 392
+	392 - 16 = 378
+	378 - 22 = 358
+	358 - 34 = 322
+	322 - 31 - 13 = 278
+	278 + 30 = 312
+	312 - 11 + 9
+
+Norhan 
+	8 tokens
+	67 - 15 favour
+
+Lachy
+	0 Tokens 
+	5 Favour
+
+Matt
+	4 Favour
+	2 Tokens
+	51, 79, 12 d100 rolls for shop
+	
+Cristina
+	1 Token
+	Elder Brain, Selune, Unamed Gladiator
+
+Stu
+	52 Favour
+	2 Tokens
+
+	-5 Points to Make Zeppo a rival
+
+Initiative
+	Norhan - 24
+	Tommo - 22
+	Lachy - 17
+	Matt - 11
+	Chritinia - 8
+	Stu - 4
+	
+	
+	
