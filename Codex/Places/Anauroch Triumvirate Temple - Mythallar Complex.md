@@ -27,8 +27,9 @@ An ancient underground temple complex beneath the Anauroch desert, dedicated to 
 
 #### B4 — Shadowfell Gateway
 - A 15 ft tall aperture/gateway to **the Shadowfell**.
-- A large aspen tree (~100 ft) is visible just beyond; the tree appears heavily affected by Shadowfell/Shadow Weave energies.
+- A large aspen tree (~100 ft) is visible just beyond; the tree is on the **Shadowfell side** and appears heavily affected by Shadowfell/Shadow Weave energies.
 - Shadow essence observed on a collected leaf sample **diminishes on the Material Plane**.
+- The party later found Voltaire sitting under the tree, preaching to anthropomorphic shadows and proselytizing that Voltaire is a god (Voltaire only entered the gateway alongside [[Cornholio]]).
 
 #### B4 — Rose Garden & Chauntea Hive Room
 - A ~40 ft x 40 ft rose garden (red/white/yellow).
