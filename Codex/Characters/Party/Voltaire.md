@@ -1,4 +1,4 @@
-#voltaire
+#voltaire #player-maitland
 
 _Prince-Emeritus of Swampy Repute, The Inephemeral Scribe_
 
@@ -8,10 +8,11 @@ _Prince-Emeritus of Swampy Repute, The Inephemeral Scribe_
 
 ## Latest Character Sheet (D&D Beyond)
 
-- PDF: `Voltaire/Character Sheets/Voltaire_131028470.pdf`
-- Extracted fields + page renders: `Voltaire/Character Sheets/Voltaire_131028470.md`
+- PDF: `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Voltaire_131028470.pdf`
+- Extracted fields + page renders: `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Voltaire_131028470.md`
 - Inventory snapshot: `Codex/Items/Voltaire Inventory (D&D Beyond 2026-01-25).md`
 - Spell list snapshot: `Codex/Powers/Voltaire Spell List (D&D Beyond 2026-01-25).md`
+- Legacy paper notes extract: `Codex/Imports/Voltaire Paper Character Sheet (extract).md`
 
 ## Core Identity
 

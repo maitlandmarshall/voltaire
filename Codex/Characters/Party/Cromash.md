@@ -1,4 +1,4 @@
-#party-member #paladin #grûumsh #shar #noble
+#party-member #paladin #grûumsh #shar #noble #player-stu
 
 ![Cromash](./Cromash_portrait.png)
 
