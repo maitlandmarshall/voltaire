@@ -2,7 +2,7 @@
 
 #item #lore
 
-![Import motif](../Imports/Imports_motif.png)
+![Import motif](./Imports_motif.png)
 
 ## Summary
 
@@ -11,4 +11,3 @@
 ## Voltaire-Only Notes
 
 - **[To verify]** Are these literal stones inscribed with words of power, a currency/token, or a local term for runic markers?
-

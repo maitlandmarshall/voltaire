@@ -2,7 +2,7 @@
 
 #npc #wizard
 
-![Import motif](../Imports/Imports_motif.png)
+![Import motif](./Imports_motif.png)
 
 ## Summary
 
@@ -20,4 +20,3 @@ Hallister is noted on Voltaire’s paper character sheet as a “high level huma
 
 - Is this Halaster Blackcloak (Forgotten Realms) under a misspelling, or a different NPC?
 - How/when did Voltaire meet him?
-

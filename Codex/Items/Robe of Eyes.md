@@ -2,7 +2,7 @@
 
 #item #wondrous-item #attunement
 
-![Import motif](../Imports/Imports_motif.png)
+![Import motif](./Imports_motif.png)
 
 ## Summary
 
@@ -19,4 +19,3 @@ Voltaire’s attuned robe that enhances perception and provides many-eyed awaren
 ## Open Questions
 
 - Does this robe match the DMG item as written, or is it homebrewed?
-

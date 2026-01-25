@@ -1,6 +1,6 @@
 # Voltaire's D&D Notes pt2 — Entities to Promote
 
-_Source: `Codex/Imports/Voltaire's D&D Notes pt2 (extract).md`_
+_Source: `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Imports/Voltaire's D&D Notes pt2 (extract).md`_
 
 ![Import checklist](./Imports_motif.png)
 

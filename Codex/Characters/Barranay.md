@@ -2,7 +2,7 @@
 
 #npc #enemy
 
-![Import motif](../Imports/Imports_motif.png)
+![Import motif](./Imports_motif.png)
 
 ## Summary
 
@@ -15,4 +15,3 @@ Barranay is written on Voltaire’s paper sheet alongside hostile intent (“mus
 ## Open Questions
 
 - Is Barranay a person, a title, or a place?
-

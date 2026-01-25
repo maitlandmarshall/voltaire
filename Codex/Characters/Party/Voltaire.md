@@ -12,7 +12,7 @@ _Prince-Emeritus of Swampy Repute, The Inephemeral Scribe_
 - Extracted fields + page renders: `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Voltaire_131028470.md`
 - Inventory snapshot: `Codex/Items/Voltaire Inventory (D&D Beyond 2026-01-25).md`
 - Spell list snapshot: `Codex/Powers/Voltaire Spell List (D&D Beyond 2026-01-25).md`
-- Legacy paper notes extract: `Codex/Imports/Voltaire Paper Character Sheet (extract).md`
+- Legacy paper notes extract: `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Imports/Voltaire Paper Character Sheet (extract).md`
 
 ## Core Identity
 

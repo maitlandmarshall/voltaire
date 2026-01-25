@@ -2,7 +2,7 @@
 
 #item #weapon
 
-![Import motif](../Imports/Imports_motif.png)
+![Import motif](./Imports_motif.png)
 
 ## Summary
 
@@ -21,4 +21,3 @@ A named dagger recorded on Voltaire’s older paper sheet as “Onyx Hit Dgr of 
 
 - What is the dagger’s exact name/spelling (Onyx *Hit* vs Onyx *Hilt*)?
 - What is the returning mechanic at this table (bonus action recall, end-of-turn return, etc.)?
-

@@ -2,7 +2,7 @@
 
 #npc #enemy
 
-![Import motif](../Imports/Imports_motif.png)
+![Import motif](./Imports_motif.png)
 
 ## Summary
 
@@ -17,4 +17,3 @@ Richard Miranus is a name written in Voltaire’s paper-sheet notes alongside ho
 
 - Who is Richard (title/role/faction)?
 - What did Richard do to earn Voltaire’s kill intent?
-

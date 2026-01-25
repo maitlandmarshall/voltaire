@@ -2,7 +2,7 @@
 
 #item #wondrous-item #attunement
 
-![Import motif](../Imports/Imports_motif.png)
+![Import motif](./Imports_motif.png)
 
 ## Summary
 
@@ -11,4 +11,3 @@ Voltaire’s attuned headband that sets INT to 19 (see `Codex/Items/Voltaire Inv
 ## Voltaire-Only Notes
 
 - A paper-sheet stat block includes “INT 9/19”, consistent with a base INT of 9 and an item-set INT of 19.
-

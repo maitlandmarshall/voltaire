@@ -2,7 +2,7 @@
 
 #npc #swamp #eldritch
 
-![Import motif](../Imports/Imports_motif.png)
+![Import motif](./Imports_motif.png)
 
 ## Summary
 
@@ -16,4 +16,3 @@ Hastur is recorded on Voltaire’s paper sheet as the “Yellow King of Swamp,�
 ## Open Questions
 
 - Is this entity directly present in the campaign, or a thematic label Voltaire applied to the statue?
-

@@ -2,7 +2,7 @@
 
 #npc #enemy
 
-![Import motif](../Imports/Imports_motif.png)
+![Import motif](./Imports_motif.png)
 
 ## Summary
 
@@ -16,4 +16,3 @@
 ## Open Questions
 
 - Is Avang an NPC, a deity, a faction, or a location?
-

@@ -2,7 +2,7 @@
 
 #item #ring #attunement
 
-![Import motif](../Imports/Imports_motif.png)
+![Import motif](./Imports_motif.png)
 
 ## Summary
 
@@ -10,5 +10,4 @@ Voltaire’s attuned ring that improves defenses (see `Codex/Items/Voltaire Inve
 
 ## Voltaire-Only Notes
 
-- A paper-sheet note references cutting off a finger “to remove ring” (unclear context; see `Codex/Imports/Voltaire Paper Character Sheet (extract).md`).
-
+- A paper-sheet note references cutting off a finger “to remove ring” (unclear context; see `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Imports/Voltaire Paper Character Sheet (extract).md`).

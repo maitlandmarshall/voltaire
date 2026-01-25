@@ -2,7 +2,7 @@
 
 #npc #swamp #eldritch
 
-![Import motif](../Imports/Imports_motif.png)
+![Import motif](./Imports_motif.png)
 
 ## Summary
 
@@ -16,4 +16,3 @@ Nyarlathotep is recorded on Voltaire’s paper sheet as an ancient swamp-statue 
 ## Open Questions
 
 - Was Nyarlathotep’s “orb scripture” lost, removed, or never present?
-

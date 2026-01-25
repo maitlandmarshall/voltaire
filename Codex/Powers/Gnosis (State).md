@@ -2,7 +2,7 @@
 
 #power #psychology #quirk
 
-![Import motif](../Imports/Imports_motif.png)
+![Import motif](./Imports_motif.png)
 
 ## Summary
 
@@ -22,4 +22,3 @@
 
 - Is “Gnosis” a magical compulsion/curse, or just Voltaire’s chosen term for a mindset?
 - Does it have any mechanical impact (conditions, saves, etc.)?
-

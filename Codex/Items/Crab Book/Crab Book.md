@@ -2,7 +2,7 @@
 
 #item #crab-book
 
-![Import motif](../../Imports/Imports_motif.png)
+![Import motif](./Imports_motif.png)
 
 ## Summary
 

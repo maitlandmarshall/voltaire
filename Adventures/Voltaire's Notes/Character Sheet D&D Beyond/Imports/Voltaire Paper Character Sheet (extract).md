@@ -4,8 +4,8 @@
 
 ## Source Images
 
-- `Codex/Imports/Voltaire_paper_sheet_stats.jpeg`
-- `Codex/Imports/Voltaire_paper_sheet_notes.jpeg`
+- `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Imports/Voltaire_paper_sheet_stats.jpeg`
+- `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Imports/Voltaire_paper_sheet_notes.jpeg`
 - Originals: `Adventures/Voltaire's Notes/Character Sheet Paper/`
 
 ![Paper sheet (stats)](./Voltaire_paper_sheet_stats.jpeg)

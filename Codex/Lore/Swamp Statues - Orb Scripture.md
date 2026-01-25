@@ -2,7 +2,7 @@
 
 #lore #quest #swamp
 
-![Import motif](../Imports/Imports_motif.png)
+![Import motif](./Imports_motif.png)
 
 ## Summary
 
@@ -23,4 +23,3 @@ Voltaire’s paper-sheet notes record a “Statue Side Quest” in a swamp: thre
 - What is “orb scripture” (text inscribed on an orb, a fragment of a larger artifact, or a ritual key)?
 - Where are the two missing orb scriptures now?
 - How does this connect to Voltaire’s later relic/ink work?
-

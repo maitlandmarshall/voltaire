@@ -2,7 +2,7 @@
 
 #npc #crab-book
 
-![Import motif](../Imports/Imports_motif.png)
+![Import motif](./Imports_motif.png)
 
 ## Summary
 
@@ -23,4 +23,3 @@
 
 - Is Celsus the crab soul, the book identity, or a separate entity bound into it?
 - Can Celsus communicate independently (voice, writing, dreams)?
-

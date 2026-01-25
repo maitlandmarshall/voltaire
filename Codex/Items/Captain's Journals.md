@@ -2,7 +2,7 @@
 
 #item #document
 
-![Import motif](../Imports/Imports_motif.png)
+![Import motif](./Imports_motif.png)
 
 ## Summary
 
@@ -16,4 +16,3 @@ Two “Captain’s Journals” are listed in Voltaire’s paper-sheet notes.
 
 - Which captains do these belong to?
 - Do they contain coordinates, ship logs, or ritual notes?
-

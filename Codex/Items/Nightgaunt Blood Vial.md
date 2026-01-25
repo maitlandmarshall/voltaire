@@ -2,7 +2,7 @@
 
 #item #consumable #blood
 
-![Import motif](../Imports/Imports_motif.png)
+![Import motif](./Imports_motif.png)
 
 ## Summary
 
@@ -12,4 +12,3 @@ A vial of nightgaunt blood noted on Voltaire’s paper character sheet.
 
 - Was the blood used as ink (Crab Book / Ink of Unbeing), a spell component, or a trophy?
 - Is the vial still in Voltaire’s possession?
-

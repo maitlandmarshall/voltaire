@@ -2,7 +2,7 @@
 
 #item #crafting #ink
 
-![Import motif](../Imports/Imports_motif.png)
+![Import motif](./Imports_motif.png)
 
 ## Summary
 
@@ -16,4 +16,3 @@ A stock of “hellhound ink bricks” recorded in Voltaire’s paper-sheet notes
 
 - Written adjacent to body/ritual notes (“slice through the skin on my left chest”).
 - **[To verify]** Composition and whether this is literal hellhound blood, a hardened ink medium, or both.
-

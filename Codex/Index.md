@@ -3,10 +3,10 @@
 - Start here: `Codex/README.md`
 - Character sheet: `Codex/Characters/Party/Voltaire.md`
 - High-level compendium: `Overview.md`
-- Imports: `Codex/Imports/`
-  - `Codex/Imports/Voltaire's D&D Notes pt2 (extract).md`
-  - `Codex/Imports/Voltaire's D&D Notes pt2 (entities).md`
-  - `Codex/Imports/Voltaire Paper Character Sheet (extract).md`
+- Imports: `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Imports/`
+  - `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Imports/Voltaire's D&D Notes pt2 (extract).md`
+  - `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Imports/Voltaire's D&D Notes pt2 (entities).md`
+  - `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Imports/Voltaire Paper Character Sheet (extract).md`
 
 ## Categories
 

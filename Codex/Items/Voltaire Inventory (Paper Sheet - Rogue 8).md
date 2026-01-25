@@ -1,8 +1,8 @@
 # Voltaire Inventory (Paper Sheet) — Rogue 8 snapshot
 
-_Source: `Codex/Imports/Voltaire Paper Character Sheet (extract).md`_
+_Source: `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Imports/Voltaire Paper Character Sheet (extract).md`_
 
-![Import motif](../Imports/Imports_motif.png)
+![Import motif](./Imports_motif.png)
 
 This is a **historical** inventory snapshot from Voltaire’s earlier paper character sheet. It is incomplete and should not be treated as current.
 
@@ -20,4 +20,3 @@ This is a **historical** inventory snapshot from Voltaire’s earlier paper char
 
 - [[Headband of Intellect]] (from “INT 9/19”)
 - [[Ring of Protection]] (from “cut off finger to remove ring” note; referent unclear)
-

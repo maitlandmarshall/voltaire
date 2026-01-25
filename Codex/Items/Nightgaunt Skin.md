@@ -2,7 +2,7 @@
 
 #item #trophy #skin
 
-![Import motif](../Imports/Imports_motif.png)
+![Import motif](./Imports_motif.png)
 
 ## Summary
 
@@ -11,4 +11,3 @@
 ## Voltaire-Only Notes
 
 - **[To verify]** Whether this refers to an actual Nightgaunt (as in the shadow-creature Voltaire rode into Shar’s realm) or a different creature name at this table.
-
