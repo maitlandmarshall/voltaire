@@ -37,3 +37,7 @@ Yennefer developed a conflict with a blue-skinned Tiefling from Sigil named **Sh
 *   **Criminal Contacts**: Possesses connections within the criminal underworld, which she used to contact the Harpers.
 *   **Purple Kiss Mark**: A divine mark from Shar that is pushing her towards a future encounter with the Raven Queen.
 *   **Tony the Lizard**: An awakened pet lizard that Yennefer is attempting to train (or brainwash) through questionable methods.
+
+## Notes (recent)
+
+- Yennefer asked Voltaire to (forcefully) make Norhan’s blink dog into a follower of Norhan; Voltaire complied but added fine print so the dog also worships Voltaire. See [[Blink Dog (Norhan’s)]].

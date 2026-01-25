@@ -18,6 +18,7 @@
   - `Codex/Lore/The Trial of Shar.md`
   - `Codex/Lore/Voltaire's Divine Blueprint.md`
 - NPCs: `Codex/NPCs/`
+  - `Codex/NPCs/Blink Dog (Norhan’s).md`
   - `Codex/NPCs/Robin.md`
   - `Codex/NPCs/Shrek.md`
 - Powers: `Codex/Powers/`
