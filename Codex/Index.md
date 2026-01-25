@@ -17,9 +17,11 @@
   - `Codex/Lore/Fae.md`
   - `Codex/Lore/Inspiration (House Rule).md`
   - `Codex/Lore/The Trial of Shar.md`
+  - `Codex/Lore/Titania.md`
   - `Codex/Lore/Voltaire's Divine Blueprint.md`
 - NPCs: `Codex/NPCs/`
   - `Codex/NPCs/Blink Dog (Norhan’s).md`
+  - `Codex/NPCs/Halfling (Golden Sickle).md`
   - `Codex/NPCs/Quasit (Zeppo’s Claim).md`
   - `Codex/NPCs/Robin.md`
   - `Codex/NPCs/Shrek.md`
@@ -29,9 +31,11 @@
   - `Codex/Powers/Voltaire Spell List (D&D Beyond 2026-01-25).md`
 - Places: `Codex/Places/`
   - `Codex/Places/Anauroch Triumvirate Temple - Mythallar Complex.md`
+  - `Codex/Places/Circle of Dreams.md`
   - `Codex/Places/Head-Space.md`
   - `Codex/Places/Prime Material Plane.md`
   - `Codex/Places/Shadowfell.md`
+  - `Codex/Places/Vasa.md`
   - `Codex/Places/Void Realm.md`
 - Factions: `Codex/Factions/`
   - `Codex/Factions/Voltaire's Followers.md`

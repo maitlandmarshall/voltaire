@@ -4,6 +4,8 @@
 
 ![Quasit](./Quasit_Zeppo_ref.png)
 
+![Voltaire offers a soul coin in a deal](./Quasit_Zeppo_soulcoin_deal.png)
+
 ## Summary
 
 A quasit summoned by Voltaire (with an attempted request to [[Glasya]] to “bind” it) which appeared before [[Cromash]] and attacked, claiming it had been sent by “Zeppo.”

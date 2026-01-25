@@ -19,6 +19,9 @@ Robin is Voltaire’s “Sun Card” turned disciple: a luminous, Tinkerbell-lik
 - **Void realm test**: Robin followed Voltaire into a “void realm” where hordes of monsters were visible approaching; Robin retreated with Voltaire.
 - Robin speaks quietly to Voltaire (e.g., commenting on the aspen tree’s “lovely noise” on the Shadowfell side of the gateway).
 - Robin’s glow can change in response to the local “grace”/ambience (observed becoming more contained during Voltaire’s silent meditation under the Shadowfell aspen).
+- Robin bows to [[Titania]]’s statue and speaks of the **Circle of Dreams** area as if it has layered counterparts.
+  - Robin claims this area looks the same as the [[Prime Material Plane]], while its version in the Faerealm is **much grander**.
+  - Robin claims the Faerealm version is still abandoned, but **not as desolate** as it was in the Material realm, and that the Faerealm is **cyclic**—people may return.
 
 ## Open Questions
 
