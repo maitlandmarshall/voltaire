@@ -49,6 +49,59 @@ The `Module/` directory contains the user’s DM planning and session prep.
 ### After the session (optional)
 - Create or update a dated subfolder under `Adventures/YYYY-MM-DD/` for screenshots, maps, and longer “lore notes” if the user asks.
 
+## Images & Visual Continuity (default on)
+
+Adventure logs and Codex pages should be visual by default (think “interactive comic”).
+
+### Minimum cadence
+
+- **Adventure logs (`Adventures/*.md`)**: generate and embed images for every meaningful scene/beat.
+  - Typical: **1–3 images per scene**.
+  - Major reveal/combat/ritual: **2–4 images**.
+- **Codex entries (`Codex/**/*.md`)**: every Codex page must embed **at least one canonical reference image** near the top of the page.
+
+### Panel patterns (recommended)
+
+- New scene/location: **wide/establishing** shot, then **detail/close-up**.
+  - Example: Voltaire meditating under the Shadowfell aspen = wide shot of Voltaire + tree + shadows, followed by a close-up (e.g., the umbral sunflowers).
+- Dialogue: a **character** panel emphasizing expression/body language.
+- Action: a single **impact** panel (spell release, hit lands, door breaks, betrayal revealed).
+
+### Where images live
+
+- **Adventure session assets**: store under `Adventures/YYYY-MM-DD/` and embed from the session log using relative paths, e.g.:
+  - `![Caption](./YYYY-MM-DD/filename.png)`
+- **Codex entry reference images**: store **next to the `.md`** when possible so links remain stable, e.g.:
+  - `Codex/Places/<Place>.md` + `Codex/Places/<Place>_establishing.png`
+
+### Filenames (suggested)
+
+- Character: `<Name>_portrait.png`
+- Location: `<Name>_establishing.png`
+- Item: `<Name>_ref.png`
+- Faction: `<Name>_sigil.png`
+- Scene panel (session): `YYYY-MM-DD_<slug>.png` (stored in `Adventures/YYYY-MM-DD/`)
+
+### How to generate images
+
+Use the repo skill at `.codex/skills/openai-image-gen/`:
+- `python3 .codex/skills/openai-image-gen/scripts/generate_image.py --prompt "..." --out "..."` (single image)
+- `python3 .codex/skills/openai-image-gen/scripts/generate_panel.py ...` (when using reference images for continuity)
+
+### Visual continuity (use reference images)
+
+When an entity already has a canonical image, treat it as a **reference** and keep visuals consistent scene-to-scene:
+
+- Prefer `generate_panel.py` when a panel includes known entities; it’s the default path to keep recurring visuals stable.
+- For known entities (character/location/item/faction/companion), pass their canonical image(s) as `--input-image` so the model anchors on established shapes, palettes, and motifs.
+- If a scene is “about” a place or object, include that place/object’s Codex header image as a reference even if it’s not the main subject (e.g., the Shadowfell aspen grove ambience, the umbral sunflowers motif).
+- On first introduction of a new entity, create a Codex entry **and** generate its canonical reference image immediately so future panels can reuse it.
+
+### Verification
+
+Before yielding, verify embedded images exist:
+- `python3 .codex/skills/openai-image-gen/scripts/verify_markdown_images.py <md files...>`
+
 ## Style
 
 - Prefer concise bullets for live notes; reserve paragraphs for lore summaries.
