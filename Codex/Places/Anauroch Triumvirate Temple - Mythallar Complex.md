@@ -34,8 +34,12 @@ An ancient underground temple complex beneath the Anauroch desert, dedicated to 
 - Later, during a period of quiet proselytizing/meditation under the aspen, Voltaire attempted to “interpret the wind as language,” hearing it as calm blissful humming and humming back in resonance.
 - In Voltaire’s presence, lesser shadows melted into the ground; from those spots, flowers grew in the form of ~8 ft tall sunflowers, but a deep umbral purple.
 - Three “lesser shades” drifted up into the aspen’s branches and vanished from sight.
+- Voltaire climbed the aspen and sensed it **growing/expanding** (aura widening), and that lesser shades now **habitate within** the tree.
+- Voltaire carved the follower sigil into the trunk; the mark sank/aged into the bark as if it had always been there. See [[Voltaire's Followers]].
 
 ![Umbral sunflowers suffused with shadowweave](../../Adventures/2026-01-25/umbral-sunflowers-shadowweave.png)
+
+![The sigil sinks into the bark (close-up)](../../Adventures/2026-01-25/2026-01-25_aspen-sigil-carving_close.png)
 
 #### B4 — Rose Garden & Chauntea Hive Room
 - A ~40 ft x 40 ft rose garden (red/white/yellow).
