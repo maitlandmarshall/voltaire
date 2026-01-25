@@ -1,5 +1,7 @@
 #ability #memory #tattoo #sharimythal
 
+![The Ink of Unbeing](./The_Ink_of_Unbeing_ref.png)
+
 **Origin**: "Gift of the House Sharimythal"
 **Associated Role**: "The Inephemeral Scribe"
 
@@ -30,3 +32,12 @@ This power is deeply intertwined with [[Voltaire]]'s entire being, even if he is
 *   **The Tattoos**: Voltaire is already covered in tattoos. It's possible some of them are forgotten memories—his own or others'—that he has inscribed on himself in the past.
 *   **House Sharimythal**: The name of the house associated with this power is strikingly similar to **Shar**. This implies the power may originate from her, be a splinter sect, or be a title she bestows. This makes Voltaire's potential as The Scribe of immense interest to the Lady of Loss.
 *   **The Trial**: This ability is a perfect tool or test for the "game/trial" Shar is facilitating. She may task him with using it to prove his worth or understanding.
+
+## Known Uses (in-play)
+
+- **Fae conversion**: Voltaire transplanted/replaced the memories of two fae creatures, overwriting their memories of their gods with memories of Voltaire.
+- **“Fine print” conversion**: Voltaire created a note using the Ink that contained real/useful knowledge (e.g., treasure/location). [[Shrek]] accepted it; hidden fine print bound belief in Voltaire.
+
+## Speculation / Intent (not yet confirmed as executed)
+
+- Voltaire has proposed a strategy of repeatedly using `Summon Greater Demon`, commanding compliance, and using memory transference to implant worship and scale influence across realms.

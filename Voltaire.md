@@ -2,6 +2,8 @@
 
 _Prince-Emeritus of Swampy Repute, The Inephemeral Scribe_
 
+![Voltaire](./Voltaire_portrait.png)
+
 ## Latest Character Sheet (D&D Beyond)
 
 - PDF: `Voltaire/Character Sheets/Voltaire_131028470.pdf`
@@ -71,7 +73,10 @@ A powerful wizard named Greg later used Voltaire (under the influence of a potio
 
 - **Universal Language**: Can read, write, and understand ALL languages (unconscious ability)
 - **Sun Card Power**: 6d8 radiant damage blast from the Deck of Many Things
+- **Divine Rank 0**: Recorded as [[Divine Rank 0]]; see also [[Voltaire's Followers]].
 - **Self-Patronage**: Acts as his own Warlock patron
+- **Book-Scent Synesthesia**: Can smell books and sense the author’s first-person experience at the time of writing (see [[Book-Scent Synesthesia (Author-Sense)]]).
+- **Exhaustion recovery change**: No longer requires food/drink intake to reduce exhaustion; a long rest is sufficient (as observed in notes).
 - **Book of Rituals**: Living crab-book bound to his tail that:
     - Consumes skin to absorb memories
     - Contains spells written in various creature bloods
@@ -149,7 +154,7 @@ Potentially connected to the role of "The Inephemeral Scribe":
 
 - **High Intelligence, Low Wisdom**: Brilliantly understands complex systems but applies knowledge with catastrophically poor judgment
 - **Self-Worship**: Considers himself his own patron deity
-- **Chaotic Neutral**: Driven by whim and intellectual curiosity rather than morality
+- **Chaotic Good (per latest sheet)**: Driven by whim and intellectual curiosity rather than morality
 - **Memory Issues**: Has forgotten much of his past, particularly his Fae heritage
 
 ### Behavioral Patterns

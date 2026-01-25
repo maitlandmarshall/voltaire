@@ -1,9 +1,14 @@
 #party-member #echo-knight #shar
 
-**Aliases**: Shrek
+![Cornholio](./Cornholio_portrait.png)
+
 **Affiliation**: The Party, Chosen of Shar
 
 A key member of the party, Cornholio is an Echo Knight whose destiny has become deeply and bizarrely intertwined with that of [[Shar]], the Goddess of Loss. He serves as both a formidable ally and a direct, personal link to one of the most powerful and enigmatic beings in the cosmos.
+
+## Companion: Shrek
+
+Shrek is not Cornholio; Shrek is Cornholio’s donkey made anthropomorphic via magic/items, with green fur (hence the nickname). See [[Shrek]].
 
 ## Narrative Arc & Key Events
 

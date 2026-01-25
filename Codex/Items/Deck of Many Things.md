@@ -1,5 +1,7 @@
 #artifact #chaos
 
+![Deck of Many Things](./Deck_of_Many_Things_ref.png)
+
 **Type**: Wondrous Item, Legendary Artifact
 **Known For**: Game-altering, reality-bending effects; extreme risk vs. reward
 
@@ -22,8 +24,12 @@ In a more recent session, [[Voltaire]]'s fate once again became entangled with t
 
 ## Relationship with Voltaire
 
-The Deck is not an item [[Voltaire]] currently possesses, but its influence is permanently woven into his soul.
+The full Deck is not an item [[Voltaire]] currently possesses, but its influence is permanently woven into his soul.
 *   **Agent of Transformation**: It is the direct cause of his fall from grace and his subsequent rise in power.
 *   **Source of Trauma & Power**: It represents both the worst and best things that have ever happened to him, a duality that perfectly reflects his chaotic nature.
 *   **Chaotic Affinity**: His strong connection to the Deck may be the source of his own burgeoning, god-like chaotic neutral energy. He seems to resonate with its reality-bending properties.
 *   **The Bet**: His memory of the first draw—"the last bet I lost"—has become a core part of his personality, a foundational anecdote he uses to justify his love of high-stakes wagers, such as the one he proposed to [[Shar]].
+
+## Note on the Sun Card (current state)
+
+- Voltaire retains the **Sun Card** as an active artifact/power source and has used it in experiments (including the creation of [[Robin]]). The exact metaphysics of “feeding the card” vs. the card remaining in Voltaire’s possession depend on table rulings.

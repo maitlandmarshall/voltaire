@@ -30,6 +30,7 @@ An ancient underground temple complex beneath the Anauroch desert, dedicated to 
 - A large aspen tree (~100 ft) is visible just beyond; the tree is on the **Shadowfell side** and appears heavily affected by Shadowfell/Shadow Weave energies.
 - Shadow essence observed on a collected leaf sample **diminishes on the Material Plane**.
 - The party later found Voltaire sitting under the tree, preaching to anthropomorphic shadows and proselytizing that Voltaire is a god (Voltaire only entered the gateway alongside [[Cornholio]]).
+- Scene panel (wide): ![Shadowfell aspen meditation (wide)](../../Adventures/2026-01-25/2026-01-25_shadowfell-aspen-meditation_wide.png)
 - Later, during a period of quiet proselytizing/meditation under the aspen, Voltaire attempted to “interpret the wind as language,” hearing it as calm blissful humming and humming back in resonance.
 - In Voltaire’s presence, lesser shadows melted into the ground; from those spots, flowers grew in the form of ~8 ft tall sunflowers, but a deep umbral purple.
 - Three “lesser shades” drifted up into the aspen’s branches and vanished from sight.
