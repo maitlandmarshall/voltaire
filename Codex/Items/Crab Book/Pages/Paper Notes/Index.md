@@ -1,0 +1,47 @@
+# Paper Notes Index (Voltaire’s Diary of Insanity)
+
+#crab-book #paper-notes
+
+These pages are **imports** from Voltaire’s original paper notes (photos in `Adventures/Voltaire's Notes/Session Notes aka Voltaires Diary of Insanity/`).
+
+## Pages
+
+- [[IMG_2605 (2023-06-15)]]
+- [[IMG_2606 (2024-05-11)]]
+- [[IMG_2607 (2025-03-29)]]
+- [[IMG_2608 (2025-02-01)]]
+- [[IMG_2609 (undated)]]
+- [[IMG_2610 (undated)]]
+- [[IMG_2611 (undated)]]
+- [[IMG_2612 (undated)]]
+- [[IMG_2613 (undated)]]
+- [[IMG_2614 (undated)]]
+- [[IMG_2615 (undated)]]
+- [[IMG_2616 (undated)]]
+- [[IMG_2617 (undated)]]
+- [[IMG_2618 (undated)]]
+- [[IMG_2619 (undated)]]
+- [[IMG_2620 (undated)]]
+- [[IMG_2621 (undated)]]
+- [[IMG_2622 (2022-11-26)]]
+- [[IMG_2623 (2022-11-26 and 2022-12-02)]]
+- [[IMG_2624 (2022-12-03)]]
+- [[IMG_2625 (undated)]]
+- [[IMG_2626 (2022-12-15)]]
+- [[IMG_2627 (2022-12-21)]]
+- [[IMG_2628 (2023-04-22)]]
+- [[IMG_2629 (undated)]]
+- [[IMG_2630 (2023-05-19)]]
+- [[IMG_2631 (undated)]]
+- [[IMG_2632 (2023-06-21)]]
+- [[IMG_2633 (undated)]]
+- [[IMG_2634 (2023-07-29)]]
+- [[IMG_2635 (2024-02-18)]]
+- [[IMG_2636 (2024-06-06)]]
+- [[IMG_2637 (late-2024)]]
+- [[IMG_2638 (2025-05-05)]]
+- [[IMG_2639 (undated)]]
+- [[IMG_2640 (2023-06-14)]]
+- [[IMG_2641 (undated)]]
+- [[IMG_2642 (2025-09-07)]]
+- [[IMG_2643 (2025-11-01)]]

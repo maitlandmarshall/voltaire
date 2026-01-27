@@ -7,6 +7,14 @@
 
 The Ink of Unbeing is not a physical item but a profound magical ability related to the transference and erasure of memory. Revealed to [[Voltaire]] by the DM following his encounter with [[Shar]], this power is thematically linked to the goddess's portfolio of loss and secrets and seems to be a latent part of Voltaire's destiny. It provides a potential in-universe explanation for the mechanics of his [[Crab Book|crab-book-tail]] and his affinity for tattoos.
 
+## Primary Text (DM-provided excerpt)
+
+> “He bears the Book of Hollow Binding, bound in soul-thread vellum, whose pages hunger for memory like roots seek rain. With a pen carved from the voidbone of his former self, he may draw forth a memory—from flesh warm or cold, whisper or scream—and inscribe it into the book.
+>
+> In the writing, the memory is made fleshless truth. Then, by ink reversed upon skin, he tattoos that memory upon another—**to bless with forgetfulness or curse with eternal recall**.
+>
+> The Scribe does not steal; he transfers. The book does not store; it remembers. And he, the Sharimythal, does not judge—he **decides**.”
+
 ## The Mechanism
 
 The process of using the Ink of Unbeing is described as a specific, ritualistic sequence:
@@ -42,3 +50,4 @@ This power is deeply intertwined with [[Voltaire]]'s entire being, even if he is
 ## Speculation / Intent (not yet confirmed as executed)
 
 - Voltaire has proposed a strategy of repeatedly using `Summon Greater Demon`, commanding compliance, and using memory transference to implant worship and scale influence across realms.
+- **[Voltaire-only] (paper note; unconfirmed)** Voltaire claimed to have extracted/possessed a memory of “killing the Raven Queen for Shar” (source: “Mothman”) and planned to implant it into someone via the book (**[To verify]** whether this was a joke, a vision, or an in-play event).

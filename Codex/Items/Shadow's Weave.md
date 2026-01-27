@@ -7,11 +7,11 @@ The *Shadow's Weave* is a powerful divine artifact granted to [[Cornholio]] by [
 
 ## Origin: The Transformation
 
-This artifact was not found, but forged through an act of devotion. Its original form was a **"Curious golden tiara"** with a greenish hue, found by [[Cornholio]] in an elven bone puzzle box (which was later revealed to bear a tiny Harper symbol). The tiara was made of "outsider gold" and was identified as part of the `Implements of Mother Hydra`.
+This artifact was not found, but forged through an act of devotion. Its original form was a **"Curious golden tiara"** with a greenish hue, found by [[Cornholio]] in an elven bone puzzle box (which was later revealed to bear a tiny Harper symbol). The tiara was identified as **[[Hydra's Veil]]** and was made of **[[Outsider Gold]]** as part of the **[[Implements of Mother Hydra]]** set.
 
 During the party's adventures in the tunnels beneath [[Palischuk]], they cleansed a defiled area, restoring it as a shrine to [[Shar]]. In this sacred space, [[Cornholio]] placed the tiara upon a statue of the goddess. [[Shar]]'s power answered, transforming the item instantly:
 *   The large central **ruby** was transmuted into a **moonstone**.
-*   The "outsider gold" was purified into a silver/mithril alloy now known as **"lunar silver."**
+*   The outsider gold was purified into a silver/mithril alloy now known as **[[Lunar Silver]].**
 
 Upon placing the newly-forged *Shadow's Weave* upon his own head, [[Cornholio]] felt his connection to [[Shar]] solidify.
 

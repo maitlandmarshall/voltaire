@@ -16,3 +16,4 @@ Titania is an archfey figure whose presence is marked (at least here) by an enor
 
 - Is Titania actively involved, or is this an old marker/ward?
 - What “dream rules” apply in the Circle of Dreams?
+- **[To verify] (paper notes)** Voltaire wrote “Lady Titrania” / “Throne Titrania” in older notes; may be Titania misspelling or a distinct figure.

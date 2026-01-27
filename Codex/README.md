@@ -33,4 +33,4 @@ When writing/updating Codex pages, prefer to separate:
 
 - Prefer one concept per file.
 - Keep filenames human-readable (spaces are OK; match existing style).
-- Use wikilinks (`[[Like This]]`) for cross-references; use path links only when needed.
+- Use wikilinks (double-bracket links) for cross-references; use path links only when needed.

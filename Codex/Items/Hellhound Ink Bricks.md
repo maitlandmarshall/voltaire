@@ -16,3 +16,7 @@ A stock of “hellhound ink bricks” recorded in Voltaire’s paper-sheet notes
 
 - Written adjacent to body/ritual notes (“slice through the skin on my left chest”).
 - **[To verify]** Composition and whether this is literal hellhound blood, a hardened ink medium, or both.
+
+## In-Play Use (as later recorded)
+
+- During the confrontation where [[Glasya]] was closing a hole in reality, Voltaire used a quill/pen with hellhound ink to draw a new enclosing circle and sealed it with the word of power **[[Word of Power - Fall]]** (noted as occurring “all in 6 seconds”).

@@ -18,6 +18,11 @@ Cornholio's journey has been marked by a significant transformation from a somew
 
 While investigating tunnels beneath [[Palischuk]], Cornholio discovered a curious golden tiara in an elven-style bone box. This discovery triggered a series of prophetic visions. After interacting with a divine scroll, he experienced a vision of being deep underwater, with moonlight shining down and countless red eyes looking up at him—a clear foreshadowing of his connection to [[Shar]].
 
+Additional notes (chronicle fragments):
+
+*   Cornholio attempted to subtly pocket uncut star rubies from a trapped cache; the party noticed.
+*   He uses a [[Magical Spyglass]] that reveals “glows” and “dead zones” (interpreted as faezress/wild magic/null zones).
+
 ### The Shrine & The Transformation
 
 The party later discovered a defiled area that, once cleansed, was revealed to be a lost shrine to [[Shar]]. In a pivotal moment, Cornholio took the golden tiara, fitted it with the necessary gems, and placed it upon a statue of the goddess. The item was transformed into the **[[Shadow's Weave]]**, a powerful silver/mithril circlet. Upon placing it on his own head, he felt an immediate, profound connection to Shar, gaining a raven guide and enhanced senses.
@@ -38,4 +43,4 @@ Voltaire perceives Cornholio with a mix of camaraderie and strategic interest. H
 *   **Chosen of Shar**: Holds the official status as Shar's favorite mortal, granting him a direct line to her and likely other, as-yet-unseen boons.
 *   **[[Shadow's Weave]]**: A magical tiara that provides a raven guide, enhanced darkvision, and allows him to level as a Cleric of Shar.
 *   **[[Shadow's Fell]]**: A transformed staff granting various darkness-themed spells and a radiant damage attack.
-*   **Warlock's Stone**: A paired sending stone that also acts as a teleportation anchor, given to him by the Warlock Knights.
+*   **[[Warlock's Stone]]**: A paired sending stone that also acts as a teleportation anchor, given to him by the Warlock Knights.

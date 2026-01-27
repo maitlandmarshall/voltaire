@@ -11,7 +11,7 @@ Elora's key moments often involve her being a willing participant in the party's
 
 ### Abeil Arena Champion
 
-During the party's downtime in the Abeil Hive City, Elora wasted no time in testing her mettle. She actively participated in impromptu arena battles against the Abeil guards, establishing herself as a capable and fearless combatant among the fey-like bee creatures.
+During the party's downtime in the [[Abeil Hive City]], Elora wasted no time in testing her mettle. She actively participated in impromptu arena battles against the Abeil guards, establishing herself as a capable and fearless combatant among the fey-like bee creatures.
 
 ### The Vision of Moon and Blood
 
@@ -39,5 +39,5 @@ In combat situations, Elora is often at the forefront, using her archery to cont
 ## Notable Abilities & Possessions
 
 *   **Master Archer**: Her primary and most noted skill is her deadly accuracy with a bow.
-*   **Corpse Mushrooms**: During her time in the Abeil Hive City, she "made off with as many bags as she can carry" of these unique fungi, showing a resourceful and opportunistic nature.
+*   **Corpse Mushrooms**: During her time in the [[Abeil Hive City]], she "made off with as many bags as she can carry" of these unique fungi, showing a resourceful and opportunistic nature.
 *   **Prophetic Receptiveness**: Unlike some of her more cynical or cautious companions, she seems open to interacting with strange divine artifacts, making her a potential conduit for visions and prophecies.

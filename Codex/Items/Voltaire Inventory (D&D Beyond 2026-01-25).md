@@ -6,25 +6,25 @@ _Extracted fields: `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Volta
 
 ## Attuned
 
-- Headband of Intellect
-- Ring of Protection
-- Robe of Eyes
+- [[Headband of Intellect]]
+- [[Ring of Protection]]
+- [[Robe of Eyes]]
 
 ## Equipment
 
 | # | Item | Qty | Weight |
 |---:|---|---:|---:|
-| 0 | Headband of Intellect | 1 | -- |
-| 1 | Ring of Protection | 1 | -- |
-| 2 | Robe of Eyes | 1 | -- |
-| 3 | Studded Leather, +2 | 1 | 13 lb. |
-| 4 | Shadow Dagger+2 | 1 | 1 lb. |
-| 5 | Shadow Dagger+2 | 1 | 1 lb. |
-| 6 | Cape of Darkness | 1 | -- |
-| 7 | Pole of Collapsing | 1 | -- |
-| 8 | Sun Card | 1 | -- |
-| 9 | Familiar Ring from Glacier | 1 | -- |
-| 10 | Chakram +6 (magical) | 1 | -- |
+| 0 | [[Headband of Intellect]] | 1 | -- |
+| 1 | [[Ring of Protection]] | 1 | -- |
+| 2 | [[Robe of Eyes]] | 1 | -- |
+| 3 | [[Studded Leather, +2]] | 1 | 13 lb. |
+| 4 | [[Shadow Dagger+2]] | 1 | 1 lb. |
+| 5 | [[Shadow Dagger+2]] | 1 | 1 lb. |
+| 6 | [[Cape of Darkness]] | 1 | -- |
+| 7 | [[Pole of Collapsing]] | 1 | -- |
+| 8 | [[Sun Card]] | 1 | -- |
+| 9 | [[Familiar Ring from Glacier]] | 1 | -- |
+| 10 | [[Chakram +6 (magical)]] | 1 | -- |
 | 11 | Shortbow | 1 | 2 lb. |
 | 12 | Arrows | 20 | 1 lb. |
 | 13 | Backpack | 1 | 5 lb. |
@@ -53,9 +53,9 @@ _Extracted fields: `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Volta
 | 36 | Tinderbox | 1 | 1 lb. |
 | 37 | Waterskin | 1 | 5 lb. |
 | 38 | String | 10 | -- |
-| 39 | Cornholios Magic Jam | 1 | -- |
-| 40 | Green Tiefling Tentacles of Minoris | 3 | -- |
-| 41 | Silver Coin with Voltaires face on it | 1 | -- |
+| 39 | [[Cornholios Magic Jam]] | 1 | -- |
+| 40 | [[Green Tiefling Tentacles of Minoris]] | 3 | -- |
+| 41 | [[Silver Coin with Voltaires face on it]] | 1 | -- |
 | 42 | Ball Bearings (bag of 1,000) | 1,000 | 2 lb. |
 | 43 | Bell | 1 | -- |
 | 44 | Candle | 5 | -- |

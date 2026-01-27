@@ -1,5 +1,7 @@
 #npc #wizard #backstory
 
+![Import motif](./Imports_motif.png)
+
 **Title**: The Catalyst Wizard
 **Known For**: Immense magical power, morally ambiguous methods
 
@@ -18,7 +20,7 @@ Greg possessed or had access to two of the most dangerous and powerful books in 
 ## Relationship with Voltaire
 
 [[Voltaire]]'s relationship with Greg is complex and likely colored by his High INT/Low WIS perspective.
-*   **A Source of Knowledge**: Voltaire learned the powerful **Demon Gate spell** from Greg, indicating a period of tutelage or at least a significant exchange of knowledge.
+*   **A Source of Knowledge**: Voltaire learned the powerful [[Demon Gate]] ritual from Greg, indicating a period of tutelage or at least a significant exchange of knowledge.
 *   **A Means to an End**: Greg clearly "used" Voltaire, endangering his life and sanity for personal gain.
 *   **Voltaire's View**: Due to his Low Wisdom, [[Voltaire]] likely doesn't dwell on the moral implications or the danger he was put in. He would respect Greg's power and intelligence (High INT) but would likely see their interaction as a fascinating, transactional event—an experiment he was a part of—rather than a moment of gross manipulation (Low WIS). He may even view Greg with a strange sort of fondness as the one who unlocked these interesting (if unconscious) new skills.
 

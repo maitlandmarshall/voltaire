@@ -18,6 +18,7 @@
 - In the allies/organizations block: “Celsus: Crab Book”
   - “Moves on Voltaire’s initiative” (**[To verify]** exact phrasing)
   - “Can commune with skin spirits ...” (**[To verify]** exact phrasing)
+- **[Voltaire-only] (paper note)** Session goal (2023-06-21) explicitly: “figure out the name of the crab book: Celsus”; also notes “commune with skin spirits through the book” (**[To verify]**).
 
 ## Open Questions
 

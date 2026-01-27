@@ -6,6 +6,8 @@
 **Portfolio**: Darkness, Night, Secrets, Loss, Forgetfulness
 **Domain**: The Shadowfell
 
+![Import motif](./Imports_motif.png)
+
 [[Shar]] is a greater deity and one of the most ancient, powerful, and enigmatic beings in the Faerûnian pantheon. She is the embodiment of the void and the primordial darkness, a goddess who presides over secrets, hidden knowledge, and the comfort of forgetting. Her motivations are often subtle and manipulative, and she is known to find amusement in the intricate sorrows and choices of mortals. She has become the pivotal figure in [[Voltaire]]'s current story arc.
 
 ## Relationship with the Party
@@ -16,13 +18,13 @@ Shar's connection to the party is unusually deep and multifaceted, extending far
 
 *   **[[Cromash]], The Antagonistic Patron**: In a bizarre twist, the Paladin of Grûumsh has become a "celebrity" in the Shadowfell. He uses his magical weapon to send creatures and items he deems "dumb shit that Shar hates" into her realm as a form of divine trolling. This constant stream of unwelcome "donations" has made him a well-known figure to her denizens.
 
-*   **[[Yennefer]], The Scorned**: Shar has had a direct and antagonistic interaction with [[Yennefer]], gifting her a magical whip for "self-flagellation" and a perfume with a sarcastic note. This has established a relationship of divine scorn.
+*   **[[Yennefer]], The Scorned**: Shar has had a direct and antagonistic interaction with [[Yennefer]], gifting her the **[[Whip of Flagellation]]** for "self-flagellation" and a perfume with a sarcastic note. This has established a relationship of divine scorn.
 
 ## The Trial of Voltaire
 
 When [[Voltaire]] was unexpectedly transported to her realm, Shar did not destroy him. Instead, she was met with an audacious proposal: an invitation to a game based on his newly-titled book, **[[Machinations & Actions - Player's Handbook]]**, to be hosted in his mind and involving a high-stakes bet.
 
-Intrigued by this unique mortal—who carries her ceremonial dagger, holds the latent knowledge of the Book of Vile Darkness and Exalted Deeds, and is connected to her own consort—Shar made a counter-offer:
+Intrigued by this unique mortal—who carries her ceremonial dagger (see [[Sharite Ceremonial Dagger]]), holds the latent knowledge of the [[Book of Vile Darkness]] and [[Book of Exalted Deeds]], and is connected to her own consort—Shar made a counter-offer:
 
 1.  **She accepts the premise of a "game and trial."** She is willing to engage with his proposal, seeing it as a unique opportunity.
 2.  **She personally declines to participate.** A goddess will not be a player in a mortal's mind-game, maintaining her divine aloofness.
@@ -42,7 +44,7 @@ These symbols suggest the trial will be a structured, metaphysical test of Volta
 Shar's engagement with Voltaire seems driven by a profound and calculating curiosity. The likely objects of her interest include:
 
 *   **Voltaire's Nature**: His unique state as a fallen Fae, a fractured human, and a being of High Intelligence but catastrophically Low Wisdom makes him a fascinating anomaly.
-*   **The Cosmic Knowledge**: The latent knowledge of the Book of Vile Darkness and Exalted Deeds within him is a secret of unimaginable value.
-*   **The Sharite Dagger**: The fact that he carries one of her ceremonial weapons is a mystery she likely intends to solve.
+*   **The Cosmic Knowledge**: The latent knowledge of the [[Book of Vile Darkness]] and [[Book of Exalted Deeds]] within him is a secret of unimaginable value.
+*   **The Sharite Dagger**: The fact that he carries one of her ceremonial weapons (see [[Sharite Ceremonial Dagger]]) is a mystery she likely intends to solve.
 *   **[[The Ink of Unbeing]]**: This power, linked to the "House Sharimythal," operates directly within her portfolio of memory and loss. His potential as "The Inephemeral Scribe" makes him a figure of immense interest.
 *   **The Game Itself**: A mortal attempting to codify the rules of reality and inviting her to play is a novel form of worship or blasphemy that she cannot ignore.

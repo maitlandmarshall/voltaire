@@ -22,3 +22,4 @@ Voltaire can “smell” books and sense the author’s first-person experience 
 
 - Is this a magical sense, a warlock boon, or a side effect of Voltaire’s cosmic-tome transcription?
 - What are the limits (distance, age of text, copied texts, forgeries, wards)?
+- **[To verify] (paper notes)** Voltaire wrote “smell/obsession” as a boxed trigger/theme alongside crab-book/tattoo notes.

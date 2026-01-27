@@ -30,3 +30,4 @@ Voltaire’s horrific, semi-sentient crab-book-tail: a book of ritual spellcasti
 ## Notes
 
 - Recently titled: [[Machinations & Actions - Player's Handbook]].
+- Imported paper notes: [[Pages/Paper Notes/Index|Paper Notes Index]].

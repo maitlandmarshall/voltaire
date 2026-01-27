@@ -14,14 +14,30 @@
   - `Codex/Items/Voltaire Inventory (D&D Beyond 2026-01-25).md`
   - `Codex/Items/Voltaire Inventory (Paper Sheet - Rogue 8).md`
   - `Codex/Items/Sun Card.md`
+  - `Codex/Items/Soul Coins.md`
+  - `Codex/Items/Sharite Ceremonial Dagger.md`
+  - `Codex/Items/Book of Vile Darkness.md`
+  - `Codex/Items/Book of Exalted Deeds.md`
+  - `Codex/Items/Eldritch Caster.md`
+  - `Codex/Items/Implements of Mother Hydra.md`
+  - `Codex/Items/Shadow's Fell.md`
+  - `Codex/Items/Warlock's Stone.md`
 - Lore: `Codex/Lore/`
   - `Codex/Lore/Divine Rank 0.md`
   - `Codex/Lore/Explosive Swamp Frogs.md`
   - `Codex/Lore/Fae.md`
+  - `Codex/Lore/Kelemvor.md`
+  - `Codex/Lore/Tymora.md`
+  - `Codex/Lore/Chauntea.md`
+  - `Codex/Lore/Eilistraee.md`
   - `Codex/Lore/Inspiration (House Rule).md`
+  - `Codex/Lore/Shar.md`
+  - `Codex/Lore/Glasya.md`
   - `Codex/Lore/The Trial of Shar.md`
   - `Codex/Lore/Titania.md`
   - `Codex/Lore/Voltaire's Divine Blueprint.md`
+  - `Codex/Lore/Mother Hydra.md`
+  - `Codex/Lore/Outsider Gold.md`
 - Characters: `Codex/Characters/`
   - `Codex/Characters/Blink Dog (Norhan’s).md`
   - `Codex/Characters/Gold Dragon (Westward Slayer).md`
@@ -29,21 +45,32 @@
   - `Codex/Characters/Halfling (Golden Sickle).md`
   - `Codex/Characters/Quasit (Zeppo’s Claim).md`
   - `Codex/Characters/Robin.md`
+  - `Codex/Characters/Sharias.md`
   - `Codex/Characters/Shrek.md`
 - Powers: `Codex/Powers/`
+  - `Codex/Powers/Demon Gate.md`
   - `Codex/Powers/Book-Scent Synesthesia (Author-Sense).md`
+  - `Codex/Powers/Find Familiar.md`
+  - `Codex/Powers/moonbeam.md`
+  - `Codex/Powers/Feral Transformation.md`
   - `Codex/Powers/The Ink of Unbeing.md`
   - `Codex/Powers/Voltaire Spell List (D&D Beyond 2026-01-25).md`
 - Places: `Codex/Places/`
   - `Codex/Places/Anauroch Triumvirate Temple - Mythallar Complex.md`
+  - `Codex/Places/Abeil Hive City.md`
   - `Codex/Places/Circle of Dreams.md`
   - `Codex/Places/Dellhalls.md`
   - `Codex/Places/Dellhalls Northeast Swamp.md`
   - `Codex/Places/Head-Space.md`
   - `Codex/Places/Palashaey.md`
+  - `Codex/Places/Palischuk.md`
   - `Codex/Places/Prime Material Plane.md`
   - `Codex/Places/Shadowfell.md`
+  - `Codex/Places/Sigil.md`
   - `Codex/Places/Vasa.md`
   - `Codex/Places/Void Realm.md`
 - Factions: `Codex/Factions/`
+  - `Codex/Factions/Abeils.md`
+  - `Codex/Factions/Harpers.md`
+  - `Codex/Factions/Warlock Knights of Vaasa.md`
   - `Codex/Factions/Voltaire's Followers.md`

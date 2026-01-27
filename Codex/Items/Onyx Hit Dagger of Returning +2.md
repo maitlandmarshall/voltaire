@@ -15,7 +15,7 @@ A named dagger recorded on Voltaire’s older paper sheet as “Onyx Hit Dgr of 
 ## Voltaire-Only Notes
 
 - Recorded as **+2** and “of Returning”.
-- **[To verify]** Whether this is the same item as the `Shadow Dagger+2` listed in `Codex/Items/Voltaire Inventory (D&D Beyond 2026-01-25).md`.
+- **[To verify]** Whether this is the same item as [[Shadow Dagger+2]] (listed in `Codex/Items/Voltaire Inventory (D&D Beyond 2026-01-25).md`).
 
 ## Open Questions
 

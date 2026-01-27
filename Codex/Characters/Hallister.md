@@ -15,6 +15,7 @@ Hallister is noted on Voltaire’s paper character sheet as a “high level huma
 ## Voltaire-Only Notes (paper sheet)
 
 - “Speaks entirely in rhyme (Crazy)”
+- **[Voltaire-only] (paper note)** Mentions “contracts” as underlying theme and “7 days with his mind” (**[To verify]** wording/context).
 
 ## Open Questions
 

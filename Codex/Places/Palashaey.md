@@ -18,16 +18,18 @@ On **2026-01-25**, the party plans to go to Palashaey for **furniture shopping**
 
 ## What Voltaire Thinks / Notes
 
-- (Add Voltaire’s take: procurement as ritual, symbolism of “thrones,” contracts-in-wood, etc.)
+- **[Voltaire-only]** Procurement-as-ritual: chairs are thrones-in-waiting; tables are contracts made of wood.
+- **[Voltaire-only]** A city that “lets” an Archdevil squat in its throne room is either protected by paperwork… or already owned.
+- **[Inferred]** If Glasya’s power is politics, then Palashaey’s markets are part of her spellcasting.
 
 ## Key NPCs / Factions
 
 - [[Cromash]] — Lord of Palashaey.
 - [[Glasya]] — established power player; throne room claimed.
-- (Local Warlock Knights — observed to react with strange nonchalance to Glasya’s presence; details TBD.)
+- (Local [[Warlock Knights of Vaasa]] — observed to react with strange nonchalance to Glasya’s presence; details TBD.)
 
 ## Open Questions
 
 - Where is Palashaey on the map relative to current party location(s)?
 - What are Palashaey’s signature industries and markets (furniture, stonework, occult trade, shipyards, etc.)?
-- What is the procurement list for furnishing the [[Anauroch Triumvirate Temple — Mythallar Complex]] (beds, tables, storage, wards, lab kit, shrine goods, etc.)?
+- What is the procurement list for furnishing the [[Anauroch Triumvirate Temple - Mythallar Complex]] (beds, tables, storage, wards, lab kit, shrine goods, etc.)?

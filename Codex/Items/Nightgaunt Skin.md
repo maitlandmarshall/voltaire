@@ -10,4 +10,5 @@
 
 ## Voltaire-Only Notes
 
-- **[To verify]** Whether this refers to an actual Nightgaunt (as in the shadow-creature Voltaire rode into Shar’s realm) or a different creature name at this table.
+- A Night Gaunt was sent to [[Shar]] during the hole-in-reality incident; Voltaire attempted to misty step into the event horizon and later reported ending up with an **A4-sized piece of Night Gaunt skin**.
+- **[To verify]** Whether the “Night Gaunt” here is the same as the winged shadow creature Voltaire rode into Shar’s realm, or a related species/title at this table.

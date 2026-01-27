@@ -6,6 +6,8 @@
 **Portfolio**: Contracts, Politics, Seduction, Power
 **Domain**: Malbolge, the Sixth Layer of the Nine Hells
 
+![Import motif](./Imports_motif.png)
+
 [[Glasya]] is an Archdevil of immense power and influence, the daughter of the supreme ruler of the Nine Hells, Asmodeus. She is a master of diabolical law, a cunning politician, and a being whose charm is matched only by her ruthlessness. Known for her intricate schemes and appreciation for novelty, she has recently become the subject of [[Voltaire]]'s intense and bizarre admiration.
 
 ## Narrative Arc & Key Events
@@ -14,7 +16,13 @@ Glasya's arrival in the Prime Material Plane was a direct result of the party's 
 
 ### The Summoning
 
-The party, following the instructions of a Demon Gate spell learned by [[Voltaire]], successfully gathered the necessary components (including demon milk) to summon a powerful devil. Their ritual brought Glasya herself to their plane, and she promptly claimed a throne room in the city of Palashaey, which is ruled by [[Cromash]]. Her presence has been met with a strange nonchalance by the local Warlock Knights, suggesting pre-existing contracts or a profound underestimation of the danger she represents.
+The party, following the instructions of the [[Demon Gate]] ritual learned by [[Voltaire]], successfully gathered the necessary components (including [[Demon Milk]]) to summon a powerful devil. Their ritual brought Glasya herself to their plane, and she promptly claimed a throne room in the city of [[Palashaey]], which is ruled by [[Cromash]]. Her presence has been met with a strange nonchalance by the local [[Warlock Knights of Vaasa]], suggesting pre-existing contracts or a profound underestimation of the danger she represents.
+
+Additional table notes (2025-03-29 chronicle fragment):
+
+*   Glasya explicitly referenced having contracts with multiple local powers (including the [[Warlock Knights of Vaasa]], [[Tamarand]], [[Zeppo]], and a druid circle) and refused to produce the contracts when pressed (**[To verify]** exact terms and which parties were named vs implied).
+*   She used the local “SUP” phrasing, probed Cromash about intentions, and singled out Voltaire as “curious,” asking Cromash: “Don’t you find this curious?”
+*   She compelled Voltaire to “follow his daddy” (interpreted in-character as Voltaire following his own strange imperatives).
 
 ### The Encounter at the Tiamat Shrine
 
@@ -31,6 +39,7 @@ Glasya's relationship with [[Voltaire]] is one of amused tolerance and calculati
 ## Recent Note
 
 - Voltaire attempted to call on Glasya for a favor to “bind” a summoned demon and shape it into “Zeppo” before attacking Cromash; it is **unknown** whether Glasya heard or responded.
+- **[Voltaire-only] (paper note)** Glasya recorded as “covered in gold” (**[To verify]** literal gilded body/armor vs. metaphor).
 
 ## Inferred Motivations & Interests
 

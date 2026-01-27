@@ -10,7 +10,7 @@ Dagoth's Diary is the meticulous and ongoing record of the party's adventures, a
 The diary is characterized by [[Dagoth]]'s scholarly and slightly clinical tone. He documents events with a focus on observable facts, magical phenomena, and tactical analysis. His entries often betray a sense of scientific curiosity, as well as a recurring bewilderment and occasional exasperation at the actions of his more impulsive companions. The diary contains:
 
 *   **Session Notes**: Detailed accounts of quests, combats, and explorations.
-*   **Item Identification**: Descriptions and analyses of magical and mundane items the party discovers, such as the `Implements of Mother Hydra` and the `Eldritch Casters`.
+*   **Item Identification**: Descriptions and analyses of magical and mundane items the party discovers, such as the [[Implements of Mother Hydra]] and the [[Eldritch Caster]].
 *   **Character Observations**: [[Dagoth]]'s personal thoughts on his fellow party members, such as his confusion at [[Yennefer]]'s "rude and belligerent" behavior or his annoyance at [[Tamerac]]'s slide into insanity.
 *   **Personal Experiences**: Records of his own unique encounters, like the vision of 56 Jamaican-accented flumphs.
 

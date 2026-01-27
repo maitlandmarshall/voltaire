@@ -19,3 +19,4 @@ Voltaire’s attuned robe that enhances perception and provides many-eyed awaren
 ## Open Questions
 
 - Does this robe match the DMG item as written, or is it homebrewed?
+- **[Voltaire-only] (paper note, 2025-05-05)** “My cloak of eyes has become a black of teeth eyes” in the Shadowfell (**[To verify]** literal transformation vs. mood/poetry).

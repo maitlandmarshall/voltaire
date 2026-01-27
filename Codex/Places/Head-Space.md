@@ -12,6 +12,7 @@ Voltaire’s proposed mental “play space”/mindscape for hosting his game/tri
 
 - Voltaire has pitched hosting a game within his mind (“Head-Space™”) as part of the broader trial/bet arc.
 - See also: `Module/Voltaire's D&D Module.md` for DM-facing prep (Voltaire-only knowledge unless revealed in-play).
+- **[Voltaire-only] (planned opening)** The “entry scene” Voltaire envisioned involved the party falling through a void of pop-up books and living story-objects, leaning creepy/horror, with Voltaire absent at first.
 
 ## Open Questions
 

@@ -12,7 +12,14 @@ Dagoth's journey often involves him trying to bring logic and order to the sheer
 
 ### Rescue and The Hive City
 
-Dagoth's history with the party began when they found him "trapped" in a wall near a temple later defiled by [[Tamerac]]. Since then, he has been a steadfast, if sometimes bewildered, member. In the Abeil Hive City, he demonstrated his dedication to research by spending days getting certifications to access the library, learning new rituals, and studying Abeil craftsmanship. It was his expertise that identified various found objects, from the `Carrion Crawler Brain Juice` trap to the `Implements of Mother Hydra`.
+Dagoth's history with the party began when they found him "trapped" in a wall near a temple later defiled by [[Tamerac]]. Since then, he has been a steadfast, if sometimes bewildered, member. In the [[Abeil Hive City]], he demonstrated his dedication to research by spending days getting certifications to access the library, learning new rituals, and studying Abeil craftsmanship. It was his expertise that identified various found objects, from the [[Carrion Crawler Brain Juice]] trap to the [[Implements of Mother Hydra]].
+
+Additional details (from “Diary redacted” style notes):
+
+*   In [[Abeil Hive City]], Dagoth pursued library access via certifications and spent days reading and interviewing locals; he repeatedly treated the city as a research site rather than a refuge.
+*   He identified and bottled a box-trap mist as [[Carrion Crawler Brain Juice]] (≈ three flasks collected).
+*   He was present for (and fascinated by) Abeil magical surgery techniques—especially their effortless control/manipulation of bodily fluids during Yennefer’s wing graft.
+*   He repeatedly flagged materials science anomalies (e.g., [[Outsider Gold]]; silver/mithral alloy discussions; later “lunar silver”).
 
 ### The Visionary
 
@@ -21,6 +28,8 @@ Though he approaches things with a scholarly air, Dagoth is not immune to the pl
 ### Unraveling Mysteries
 
 Dagoth's keen eye and magical knowledge have been instrumental in identifying numerous threats and artifacts. He was the one to finally identify the "red goo blasters" as **Eldritch Casters** and provide a detailed breakdown of their function. He is frequently called upon to use his `Wand of Magic Detection` and ritual casting to understand the strange items the party acquires.
+
+In Codex terms: see [[Eldritch Caster]].
 
 ### Recent Activities
 

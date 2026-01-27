@@ -33,7 +33,7 @@ Unbeknownst to Voltaire, they were playing with the **Deck of Many Things**. Dr
 
 ### The Transcription
 
-A powerful wizard named Greg later used Voltaire (under the influence of a potion of haste) to transcribe both the **Book of Vile Darkness** and the **Book of Exalted Deeds**. Voltaire survived reading both tomes, creating a new unified text for Greg. This process left him with:
+A powerful wizard named Greg later used Voltaire (under the influence of a potion of haste) to transcribe both the **[[Book of Vile Darkness]]** and the **[[Book of Exalted Deeds]]**. Voltaire survived reading both tomes, creating a new unified text for Greg. This process left him with:
 
 - The ability to unconsciously understand, read, and write **every language** in existence
 - Deep, hidden knowledge of both ultimate good and ultimate evil
@@ -93,7 +93,7 @@ A powerful wizard named Greg later used Voltaire (under the influence of a potio
 - **Steady Aim**: Gain advantage on next attack (bonus action; speed 0 for the turn)
 - **Uncanny Dodge**: Reaction to halve damage from an attacker you can see
 - **Pact Magic**: 2 spell slots (4th level); **Spell Save DC 18**, **Spell Attack +10**
-- **Eldritch Invocations**: Agonizing Blast, Aspect of the Moon, Mask of Many Faces, Feral Transformation
+- **Eldritch Invocations**: Agonizing Blast, Aspect of the Moon, Mask of Many Faces, [[Feral Transformation]]
 - **Fey Presence**: Charm or frighten in 10ft cube (1/rest)
 - **Misty Escape**: Turn invisible and teleport 60ft when damaged (1/rest)
 
@@ -133,15 +133,15 @@ A horrific yet fascinating merger of multiple elements:
 
 ### Magic Items
 
-- **Headband of Intellect** (INT set to 19)
-- **Ring of Protection** (+1 AC and saves)
-- **Robe of Eyes** (enhanced perception in darkness)
-- **Studded Leather, +2**
-- **Shadow Dagger +2** (Finesse, can reappear in hand)
-- **Cape of Darkness**
-- **Chakram +6 (magical)**
-- **Sun Card** (From Deck of Many Things)
-- **Sharite Ceremonial Dagger** (Mysterious connection to Shar)
+- **[[Headband of Intellect]]** (INT set to 19)
+- **[[Ring of Protection]]** (+1 AC and saves)
+- **[[Robe of Eyes]]** (enhanced perception in darkness)
+- **[[Studded Leather, +2]]**
+- **[[Shadow Dagger+2]]** (Finesse; **[To verify]** can reappear in hand / returns)
+- **[[Cape of Darkness]]**
+- **[[Chakram +6 (magical)]]**
+- **[[Sun Card]]** (From Deck of Many Things)
+- **[[Sharite Ceremonial Dagger]]** (Mysterious connection to Shar)
 
 ### The Ink of Unbeing
 
