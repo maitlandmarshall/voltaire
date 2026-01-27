@@ -2,7 +2,7 @@
 
 #item #currency? #cult #mystery
 
-![Import motif](./Imports_motif.png)
+![Soapstone Coins (Sheogorath Sigil)](./Soapstone_Coins_Sheogorath_Sigil_ref.png)
 
 ## Summary
 

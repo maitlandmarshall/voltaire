@@ -2,7 +2,7 @@
 
 #item #consumable #blood
 
-![Import motif](./Imports_motif.png)
+![Nightgaunt Blood Vial](./Nightgaunt_Blood_Vial_ref.png)
 
 ## Summary
 

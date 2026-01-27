@@ -2,7 +2,7 @@
 
 #item #lore
 
-![Import motif](./Imports_motif.png)
+![Word Stones](./Word_Stones_ref.png)
 
 ## Summary
 

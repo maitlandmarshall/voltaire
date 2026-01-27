@@ -2,7 +2,7 @@
 
 #npc #swamp #eldritch
 
-![Import motif](./Imports_motif.png)
+![Nyarlathotep](./Nyarlathotep_portrait.png)
 
 ## Summary
 

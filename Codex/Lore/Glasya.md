@@ -6,7 +6,7 @@
 **Portfolio**: Contracts, Politics, Seduction, Power
 **Domain**: Malbolge, the Sixth Layer of the Nine Hells
 
-![Import motif](./Imports_motif.png)
+![Glasya](./Glasya_motif.png)
 
 [[Glasya]] is an Archdevil of immense power and influence, the daughter of the supreme ruler of the Nine Hells, Asmodeus. She is a master of diabolical law, a cunning politician, and a being whose charm is matched only by her ruthlessness. Known for her intricate schemes and appreciation for novelty, she has recently become the subject of [[Voltaire]]'s intense and bizarre admiration.
 

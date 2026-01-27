@@ -2,7 +2,7 @@
 
 #item #artifact #tome #evil
 
-![Import motif](./Imports_motif.png)
+![Book of Vile Darkness](./Book_of_Vile_Darkness_ref.png)
 
 ## Summary
 

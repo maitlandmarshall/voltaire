@@ -2,7 +2,7 @@
 
 #npc #crab-book
 
-![Import motif](./Imports_motif.png)
+![Celsus](./Celsus_portrait.png)
 
 ## Summary
 

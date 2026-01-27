@@ -2,7 +2,7 @@
 
 #npc #swamp #paper-notes
 
-![Import motif](./Imports_motif.png)
+![King Oponon](./King_Oponon_portrait.png)
 
 ## Summary
 

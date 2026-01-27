@@ -2,8 +2,6 @@
 
 _Source: `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Imports/Voltaire's D&D Notes pt2 (extract).md`_
 
-![Import checklist](./Imports_motif.png)
-
 This is an iterative “import checklist” for promoting notes into the Codex.
 
 ## NPCs / Creatures

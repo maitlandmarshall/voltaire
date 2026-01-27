@@ -2,7 +2,7 @@
 
 #faction #warlock-knights #vaasa #palischuk
 
-![Import motif](../Lore/Imports_motif.png)
+![Warlock Knights of Vaasa](./Warlock_Knights_of_Vaasa_sigil.png)
 
 ## Summary
 

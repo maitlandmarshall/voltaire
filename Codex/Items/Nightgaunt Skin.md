@@ -2,7 +2,7 @@
 
 #item #trophy #skin
 
-![Import motif](./Imports_motif.png)
+![Nightgaunt Skin](./Nightgaunt_Skin_ref.png)
 
 ## Summary
 

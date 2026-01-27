@@ -2,7 +2,7 @@
 
 #item #crown #mother-hydra #outsider-gold
 
-![Import motif](./Imports_motif.png)
+![Hydra's Veil](./Hydras_Veil_ref.png)
 
 ## Summary
 

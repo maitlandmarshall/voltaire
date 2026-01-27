@@ -2,7 +2,7 @@
 
 #item #consumable #party
 
-![Import motif](./Imports_motif.png)
+![Cornholios Magic Jam](./Cornholios_Magic_Jam_ref.png)
 
 ## Summary
 

@@ -2,7 +2,7 @@
 
 #item #weapon #chakram
 
-![Import motif](./Imports_motif.png)
+![Chakram +6 (magical)](./Chakram_plus6_magical_ref.png)
 
 ## Summary
 

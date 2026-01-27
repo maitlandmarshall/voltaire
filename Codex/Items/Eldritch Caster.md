@@ -2,7 +2,7 @@
 
 #item #weapon #outsider-tech
 
-![Import motif](./Imports_motif.png)
+![Eldritch Caster](./Eldritch_Caster_ref.png)
 
 ## Summary
 

@@ -2,7 +2,7 @@
 
 #item #consumable #potion
 
-![Import motif](./Imports_motif.png)
+![Potion of Cloud Giant Strength](./Potion_of_Cloud_Giant_Strength_ref.png)
 
 ## Summary
 

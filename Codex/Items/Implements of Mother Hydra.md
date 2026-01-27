@@ -2,7 +2,7 @@
 
 #item #artifact-set #mother-hydra #outsider
 
-![Import motif](./Imports_motif.png)
+![Implements of Mother Hydra](./Implements_of_Mother_Hydra_ref.png)
 
 ## Summary
 

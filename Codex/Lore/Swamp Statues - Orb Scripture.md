@@ -2,7 +2,7 @@
 
 #lore #quest #swamp
 
-![Import motif](./Imports_motif.png)
+![Swamp Statues - Orb Scripture](./Swamp_Statues_-_Orb_Scripture_motif.png)
 
 ## Summary
 

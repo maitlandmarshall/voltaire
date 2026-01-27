@@ -2,7 +2,7 @@
 
 #npc #swamp #eldritch
 
-![Import motif](./Imports_motif.png)
+![Hastur](./Hastur_portrait.png)
 
 ## Summary
 

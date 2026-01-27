@@ -2,7 +2,7 @@
 
 #item #ring #familiar #to-verify
 
-![Import motif](./Imports_motif.png)
+![Familiar Ring from Glacier](./Familiar_Ring_from_Glacier_ref.png)
 
 ## Summary
 

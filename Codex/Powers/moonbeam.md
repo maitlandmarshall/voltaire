@@ -2,7 +2,7 @@
 
 #power #spell
 
-![Import motif](./Imports_motif.png)
+![Moonbeam](./moonbeam_motif.png)
 
 ## Summary
 

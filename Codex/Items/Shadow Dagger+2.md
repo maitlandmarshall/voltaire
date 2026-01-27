@@ -2,7 +2,7 @@
 
 #item #weapon #dagger #shadow
 
-![Import motif](./Imports_motif.png)
+![Shadow Dagger+2](./Shadow_Daggerplus2_ref.png)
 
 ## Summary
 

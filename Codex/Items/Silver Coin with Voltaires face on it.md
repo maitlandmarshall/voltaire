@@ -2,7 +2,7 @@
 
 #item #currency #vanity
 
-![Import motif](./Imports_motif.png)
+![Silver Coin with Voltaires face on it](./Silver_Coin_with_Voltaires_face_on_it_ref.png)
 
 ## Summary
 

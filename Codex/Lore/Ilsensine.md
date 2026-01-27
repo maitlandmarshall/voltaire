@@ -2,7 +2,7 @@
 
 #lore #pantheon #scroll #mind
 
-![Import motif](./Imports_motif.png)
+![Ilsensine](./Ilsensine_motif.png)
 
 ## Summary
 

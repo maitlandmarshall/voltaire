@@ -2,7 +2,7 @@
 
 #npc #swamp #vampire
 
-![Import motif](./Imports_motif.png)
+![D'endrrrah](./Dendrrrah_portrait.png)
 
 ## Summary
 

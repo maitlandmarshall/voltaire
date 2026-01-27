@@ -2,7 +2,7 @@
 
 #power #warlock #shapechange
 
-![Import motif](./Imports_motif.png)
+![Feral Transformation](./Feral_Transformation_motif.png)
 
 ## Summary
 

@@ -2,7 +2,7 @@
 
 #place #plane #city #to-verify
 
-![Import motif](../Lore/Imports_motif.png)
+![Sigil](./Sigil_establishing.png)
 
 ## Summary
 

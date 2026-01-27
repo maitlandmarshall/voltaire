@@ -2,7 +2,7 @@
 
 #item #crafting #ink
 
-![Import motif](./Imports_motif.png)
+![Hellhound Ink Bricks](./Hellhound_Ink_Bricks_ref.png)
 
 ## Summary
 

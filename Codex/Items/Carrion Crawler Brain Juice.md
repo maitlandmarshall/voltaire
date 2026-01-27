@@ -2,7 +2,7 @@
 
 #item #hazard #alchemy
 
-![Import motif](./Imports_motif.png)
+![Carrion Crawler Brain Juice](./Carrion_Crawler_Brain_Juice_ref.png)
 
 ## Summary
 

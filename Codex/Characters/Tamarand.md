@@ -2,7 +2,7 @@
 
 #character #npc #palischuk #authority
 
-![Import motif](./Imports_motif.png)
+![Tamarand](./Tamarand_portrait.png)
 
 ## Summary
 

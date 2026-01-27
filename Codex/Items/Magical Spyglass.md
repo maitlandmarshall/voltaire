@@ -2,7 +2,7 @@
 
 #item #divination #scouting
 
-![Import motif](./Imports_motif.png)
+![Magical Spyglass](./Magical_Spyglass_ref.png)
 
 ## Summary
 

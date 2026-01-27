@@ -2,7 +2,7 @@
 
 #item #consumable #potion
 
-![Import motif](./Imports_motif.png)
+![Potion of Vitality](./Potion_of_Vitality_ref.png)
 
 ## Summary
 

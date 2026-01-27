@@ -2,7 +2,7 @@
 
 #item #artifact #tome #good
 
-![Import motif](./Imports_motif.png)
+![Book of Exalted Deeds](./Book_of_Exalted_Deeds_ref.png)
 
 ## Summary
 

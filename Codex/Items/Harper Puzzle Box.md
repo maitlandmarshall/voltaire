@@ -2,7 +2,7 @@
 
 #item #harpers #puzzle #cache
 
-![Import motif](./Imports_motif.png)
+![Harper Puzzle Box](./Harper_Puzzle_Box_ref.png)
 
 ## Summary
 

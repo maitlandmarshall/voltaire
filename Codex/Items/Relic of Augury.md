@@ -2,7 +2,7 @@
 
 #item #divination #moonstone #dangerous
 
-![Import motif](./Imports_motif.png)
+![Relic of Augury](./Relic_of_Augury_ref.png)
 
 ## Summary
 

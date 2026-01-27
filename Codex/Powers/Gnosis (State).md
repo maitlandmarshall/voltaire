@@ -2,7 +2,7 @@
 
 #power #psychology #quirk
 
-![Import motif](./Imports_motif.png)
+![Gnosis (State)](./Gnosis_State_motif.png)
 
 ## Summary
 

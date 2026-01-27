@@ -2,7 +2,7 @@
 
 #voltaire #dm #questionnaire #roleplay
 
-![Import motif](../Imports_motif.png)
+![Voltaire — DM Questionnaire (Unanswered)](./Voltaire_-_DM_Questionnaire_portrait.png)
 
 _Source: `Adventures/Voltaire's Notes/Voltaire's D&D Notes pt2.json` (chunk 97)._
 

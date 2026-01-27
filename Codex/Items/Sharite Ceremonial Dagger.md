@@ -2,7 +2,7 @@
 
 #item #weapon #shar #mystery
 
-![Import motif](./Imports_motif.png)
+![Sharite Ceremonial Dagger](./Sharite_Ceremonial_Dagger_ref.png)
 
 ## Summary
 

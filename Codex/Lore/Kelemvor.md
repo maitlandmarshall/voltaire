@@ -2,7 +2,7 @@
 
 #entity #deity #death
 
-![Import motif](./Imports_motif.png)
+![Kelemvor](./Kelemvor_motif.png)
 
 ## Summary
 

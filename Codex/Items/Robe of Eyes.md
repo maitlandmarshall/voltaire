@@ -2,7 +2,7 @@
 
 #item #wondrous-item #attunement
 
-![Import motif](./Imports_motif.png)
+![Robe of Eyes](./Robe_of_Eyes_ref.png)
 
 ## Summary
 

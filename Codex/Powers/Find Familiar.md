@@ -2,7 +2,7 @@
 
 #power #spell #ritual #familiar
 
-![Import motif](./Imports_motif.png)
+![Find Familiar](./Find_Familiar_motif.png)
 
 ## Summary
 

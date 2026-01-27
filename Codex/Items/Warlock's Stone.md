@@ -2,7 +2,7 @@
 
 #item #communication #teleportation #warlock-knights
 
-![Import motif](./Imports_motif.png)
+![Warlock's Stone](./Warlocks_Stone_ref.png)
 
 ## Summary
 

@@ -2,7 +2,7 @@
 
 #faction #people #fey #hive
 
-![Import motif](../Lore/Imports_motif.png)
+![Abeils](./Abeils_sigil.png)
 
 ## Summary
 

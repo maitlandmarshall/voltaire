@@ -2,7 +2,7 @@
 
 #item #weapon
 
-![Import motif](./Imports_motif.png)
+![Onyx Hit Dagger of Returning +2](./Onyx_Hit_Dagger_of_Returning_plus2_ref.png)
 
 ## Summary
 

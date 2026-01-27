@@ -2,7 +2,7 @@
 
 #item #document
 
-![Import motif](./Imports_motif.png)
+![Captain's Journals](./Captains_Journals_ref.png)
 
 ## Summary
 

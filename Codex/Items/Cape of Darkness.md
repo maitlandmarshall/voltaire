@@ -2,7 +2,7 @@
 
 #item #cloak #shadow
 
-![Import motif](./Imports_motif.png)
+![Cape of Darkness](./Cape_of_Darkness_ref.png)
 
 ## Summary
 

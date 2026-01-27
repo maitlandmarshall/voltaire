@@ -1,6 +1,6 @@
 #npc #wizard #backstory
 
-![Import motif](./Imports_motif.png)
+![Greg](./Greg_portrait.png)
 
 **Title**: The Catalyst Wizard
 **Known For**: Immense magical power, morally ambiguous methods

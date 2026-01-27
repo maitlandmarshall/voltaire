@@ -2,7 +2,7 @@
 
 #entity #deity #luck
 
-![Import motif](./Imports_motif.png)
+![Tymora](./Tymora_motif.png)
 
 ## Summary
 

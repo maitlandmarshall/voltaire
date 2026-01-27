@@ -2,7 +2,7 @@
 
 #item #currency #infernal #contract
 
-![Import motif](./Imports_motif.png)
+![Soul Coins](./Soul_Coins_ref.png)
 
 ## Summary
 

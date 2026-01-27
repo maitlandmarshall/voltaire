@@ -2,7 +2,7 @@
 
 #item #weapon #shar #yen
 
-![Import motif](./Imports_motif.png)
+![Whip of Flagellation](./Whip_of_Flagellation_ref.png)
 
 ## Summary
 

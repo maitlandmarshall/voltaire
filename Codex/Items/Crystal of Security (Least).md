@@ -2,7 +2,7 @@
 
 #item #ward #security
 
-![Import motif](./Imports_motif.png)
+![Crystal of Security (Least)](./Crystal_of_Security_Least_ref.png)
 
 ## Summary
 

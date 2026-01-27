@@ -2,7 +2,7 @@
 
 #item #body-horror #to-verify
 
-![Import motif](./Imports_motif.png)
+![Green Tiefling Tentacles of Minoris](./Green_Tiefling_Tentacles_of_Minoris_ref.png)
 
 ## Summary
 

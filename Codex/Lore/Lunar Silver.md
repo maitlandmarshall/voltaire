@@ -2,7 +2,7 @@
 
 #lore #material #shar #transmutation
 
-![Import motif](./Imports_motif.png)
+![Lunar Silver](./Lunar_Silver_motif.png)
 
 ## Summary
 

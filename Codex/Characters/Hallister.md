@@ -2,7 +2,7 @@
 
 #npc #wizard
 
-![Import motif](./Imports_motif.png)
+![Hallister](./Hallister_portrait.png)
 
 ## Summary
 

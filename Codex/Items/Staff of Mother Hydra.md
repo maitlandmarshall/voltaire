@@ -2,7 +2,7 @@
 
 #item #staff #mother-hydra #outsider-gold
 
-![Import motif](./Imports_motif.png)
+![Staff of Mother Hydra](./Staff_of_Mother_Hydra_ref.png)
 
 ## Summary
 

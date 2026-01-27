@@ -2,7 +2,7 @@
 
 #item #staff #shar #transformed-artifact
 
-![Import motif](./Imports_motif.png)
+![Shadow's Fell](./Shadows_Fell_ref.png)
 
 ## Summary
 

@@ -2,7 +2,7 @@
 
 #item #ingredient #summoning
 
-![Import motif](./Imports_motif.png)
+![Demon Milk](./Demon_Milk_ref.png)
 
 ## Summary
 

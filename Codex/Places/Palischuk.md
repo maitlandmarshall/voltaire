@@ -2,7 +2,7 @@
 
 #place #city #vaasa #warlock-knights
 
-![Import motif](../Lore/Imports_motif.png)
+![Palischuk](./Palischuk_establishing.png)
 
 ## Summary
 

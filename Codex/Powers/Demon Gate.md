@@ -2,7 +2,7 @@
 
 #power #spell #ritual #summoning
 
-![Import motif](./Imports_motif.png)
+![Demon Gate](./Demon_Gate_motif.png)
 
 ## Summary
 

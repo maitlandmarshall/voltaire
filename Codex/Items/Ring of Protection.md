@@ -2,7 +2,7 @@
 
 #item #ring #attunement
 
-![Import motif](./Imports_motif.png)
+![Ring of Protection](./Ring_of_Protection_ref.png)
 
 ## Summary
 

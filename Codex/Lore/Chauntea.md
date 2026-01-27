@@ -2,7 +2,7 @@
 
 #entity #deity #nature
 
-![Import motif](./Imports_motif.png)
+![Chauntea](./Chauntea_motif.png)
 
 ## Summary
 

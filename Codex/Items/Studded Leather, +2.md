@@ -2,7 +2,7 @@
 
 #item #armor #magic-item
 
-![Import motif](./Imports_motif.png)
+![Studded Leather, +2](./Studded_Leather_plus2_ref.png)
 
 ## Summary
 

@@ -2,7 +2,7 @@
 
 #character #companion? #to-verify
 
-![Import motif](./Imports_motif.png)
+![Akulakhan](./Akulakhan_portrait.png)
 
 ## Summary
 

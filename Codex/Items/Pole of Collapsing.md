@@ -2,7 +2,7 @@
 
 #item #tool #utility
 
-![Import motif](./Imports_motif.png)
+![Pole of Collapsing](./Pole_of_Collapsing_ref.png)
 
 ## Summary
 

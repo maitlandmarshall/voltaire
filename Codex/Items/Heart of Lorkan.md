@@ -2,7 +2,7 @@
 
 #item #relic #mystery
 
-![Import motif](./Imports_motif.png)
+![Heart of Lorkan](./Heart_of_Lorkan_ref.png)
 
 ## Summary
 

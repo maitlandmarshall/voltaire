@@ -2,7 +2,7 @@
 
 #character #npc #tiefling #shar #sigil
 
-![Import motif](./Imports_motif.png)
+![Sharias](./Sharias_portrait.png)
 
 ## Summary
 

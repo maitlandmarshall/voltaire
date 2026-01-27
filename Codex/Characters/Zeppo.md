@@ -2,7 +2,7 @@
 
 #character #npc #mystery #glasya
 
-![Import motif](./Imports_motif.png)
+![Zeppo](./Zeppo_portrait.png)
 
 ## Summary
 

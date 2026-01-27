@@ -2,7 +2,7 @@
 
 #entity #deity #drow
 
-![Import motif](./Imports_motif.png)
+![Eilistraee](./Eilistraee_motif.png)
 
 ## Summary
 

@@ -2,7 +2,7 @@
 
 #item #gem #warlock #altars
 
-![Import motif](./Imports_motif.png)
+![Heliodore Gems](./Heliodore_Gems_ref.png)
 
 ## Summary
 

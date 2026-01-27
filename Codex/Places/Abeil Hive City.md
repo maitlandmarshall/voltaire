@@ -2,7 +2,7 @@
 
 #place #city #underdark-adjacent #abeils
 
-![Import motif](../Lore/Imports_motif.png)
+![Abeil Hive City](./Abeil_Hive_City_establishing.png)
 
 ## Summary
 

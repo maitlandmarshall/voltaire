@@ -2,7 +2,7 @@
 
 _Source: `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Imports/Voltaire Paper Character Sheet (extract).md`_
 
-![Import motif](./Imports_motif.png)
+![Voltaire Inventory (Paper Sheet) — Rogue 8 snapshot](./Voltaire_Inventory_Paper_Sheet_-_Rogue_8_ref.png)
 
 This is a **historical** inventory snapshot from Voltaire’s earlier paper character sheet. It is incomplete and should not be treated as current.
 

@@ -6,7 +6,7 @@
 **Portfolio**: Darkness, Night, Secrets, Loss, Forgetfulness
 **Domain**: The Shadowfell
 
-![Import motif](./Imports_motif.png)
+![Shar](./Shar_motif.png)
 
 [[Shar]] is a greater deity and one of the most ancient, powerful, and enigmatic beings in the Faerûnian pantheon. She is the embodiment of the void and the primordial darkness, a goddess who presides over secrets, hidden knowledge, and the comfort of forgetting. Her motivations are often subtle and manipulative, and she is known to find amusement in the intricate sorrows and choices of mortals. She has become the pivotal figure in [[Voltaire]]'s current story arc.
 

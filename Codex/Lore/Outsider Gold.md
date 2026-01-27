@@ -2,7 +2,7 @@
 
 #lore #material #outsider-tech #crafting
 
-![Import motif](./Imports_motif.png)
+![Outsider Gold](./Outsider_Gold_motif.png)
 
 ## Summary
 

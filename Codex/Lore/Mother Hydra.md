@@ -2,7 +2,7 @@
 
 #lore #outsider #deity? #cult
 
-![Import motif](./Imports_motif.png)
+![Mother Hydra](./Mother_Hydra_motif.png)
 
 ## Summary
 

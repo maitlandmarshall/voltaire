@@ -2,7 +2,7 @@
 
 #npc #enemy
 
-![Import motif](./Imports_motif.png)
+![Richard Miranus](./Richard_Miranus_portrait.png)
 
 ## Summary
 

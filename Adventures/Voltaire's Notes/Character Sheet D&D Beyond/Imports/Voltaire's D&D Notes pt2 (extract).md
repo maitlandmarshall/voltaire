@@ -2,8 +2,6 @@
 
 _Source: `Adventures/Voltaire's D&D Notes pt2.json`_
 
-![Import staging](./Imports_motif.png)
-
 This file is an import staging page: it captures the user-provided notes embedded in the JSON export, so we can iteratively promote them into Codex pages.
 
 ## Index

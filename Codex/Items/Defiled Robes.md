@@ -2,7 +2,7 @@
 
 #item #armor #taint
 
-![Import motif](./Imports_motif.png)
+![Defiled Robes](./Defiled_Robes_ref.png)
 
 ## Summary
 

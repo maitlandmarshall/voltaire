@@ -2,7 +2,7 @@
 
 #npc #enemy
 
-![Import motif](./Imports_motif.png)
+![Barranay](./Barranay_portrait.png)
 
 ## Summary
 

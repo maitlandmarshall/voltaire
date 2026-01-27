@@ -2,7 +2,7 @@
 
 #item #wondrous-item #attunement
 
-![Import motif](./Imports_motif.png)
+![Headband of Intellect](./Headband_of_Intellect_ref.png)
 
 ## Summary
 

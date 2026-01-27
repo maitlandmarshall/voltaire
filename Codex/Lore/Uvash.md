@@ -2,7 +2,7 @@
 
 #lore #blood #demiplane #cult
 
-![Import motif](./Imports_motif.png)
+![Uvash](./Uvash_motif.png)
 
 ## Summary
 

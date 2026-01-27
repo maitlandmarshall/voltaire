@@ -2,7 +2,7 @@
 
 #lore #deity? #outsider #taint
 
-![Import motif](./Imports_motif.png)
+![Dagon](./Dagon_motif.png)
 
 ## Summary
 

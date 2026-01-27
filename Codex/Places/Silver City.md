@@ -2,7 +2,7 @@
 
 #place #unknown
 
-![Import motif](../Lore/Imports_motif.png)
+![Silver City](./Silver_City_establishing.png)
 
 ## Summary
 

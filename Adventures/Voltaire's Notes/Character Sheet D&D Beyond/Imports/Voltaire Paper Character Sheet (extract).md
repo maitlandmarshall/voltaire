@@ -1,6 +1,6 @@
 # Voltaire — Paper Character Sheet (extract)
 
-![Import motif](./Imports_motif.png)
+![Paper character sheet (stats)](./Voltaire_paper_sheet_stats.jpeg)
 
 ## Source Images
 

@@ -2,7 +2,7 @@
 
 #power #word-of-power #storm
 
-![Import motif](./Imports_motif.png)
+![Word of Power - “Fall”](./Word_of_Power_-_Fall_motif.png)
 
 ## Summary
 

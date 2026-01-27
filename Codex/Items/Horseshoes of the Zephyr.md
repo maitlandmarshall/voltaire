@@ -2,7 +2,7 @@
 
 #item #vehicle #mobility
 
-![Import motif](./Imports_motif.png)
+![Horseshoes of the Zephyr](./Horseshoes_of_the_Zephyr_ref.png)
 
 ## Summary
 

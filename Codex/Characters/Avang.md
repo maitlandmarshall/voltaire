@@ -2,7 +2,7 @@
 
 #npc #enemy
 
-![Import motif](./Imports_motif.png)
+![Avang](./Avang_portrait.png)
 
 ## Summary
 

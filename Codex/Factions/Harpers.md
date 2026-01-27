@@ -2,7 +2,7 @@
 
 #faction #spies #bards #faerun
 
-![Import motif](../Lore/Imports_motif.png)
+![Harpers](./Harpers_sigil.png)
 
 ## Summary
 
