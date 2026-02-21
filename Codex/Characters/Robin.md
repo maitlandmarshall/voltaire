@@ -12,6 +12,7 @@ Robin is Voltaire’s “Sun Card” turned disciple: a luminous, Tinkerbell-lik
 
 - Robin exists and accompanies Voltaire.
 - Robin is explicitly treated by Voltaire as a **follower/disciple**.
+- **[Party] (2026-02-21)** Mircy attempted a `Find Familiar` ritual on/for Robin; Robin objected: “I’m not an animal. What did you think I am?” (**[To verify]** mechanical outcome/effects, if any.)
 
 ## Voltaire-Only Knowledge
 
@@ -27,3 +28,4 @@ Robin is Voltaire’s “Sun Card” turned disciple: a luminous, Tinkerbell-lik
 
 - Is Robin an awakened manifestation of the Sun Card, a summoned entity, or a new being “born” from the card’s solar radiance?
 - What can Robin do mechanically (actions, senses, limitations)?
+  - **[To verify]** Can `Find Familiar` succeed on/with Robin at all, or does this confirm she is not a familiar/beast-type entity?

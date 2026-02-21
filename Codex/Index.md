@@ -2,6 +2,8 @@
 
 - Start here: `Codex/README.md`
 - Character sheet: `Codex/Characters/Party/Voltaire.md`
+- Persistent open threads (player HUD): `Codex/Lore/Open Threads (Voltaire).md`
+- Voltaire quick reference (actions/abilities): `Codex/Lore/Voltaire Quick Reference (Actions & Abilities).md`
 - High-level compendium: `Overview.md`
 - Imports: `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Imports/`
   - `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Imports/Voltaire's D&D Notes pt2 (extract).md`
@@ -24,6 +26,8 @@
   - `Codex/Items/Warlock's Stone.md`
 - Lore: `Codex/Lore/`
   - `Codex/Lore/Divine Rank 0.md`
+  - `Codex/Lore/Open Threads (Voltaire).md`
+  - `Codex/Lore/Voltaire Quick Reference (Actions & Abilities).md`
   - `Codex/Lore/Explosive Swamp Frogs.md`
   - `Codex/Lore/Fae.md`
   - `Codex/Lore/Kelemvor.md`
@@ -47,6 +51,7 @@
   - `Codex/Characters/Robin.md`
   - `Codex/Characters/Sharias.md`
   - `Codex/Characters/Shrek.md`
+  - `Codex/Characters/Unclaimed Slave (Palashaey).md`
 - Powers: `Codex/Powers/`
   - `Codex/Powers/Demon Gate.md`
   - `Codex/Powers/Book-Scent Synesthesia (Author-Sense).md`

@@ -41,6 +41,13 @@ This power is deeply intertwined with [[Voltaire]]'s entire being, even if he is
 *   **House Sharimythal**: The name of the house associated with this power is strikingly similar to **Shar**. This implies the power may originate from her, be a splinter sect, or be a title she bestows. This makes Voltaire's potential as The Scribe of immense interest to the Lady of Loss.
 *   **The Trial**: This ability is a perfect tool or test for the "game/trial" Shar is facilitating. She may task him with using it to prove his worth or understanding.
 
+## Voidbone Pen — Status (To Verify)
+
+- **Confirmed**: Voltaire has performed memory extraction/transference effects in-play (see “Known Uses” below).
+- **Unclear**: Whether Voltaire possesses a **literal, discrete “voidbone pen”** as an item, or whether the “voidbone pen” is metaphorical / represented by some other implement (quill, enchanted pen, the crab-book itself, etc.).
+- **Not currently recorded**: A “Voidbone Pen” is **not** listed in `Codex/Items/Voltaire Inventory (D&D Beyond 2026-01-25).md` (note: that file is a snapshot, not authoritative for all-time items).
+- **[To verify]** If Lachlan confirms the pen is a real item Voltaire has, create `Codex/Items/Voidbone Pen.md` and link it from Voltaire’s inventory/character sheet.
+
 ## Known Uses (in-play)
 
 - **Fae conversion**: Voltaire transplanted/replaced the memories of two fae creatures, overwriting their memories of their gods with memories of Voltaire.

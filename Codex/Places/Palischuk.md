@@ -6,7 +6,9 @@
 
 ## Summary
 
-Palischuk is a surface city (and regional power center) closely associated with the **[[Warlock Knights of Vaasa]]**, major record-keeping/administration (“state records”), and the **tunnel network** that links the surface to the **[[Abeil Hive City]]** and older underworks.
+Palischuk is the same city as [[Palashaey]] (“Palashae”) at this table; the names are used interchangeably in the notes.
+
+Palischuk/Palashaey is a surface city (and regional power center) closely associated with the **[[Warlock Knights of Vaasa]]**, major record-keeping/administration (“state records”), and the **tunnel network** that links the surface to the **[[Abeil Hive City]]** and older underworks.
 
 It is also where the party repeatedly returns to **refit, trade, and negotiate**, especially after the Abeil arc and the discovery of outsider-tech artifacts like the [[Eldritch Caster]].
 
@@ -14,9 +16,14 @@ It is also where the party repeatedly returns to **refit, trade, and negotiate**
 
 - Palischuk sits above/near a complex tunnel system; one branch leads back toward the [[Abeil Hive City]].
 - The [[Warlock Knights of Vaasa]] maintain a tower and exert authority over the city’s security and trade.
+- Palischuk/Palashaey is [[Cromash]]’s city (procurement hub, political leverage, throne-room politics).
 - The party made contact with the [[Harpers]] here via Yennefer’s underworld connections.
 - The party upgraded their carriage here using the [[Horseshoes of the Zephyr]] and other purchased materials (**[To verify]** which upgrades remain current vs. later revisions).
 - The city’s water security is entangled with a Tiamat cult foothold in the tunnels (see [[Tamerac]]).
+
+## Maps / Demographics
+
+For the handout map renders and the recorded demographics table, see `Codex/Places/Palashaey.md` (same city; different page focus).
 
 ## Notable Sites (as referenced in notes)
 

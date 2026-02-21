@@ -49,8 +49,31 @@ The `Module/` directory contains the user’s DM planning and session prep.
 
 ### During the session
 - When the user prompts you with events, add them to **Live Notes (chronological)** in today’s session file and tag them (**[Party]**, **[Voltaire-only]**, etc.).
+- For any user prompt that advances session chronology/actions, **capture the prompt verbatim** in the session log near the corresponding beat so it can be referenced later.
+  - Preferred format (append immediately before the beat it drives):
+    - `- **[Prompt]**`
+    - fenced block with the verbatim text (no paraphrase)
+  - Only include prompts that narrate in-session events/decisions; skip purely administrative requests (e.g., “regenerate portrait”).
 - Keep a short **Open Threads** list that you update as new hooks appear or resolve.
 - If Voltaire’s state changes (HP, exhaustion, items, spells, conditions, relationships), record it under **Character State**.
+
+## Persistent Open Threads (Player HUD)
+
+This repo maintains a cross-session “what Voltaire is thinking about” list:
+
+- Canonical file: `Codex/Lore/Open Threads (Voltaire).md`
+- Companion quick-reference (keep in sync with sheet): `Codex/Lore/Voltaire Quick Reference (Actions & Abilities).md`
+- Keep it **player-facing** and **actionable**: next actions, questions for the DM, and “experiments to try.”
+- Updating rules:
+  - Don’t delete threads; mark them **Resolved** with a date and a 1–2 bullet outcome.
+  - Preserve knowledge boundaries inline (**[Party]**, **[Voltaire-only]**, **[To verify]**).
+  - After each session, reconcile today’s `## Open Threads` section into the persistent list (add new items, advance existing items, resolve closed loops).
+- Keep the quick-reference accurate when Voltaire changes:
+  - If a new D&D Beyond snapshot is added (new date), update DC/attack bonuses, Sneak Attack dice, resources, and “key buttons.”
+  - If house rules change (e.g., Inspiration), update both the rules page and the quick-reference.
+- Referencing rules:
+  - When creating a new session file, include a link to the persistent open threads doc near the top (metadata or Open Threads section).
+  - If the user asks “what should we do next,” start from the persistent list and pick 1–3 concrete plays.
 
 ### After the session (optional)
 - Create or update a dated subfolder under `Adventures/YYYY-MM-DD/` for screenshots, maps, and longer “lore notes” if the user asks.
@@ -76,9 +99,9 @@ Adventure logs and Codex pages should be visual by default (think “interactive
 ### Where images live
 
 - **Adventure session assets**: store under `Adventures/YYYY-MM-DD/` and embed from the session log using relative paths, e.g.:
-  - `![Caption](./YYYY-MM-DD/filename.png)`
+  - `! [Caption](./YYYY-MM-DD/filename.png)`
 - **Codex entry reference images**: store **next to the `.md`** when possible so links remain stable, e.g.:
-  - `Codex/Places/<Place>.md` + `Codex/Places/<Place>_establishing.png`
+  - `Codex/Places/<Place>.md` + `Codex/Places/<Place>_establishing.png` (then embed with `! [Caption](./<Place>_establishing.png)`)
 
 ### Filenames (suggested)
 

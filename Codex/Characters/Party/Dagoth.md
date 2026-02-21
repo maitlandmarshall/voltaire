@@ -1,7 +1,10 @@
 #party-member #warlock #chronicler #player/matt
 
+![Dagoth](./Dagoth_portrait.png)
+
 **Affiliation**: The Party
 **Class**: Warlock
+**Ancestry**: Elf
 **Known For**: Diligent record-keeping, ritual casting, scientific curiosity
 
 Dagoth is the party's primary intellectual and chronicler, a Warlock whose approach to the arcane is more akin to a scientist than a traditional spellcaster. He meticulously documents the group's adventures in his diary, providing a crucial record of events, items, and interactions. His constant pursuit of knowledge and samples often puts him at odds with the party's more chaotic elements, but his skills in ritual casting and identification are invaluable.

@@ -12,6 +12,7 @@ Infernal currency used as stakes and/or ritual components in Voltaire’s notes,
 
 - Voltaire made a high-stakes bet with a horned demon for **16 soul coins** in the lead-up to completing the demon-gate ritual (**[To verify]** exact demon identity).
 - After the ritual succeeded, the demon refused to honor the deal and Voltaire destroyed it with [[Sun Card]] (source: `Adventures/Voltaire's Notes/Voltaire's D&D Notes.json`).
+- **[Party] (2026-02-21)** At Palashaey’s gate, a guard accepted **1 soul coin** as worth **500 gp**, returning **450 gp** as change for a **50 gp** “fee” to let “Titania” pass. (**[To verify]** whether this is an official rate, a guard’s hustle, or a broader local norm.)
 
 ## Voltaire-Only Notes
 
@@ -23,4 +24,3 @@ Infernal currency used as stakes and/or ritual components in Voltaire’s notes,
 - Are these coins physically present, or only “recorded” inside the Crab Book as symbolic/arcane currency?
 - Do soul coins interact with [[The Ink of Unbeing]] or Voltaire’s budding [[Divine Rank 0]]?
 - Does Shar/Glasya care about the coins themselves, or the act of gambling them?
-
