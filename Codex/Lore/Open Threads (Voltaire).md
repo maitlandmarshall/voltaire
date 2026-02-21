@@ -206,6 +206,35 @@
     - **Cyrinishad**-style “forced devotion” heresy text (the classic ‘read → worship’ book). **[To verify]** availability.
     - **Books of Keeping**-style true-name ledgers (fiendish bureaucracy leverage). **[To verify]** availability.
     - **Tablets of Fate**-style cosmic record (not a book, but *the* divinity-mechanics keystone). **[To verify]** availability.
+  - **New (2026-02-21 | Voltaire-only)**: Voltaire actually reaches the **archives** while invisible and “Titania-voices” his way past an archivist.
+    - **Archive ward grid (To verify)**: Voltaire stands within a 2×2 floor sigil grid labeled **Crucible / Spirit / Gold / Spirit** and sketches [[Voltaire's Followers]] sigil into a missing “Lead” slot; he reports an **enshadowing** and the light dimming.
+    - **Findings absorbed (3 books + 2 scrolls + 1 loose document)**:
+      - Rainfall trend (“Power word Fall” scroll) covering ~10 years; implies glacier melt + increased basin rainfall.
+      - New-town civil report: sewers not deep enough / don’t go anywhere; under new town is effectively a large septic tank.
+      - Population trend report: city approaching/exceeding capacity (**[To verify]**).
+      - Non-aggression pact: elves west / dwarves east; text favors Warlock Knights (renege leverage).
+      - Loose archive doc: **Telos** “Master of the Iron Sky” god-body beneath the city mined by the Knights; **ironfelt** threaded through city metal.
+      - “Nisadrin / Bound Ones”: arcane casters bound to the Knights via a Telos pact; luminaries; purple tendrils motif.
+    - **Visitor-book act (To verify)**: Voltaire later writes “Voltaire is divine” on every line of the tower **visitor book** using [[The Ink of Unbeing]], leaving an underlined “sign here” space at the end. This may become a belief-anchor, a ward trigger, or evidence.
+      - **Clarification (To verify)**: Voltaire reports writing **35 lines** at ~**6 seconds/line** (≈ **3.5 minutes**), impeccably consistent.
+    - **Library move (New, 2026-02-21 | Voltaire-only | To verify)**:
+      - The archivist leaves; Voltaire goes downstairs into the **library** (distinct from the **town archives** room).
+      - Two guards challenge access; Voltaire claims Titania expects him and he’s “repairing sigils” (**Deception 24**).
+      - Voltaire sends the guards away to fetch **a gallon of werewolf blood** and **hellhound blood** to “repair the sigil,” then slips inside.
+      - Voltaire asks the crab-book-tail (skitter/crab speech) to smell out a leather-bound book on **demons / divine ranks / divinity**, adjacent in theme to [[Book of Exalted Deeds]] / [[Book of Vile Darkness]].
+      - Voltaire pockets **Glimpse within the Abyss** (two volumes), attributed to **[[Tayhra Savras]]**. **[To verify]**
+      - Voltaire scans for ward tiles like upstairs and reports spotting a faint **Mercury** symbol in slightly darker tiles. **[To verify]**
+      - **New (2026-02-21 | Party | To verify)**: Cornholio returns to meet “Titania” in the library.
+      - **New (2026-02-21 | Voltaire-only | To verify)**: The guards return with blood reagents:
+        - They fail to secure **werewolf** blood and bring **werebear** blood instead.
+        - Voltaire pockets the blood and orders one guard to procure **butterfly blood**.
+        - Voltaire orders the other guard to procure the **highest / most potent blood** he can get.
+        - Voltaire explains “risk” to both guards; they seem convinced. **[To verify]**
+      - **New (2026-02-21 | Party | To verify)**: Cornholio finds a book that makes him feel sick and throws it at Voltaire; Voltaire catches it with the crab-book-tail and absorbs it: **[[Dark Moon Heresy]]**.
+        - Claim surfaced: **Shar and Selûne are the same being.** **[To verify]**
+        - Selûne is a guardian/anchor for **lycanthropes**. **[To verify]**
+        - Voltaire, in a moment of clarity, believes he has “married” a god he labels “BPD.” **[To verify]** what he meant.
+      - **New (2026-02-21 | Party | To verify)**: An unnamed dwarf sigil expert appears in the doorway, questions Voltaire’s work, and asks what “university” he’s from; Voltaire bluffs “**[demon-name] University**” and blames **Dagoth**.
 
 ### T17 — Titania cover compromised (Dagoth dispels)
 
@@ -220,6 +249,12 @@
   - Decide whether Voltaire doubles down on stealth-burglary (invisible entry) or re-masks with a new identity.
   - Decide whether to confront Dagoth later (apology, threat, leverage) or keep the mystery.
   - Track the split: does Dagoth go to ground, seek Warlock Knights, or watch the enclave?
+  - **Quick “salvage the library” options (while unseen)**:
+    - **Key/Token lift**: trail a Knight or clerk → pickpocket keys, signet, ward-pass, or library chit; then enter normally.
+    - **Alternative entry**: look for service doors, drainage/river inlets, roof hatches, or a delivery vestibule; use thief tools quietly.
+    - **Eavesdrop first**: listen at guard posts for “enclave” chatter, ward protocols, and which door *isn’t* trapped.
+    - **Inside re-mask**: stay invisible to get *past the threshold*, then `Disguise Self` into a junior scribe/runner once in a corridor.
+    - **Abort cleanly**: if anti-invisibility wards or alarm glyphs are obvious, retreat now and try the “ward inspection” script later with better prep.
 
 ### T14 — Water-source sigil experiment (city-scale faith seeding)
 

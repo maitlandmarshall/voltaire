@@ -23,3 +23,11 @@
 
 - What are the explicit benefits/limits of Divine Rank 0 at this table?
 - What escalations (rank-up triggers) exist: follower thresholds, domain acts, divine bargains, artifacts consumed?
+
+## New Leads (2026-02-21 | Voltaire-only) — To Verify
+
+- Warlock Knights archive material (absorbed by Voltaire) suggests Palashaey/Palischuk sits atop a buried metal god-body identified as [[Telos]], mined for **ironfelt** (see `Codex/Lore/Telos.md` and `Codex/Lore/Ironfelt.md`).
+- If true, this could be an apotheosis accelerant:
+  - Ironfelt as a possible **city-scale conduit** for wards, oaths, and “belief plumbing.”
+  - Nisadrin “Bound Ones” as existing **priest-wizard infrastructure** Voltaire could corrupt/convert (see `Codex/Lore/Nisadrin (Bound Ones).md`).
+  - A sleeping god as a potential **dream-throne** to squat in (or a catastrophe to weaponize).

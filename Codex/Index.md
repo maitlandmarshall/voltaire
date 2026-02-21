@@ -24,10 +24,16 @@
   - `Codex/Items/Implements of Mother Hydra.md`
   - `Codex/Items/Shadow's Fell.md`
   - `Codex/Items/Warlock's Stone.md`
+  - `Codex/Items/Glimpse within the Abyss.md`
+  - `Codex/Items/Dark Moon Heresy.md`
 - Lore: `Codex/Lore/`
   - `Codex/Lore/Divine Rank 0.md`
   - `Codex/Lore/Open Threads (Voltaire).md`
   - `Codex/Lore/Voltaire Quick Reference (Actions & Abilities).md`
+  - `Codex/Lore/Telos.md`
+  - `Codex/Lore/Ironfelt.md`
+  - `Codex/Lore/Nisadrin (Bound Ones).md`
+  - `Codex/Lore/Warlock Knights Archive Ward Grid.md`
   - `Codex/Lore/Explosive Swamp Frogs.md`
   - `Codex/Lore/Fae.md`
   - `Codex/Lore/Kelemvor.md`
@@ -52,6 +58,7 @@
   - `Codex/Characters/Sharias.md`
   - `Codex/Characters/Shrek.md`
   - `Codex/Characters/Unclaimed Slave (Palashaey).md`
+  - `Codex/Characters/Tayhra Savras.md`
 - Powers: `Codex/Powers/`
   - `Codex/Powers/Demon Gate.md`
   - `Codex/Powers/Book-Scent Synesthesia (Author-Sense).md`

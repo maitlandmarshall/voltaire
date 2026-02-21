@@ -32,3 +32,11 @@ The Warlock Knights of Vaasa are a powerful arcane order operating in and around
 - What is the Knights’ founding myth, hierarchy, and “Vaasa” mandate at this table?
 - Are they protectors, occupiers, or opportunists?
 - What does the Warlock’s Stone “anchor” actually anchor to: a tower ward, a specific Knight, or the region itself?
+
+## Voltaire-Only Intel (2026-02-21) — To Verify
+
+- **[Voltaire-only | To verify]** Voltaire reports slipping into the tower archives while invisible and absorbing multiple documents.
+- **Buried god-body mining** (**[Voltaire-only | To verify]**): A loose archive document describes a vast metal body beneath Palashaey/Palischuk identified as [[Telos]] (“Master of the Iron Sky”), currently lost in dreams/unconsciousness, and claims the Knights are **mining** it.
+- **Ironfelt** (**[Voltaire-only | To verify]**): The same source claims city metal is threaded with **ironfelt** (see `Codex/Lore/Ironfelt.md`).
+- **Nisadrin / Bound Ones** (**[Voltaire-only | To verify]**): Arcane casters sworn to the Knights via a pact with Telos; “wizard priests,” elite “Luminaries,” with power manifesting as **glowing purple tendrils** (see `Codex/Lore/Nisadrin (Bound Ones).md`).
+- **Treaty leverage** (**[Voltaire-only | To verify]**): Voltaire absorbed a non-aggression pact involving elves west / dwarves east that he believes heavily favors the Knights and gives them “renege at will” leverage.

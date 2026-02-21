@@ -196,6 +196,37 @@ Key-Tags are brass locker tags the Quillmaster uses as both **keys** and **curre
 - **Loose tags (arena loot):** tags can appear as scattered pickups. Grabbing one normally costs an action, but the arena may grant “free” grabs to anyone who spilled an ally’s blood that round.
 - **Excess Key-Tags:** can be “bundled” in the Ludus to open the **Vault of Margins** (including legendary stage-prop gear usable in the one-shot). See [Vault of Margins (Key-Tag Rewards)](<Scene 0/04 - Vault of Margins (Key-Tag Rewards).md>).
 
+### Scene 1 Add-On: True Polymorph as PvP Bait (the “Form Writ”)
+
+If you want the table to *choose* PvP (instead of feeling forced into it), make the temptation concrete: give them access to a **True Polymorph-like effect** that is most “profitable” when used on another PC.
+
+**Pitch (Quillmaster, smiling through stitches):**
+> “A ninth-circle rewrite. One sentence. One signature. One *volunteer*… or one *winner*.”
+
+**The item:** *Form Writ (Torn Page)* — a single-use, ink-stamped “scroll” that functions like **True Polymorph**, but is explicitly **mindscape-only**.
+
+- **Use:** 1 action, 30 ft, requires line of sight. The user must **read the Writ aloud** (Voltaire hears it).
+- **Targeting:** you can’t target yourself with it (this is the social wedge). Target is either:
+  - **willing**, or
+  - **incapacitated / restrained** (i.e., you “earned the signature”).
+- **Save:** Wisdom save (suggest DC 18) to resist *unwilling* rewriting.
+- **Forms:** keep it fun and table-fast:
+  - creature → creature only (no objects),
+  - no legendary / mythic creatures,
+  - cap at roughly the target’s CR/level (or “big beast / scary humanoid / weird demon-looking thing” by vibe).
+- **Duration:** concentration up to 10 minutes.
+  - If maintained for the full duration, the form becomes “ink-stable” **until the end of the module** (it still snaps back when they exit Voltaire’s head).
+- **Counterplay:** ending concentration ends the effect; **Dispel Magic** ends it (treat as 9th-level for the check); knocking the caster unconscious ends it.
+
+**How to hand it out (pick one dial):**
+
+- **Soft (recommend first run):** the sponsor offers **one Form Writ** in exchange for drama. If a PC uses it on **another PC**, gain **+2 Favor** and **+1 Key-Tag**. If they use it on an NPC/monster, gain **+1 Favor** only.
+- **Medium:** the Quillmaster puts a sealed Form Writ on a hook outside the cage: “first nonlethal KO” gets it.
+- **Hard (PvP-forward table):** the **Gate of Forms** in the Ludus only accepts a “Form signature.” The cleanest solution is willing cooperation, but the fastest solution is a nonlethal takedown and rewrite.
+
+**Safety note to say out loud (10 seconds):**
+- “This module offers PvP incentives and body-rewrite magic. Keep it **nonlethal**, keep it **fun**, and if anyone’s not into it we’ll pivot to co-op targets / cosmetic forms only.”
+
 ### Key NPCs (keep it small)
 
 **The Lanista: The Quillmaster**

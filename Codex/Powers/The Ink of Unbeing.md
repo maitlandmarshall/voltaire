@@ -53,6 +53,9 @@ This power is deeply intertwined with [[Voltaire]]'s entire being, even if he is
 - **Fae conversion**: Voltaire transplanted/replaced the memories of two fae creatures, overwriting their memories of their gods with memories of Voltaire.
 - **“Fine print” conversion**: Voltaire created a note using the Ink that contained real/useful knowledge (e.g., treasure/location). [[Shrek]] accepted it; hidden fine print bound belief in Voltaire.
 - **Sigil inscription (material use)**: Voltaire used the Ink as the “dark” component when carving the followers’ sigil into the Shadowfell aspen, causing the mark to sink/age into the bark as if always present.
+- **Visitor-book inscription** (**2026-02-21 | To verify**): Voltaire wrote “Voltaire is divine” on the Warlock Knights tower **visitor book**, leaving a final underlined “sign here” space.
+  - **Clarification (To verify)**: Voltaire reports writing **35 lines** at ~**6 seconds/line** (≈ **3.5 minutes**) with impeccably consistent “font/hand.”
+  - **[To verify]** Whether this is a belief-binding/faith rewrite effect, a magical “anchor,” or simply provocative writing with residue.
 
 ## Speculation / Intent (not yet confirmed as executed)
 

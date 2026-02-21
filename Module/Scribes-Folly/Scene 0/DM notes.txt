@@ -1,3 +1,5 @@
+Scene 0 (already played IRL) — Table Log
+
 Scene 0:
 Lachlan - holds up his bag, and feels a bore hide that he sold.
 	he sold to a travelling merchant, in exchange for 10 gold and some wine.
@@ -72,6 +74,18 @@ Initiative
 	Matt - 11
 	Chritinia - 8
 	Stu - 4
-	
-	
+
+---
+
+Scene 1 (next) — Quick Start Notes
+
+- Scene 0 ended with the battle and a smash-cut teleport: everyone wakes back in the jail / ludus, Spartacus vibe.
+- Use `Module/Scribes-Folly/01 - The Scribe's Folly.md` → **Scene 1 — The Cage of Commentary** for the opener beats and first set of choices.
+- If you want to push PvP in a “choice, not coercion” way, use the **Form Writ (True Polymorph-like)** add-on in Scene 1.
+
+---
+
+Scene 0 extras (only if you ever replay / flashback it)
+
+- `05 - Scene 0 - DM Run Sheet.md` has optional personalized cold opens + an optional “Speak a Rule” once-total moment.
 	

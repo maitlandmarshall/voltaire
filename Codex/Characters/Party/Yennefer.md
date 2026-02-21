@@ -1,7 +1,10 @@
 #party-member #tiefling #wings #player/norhan
 
+![Yennefer — portrait](./Yennefer_portrait.png)
+
 **Affiliation**: The Party
 **Race**: Tiefling
+**Player**: Norhan
 
 Yennefer is a resourceful and often volatile member of the party, a Tiefling who pursues her goals with relentless, and at times, reckless determination. Her recent interactions with both the [[Abeil Hive City]] and the divine machinations surrounding [[Shar]] have left her physically and psychically altered, marking her as a wildcard in the group's adventures.
 

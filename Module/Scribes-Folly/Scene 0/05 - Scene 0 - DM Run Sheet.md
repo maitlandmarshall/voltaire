@@ -2,6 +2,10 @@
 
 Use this as your at-table “one page” reference. Everything else is linked.
 
+## Status (if you’re mid-campaign)
+
+If Scene 0 already happened at your table, jump to Scene 1 in `Module/Scribes-Folly/01 - The Scribe's Folly.md` and treat this file as “flashback / rerun support”.
+
 ## Links (open these)
 
 - Script + outcomes: [Scene 0 — Reality Slip & Capture](<00 - Scene 0 - Reality Slip & Capture.md>)
@@ -29,6 +33,20 @@ Use this as your at-table “one page” reference. Everything else is linked.
 - Voltaire (disembodied): *“Excellent. We’ve arrived at the interesting part.”*
 - Tell them plainly (in-world is fine): **“You can’t win. You can only choose what you carry forward.”**
 
+## Personalized Cold Opens (optional, 30–90 seconds total)
+
+Drop 0–2 of these into the montage to “catch” specific players early.
+
+- **Vlad (Lachlan) — the boarhide comes back:** Vlad reaches into his bag and feels the **boar hide** he sold (10 gp + wine). It’s there again, impossible. A hot brand stings his palm: a **triangle** pressed into the hide like a seal.
+- **Vlad (Lachlan) — Shar’s whisper-line:** A sentence he’s never said out loud appears in subtitles and then gets crossed out: *“I’ve only known dishonesty and secularism.”*
+- **Kithari (Jakabo) — rune memory seed:** The wind carries a clean rune-thought: *“Despite the void, I feel a sense of belonging.”* Then the void answers in his own voice: *“The wind speaks in my voice, and it says: stay.”*  
+  - If you want to make this mechanical: write these down as Kithari’s first 2 “rune memories” (see `Slips/Kithari Razor-Ash (Jakabo).md`).
+- **Any PC — “Those who speak truly, act truly.”** For a blink, the world overlays a clause: **THOSE WHO SPEAK TRULY, ACT TRULY.**  
+  - Optional ruling: if a creature tells a deliberate lie during Scene 0, their next movement must “match the lie” in a slapstick way (DM adjudicates generously; make it comedic, not punitive).
+- **Any PC — “trash” hook (PvP bait without mind control):** Loose scraps of “draft text” flutter down like confetti (torn pages, broken quills, redacted labels). If anyone offers a scrap to another PC (“take my trash”), give **+1 Favor** once (the crowd loves the pettiness) and let that become a social wedge.
+- **One PC (Emily note) — Gate Clue Vision:** As the page flips, one character gets a 2-second vision: **Circle / Square / Triangle** glyphs at the base of a thumb, and a gate latch shaped like a **triangle brand**. Give them **one** concrete hint about your Gate puzzle for Scene 1 (keep it partial).
+  - Optional extra: tell them they spot “a smuggled face in the crowd” (an audience member the party knows). If they call it out dramatically, award **+1 Favor**.
+
 ## Handouts (do this before Round 1)
 
 - Hand each player **one** slip from `Slips/…` (secretly).
@@ -46,6 +64,13 @@ Use this as your at-table “one page” reference. Everything else is linked.
 - “First blood earns **+1 Favor**.”
 - “End of Round 1: **Crown of Ink** goes to the biggest damage dealer.”
 - “Loose Key-Tags are on the ground. Picking one up is **an action**… unless you’ve damaged a ‘friend’ this round—then it’s **free once**.”
+
+## Optional Variant: “Speak a Rule” (once total)
+
+If you want a big, table-forward “rules-as-physics” moment, add this:
+
+- **Once total** during Scene 0 (recommend: end of Round 2), the crowd “finds a transcript” and demands a ruling. One PC may declare **one short rule out loud** (e.g., “Anyone who lies is slowed,” “Fire heals,” “Names are binding”).
+- For **1 round**, treat it like a Voltaire Lair Rule: it becomes true physics **within reason** and with an obvious loophole the table can exploit.
 
 ## Boss Cheatsheet (The Redactor)
 
