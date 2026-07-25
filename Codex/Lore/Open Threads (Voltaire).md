@@ -11,13 +11,13 @@
 - Keep this open alongside: `Codex/Lore/Voltaire Quick Reference (Actions & Abilities).md`
 - When something advances or resolves, **don’t delete it**—mark it **Resolved** with the session date and (optionally) add a short “what it turned into.”
 
-## Current Focus (Start of session: 2026-02-21)
+## Current Focus (Start of session: 2026-07-25)
 
-1) **Palashaey procurement + operations**: turn “furniture shopping” into a base plan (staff, wards, supply chain, politics). **[Party]**  
-2) **Someone is watching**: clairvoyance/scrying on the road to Palashaey—identify the watcher and intent. **[Party]**  
-3) **Voltaire’s temple secret**: what he did in the temple that he won’t tell the party (yet). **[Party knows there is a secret]** / **[Voltaire-only details]**  
-4) **The Swamp Silence**: why the swamp went dead silent after frog detonation. **[Party]** / **[Voltaire-only interpretation]**  
-5) **Dragon-memory lead**: green dragon slain by gold dragon that flew west—timing, corpse, hoard. **[Party]**  
+1) **Define the apotheosis**: Voltaire is now [[Divine Rank 1]], with V as his divine symbol and **Domain of Unbecoming** as his claimed/proposed domain. Establish mechanics, recognition, obligations, and vulnerabilities. **[Voltaire-only | To verify mechanics]**
+2) **Reach the anti-light**: Voltaire is ascending the tower in giant-spider form. Learn what the summit sphere is before attempting the planned **aspen ↔ flesh marks ↔ sphere** portal network. **[Voltaire-only]**
+3) **Interpret Mask’s vacancy**: Voltaire destroyed dethroned Mask’s hollow statue, occupied its place for six subjective months, and carried rubble away on his Robe of Eyes. Determine whether this was succession, theft, trial, or symbolism. **[Voltaire-only | To verify]**
+4) **Understand Shar’s correction**: define what happened when creating life drained Voltaire and Shar stopped the experiment; identify what remains in the creatures now marked with V. **[Voltaire-only | To verify]**
+5) **Reconnect with the party**: only about one combat round passed for them while Voltaire experienced six months. The party is now fighting a many-eyed, iridescent dragon-like creature; determine whether Voltaire knows this in-world or can assist. **[Mixed | To verify]**
 
 ## Voltaire’s “Moves” (Quick Experiment Menu)
 
@@ -72,15 +72,15 @@
   - Clarify what each shape demands (choice constraints, costs, win conditions).
   - Decide what Voltaire will offer Shar as stake that isn’t just “more suffering.”
 
-### T05 — The Ink of Unbeing / the missing voidbone pen
+### T05 — The Ink of Unbeing / voidbone pen
 
 - **Status**: Active
-- **Knowledge boundary**: Mixed (Ink’s effects are **[Party]**-visible when used; “voidbone pen” specifics are **[To verify]**)
-- **What’s happening**: Voltaire has used [[The Ink of Unbeing]] to extract/implant memory, but the “pen carved from the voidbone of his former self” is not clearly tracked as a literal item vs metaphor/stand-in implement.
+- **Knowledge boundary**: Mixed (Ink’s effects are **[Party]**-visible when used; pen specifics are **[Voltaire-only]**)
+- **What’s happening**: Voltaire has used [[The Ink of Unbeing]] to extract/implant memory. On 2026-06-06, he identified and used the **voidbone pen** to manipulate the concepts of darkness, light, and life in dark creatures. Whether it is a persistent, discrete carried item remains **[To verify]**.
 - **Next actions (in play)**:
-  - Ask Lachlan: is the “voidbone pen” a **real, carried item** Voltaire has, or a **metaphor** / “counts-as” tool?
+  - Ask Lachlan whether the voidbone pen is a **persistent carried item**, a manifestation, or a “counts-as” tool.
   - If it’s real: where is it stored, what does it look like, and what are its constraints/costs?
-  - Define safe/unsafe use-cases (memories, contracts, “fleshless truth”), and what hard limits exist (range, consent, saves, permanence, backlash).
+  - Define the hard limits and costs of manipulating **concept-memories**, especially life, and what Shar can veto.
 
 ### T06 — Shadowfell aspen “wind language” + umbral sunflowers
 
@@ -179,9 +179,9 @@
 
 ### T13 — Tower of the Warlock Knights: library raid / research
 
-- **Status**: Active (2026-02-21)
+- **Status**: Active (advanced 2026-02-21; later resolution missing from the written record)
 - **Knowledge boundary**: **[Voltaire-only]** (until shared in-play)
-- **What’s happening**: Voltaire (as “Titania”) is heading toward the **Tower of the Warlock Knights** with intent to access a library of ancient/powerful books.
+- **What’s happening**: Voltaire infiltrated the **Tower of the Warlock Knights**, raided its archives and restricted library under a broken “Titania / sigil repair” cover, and has now been teleported into an unknown dark room.
 - **Next actions (in play)**:
   - Decide the goal: steal books, read fast, copy, sample pages, or “feed” the crab-book.
   - Identify defenses: wards, librarians, record-keepers, cursed volumes, or “you touched it so it knows you.”
@@ -235,6 +235,10 @@
         - Selûne is a guardian/anchor for **lycanthropes**. **[To verify]**
         - Voltaire, in a moment of clarity, believes he has “married” a god he labels “BPD.” **[To verify]** what he meant.
       - **New (2026-02-21 | Party | To verify)**: An unnamed dwarf sigil expert appears in the doorway, questions Voltaire’s work, and asks what “university” he’s from; Voltaire bluffs “**[demon-name] University**” and blames **Dagoth**.
+      - **Cliffhanger (2026-02-21 | Voltaire-only | To verify)**:
+        - The dwarf abruptly teleports himself and Voltaire into an unknown **dark room** occupied by several eerily calm figures.
+        - Voltaire scatters **ball bearings** across the floor as an improvised hazard and movement alarm.
+        - The 2026-06-06 notebook resumes much later in the Feywild without explaining this scene’s resolution.
 
 ### T17 — Titania cover compromised (Dagoth dispels)
 
@@ -268,6 +272,47 @@
 - **Next actions (in play)**:
   - Ask Lachlan what the Ink’s mechanical constraints are (scope/limits/backlash).
   - Consider a smaller, deliberate ritual target (a single well/cistern, a shrine font, an oath-cup) instead of the full supply.
+
+### T18 — Bloodweb spider agreement and the darkening Feywild
+
+- **Status**: Active (2026-06-06)
+- **Knowledge boundary**: **[Voltaire-only]**
+- **What’s happening**: During roughly six subjective months in the Feywild, Bloodweb spiders accepted Voltaire into their hive. He lived from their victims, ate two fae, performed a new bone ritual every day, and realised their territory was becoming darker as fae disappeared and shadow creatures appeared.
+- **Next actions (in play)**:
+  - Define the terms of the agreement and whether the spiders now count as allies, followers, or something more dangerous.
+  - Ask what changed in the territory mechanically and whether the red/Bloodweb spiders are shadow creatures. **[To verify]**
+  - Decide whether Voltaire wants to cultivate, contain, or abandon this emerging domain.
+
+### T19 — Bright-darkness tower and Shadar-kai initiation
+
+- **Status**: Active (2026-06-06)
+- **Knowledge boundary**: **[Voltaire-only]**
+- **What’s happening**: Voltaire reached a roughly 30 km tower crowned by “bright darkness.” Roughly twenty Shadar-kai deliberately revealed themselves, heard Voltaire’s sermon, and initiated him: their leader whipped him and used his offered Shadow Dagger to carve V into his chest and forehead. They admitted him, licked his blood away, adorned/dedicated themselves to him, and became followers/initiates.
+- **Next actions (in play)**:
+  - Identify the tower, summit anti-light, and Shadar-kai order; learn their expectations and what their initiation grants.
+  - **Advanced 2026-07-25**: Voltaire completed a statue-room rite, destroyed dethroned Mask’s hollow statue, and occupied its place for six subjective months.
+  - **Underway 2026-07-25**: Voltaire is ascending toward the summit in giant-spider form.
+  - **First divine rite declared, not yet resolved (2026-07-25)**: Voltaire will thank Shar; cut her circle/square/triangle geometry into his flesh; let his blood fall on the tower’s highest point; form the followers’ sigil around the anti-light; and place V through it.
+  - **Intended result 1**: claim and transform the tower into Voltaire’s realm, a threshold or middle ground between the Feywild and Shar’s realm.
+  - **Intended result 2**: call to Voltaire’s other placed marks and awaken a teleportation network between qualifying sigils.
+  - Establish the rite’s cost, checks, divine witnesses, Shar’s response, territorial effect, eligible anchors, access rules, range, and failure consequences. **[To verify]**
+  - Determine whether the pale/white-skinned human image of Shar was a vision, memory, aspect/avatar, or physical encounter. **[To verify]**
+  - Determine what the **Blessing of V** grants Robin mechanically and whether Voltaire can bestow it on others.
+
+### T20 — Blood Temple remote manifestation / Cornholio conduit
+
+- **Status**: Active (2026-07-25)
+- **Knowledge boundary**: **[Party]** for the temple event; **[Voltaire-only]** for the reverse-eye perception.
+- **What’s happening**: Before Voltaire’s planned summit rite occurred, he suddenly perceived through Cornholio/Tom’s eye “in reverse” while the party planned to convert the [[Temple of Blood]] to Shar. The temple turned black, Voltaire’s voice echoed “Machinations,” many eyes appeared around its walls and coalesced into V, and its oppressive atmosphere diminished as it was described as cleansed in Voltaire’s name.
+- **Possible conduit [To verify]**: The notes associate Voltaire’s influence with Cornholio/Tom having signed the Ink-laden visitor book at the Warlock Knights’ tower.
+- **Next actions (in play)**:
+  - Ask Cornholio what signing the book did, what the connection felt like, and whether he can open, resist, or sever it.
+  - Determine whether the event was remote sight, divine speech, influence/possession, consecration, or several effects at once.
+  - Inspect whether V remains physically or metaphysically marked in the temple and whether it now counts as Voltaire’s shrine, territory, or future teleportation anchor.
+  - Establish what the “cleansing” removed and how Shar or the temple’s former power responds.
+  - **Party combat underway**: The party moved into a sundew-filled chamber, began burning the plants, and was attacked by at least two [[Lizard-Scorpion Beasts (Blood Temple)|lizard-scorpion beasts]]. One drips black ooze from its tail; another produced an unclear pheromone effect. Norhan’s character dealt 150 damage and removed a leg without stopping the first beast.
+  - Identify the creatures, black ooze, pheromone mechanics, and whether the temple’s cleansing provoked or released them.
+  - Keep this event distinct from the planned tower rite, which remains **unperformed**.
 
 ## Longer-Term / Legacy Threads (Pulled forward from older notes)
 
@@ -303,13 +348,14 @@
 
 ### L06 — Divine ascension by will (Rank 0 → higher)
 
-- **Status**: Active (ongoing)
+- **Status**: Advanced to [[Divine Rank 1]] (2026-06-06; mechanics not yet recorded)
 - **Knowledge boundary**: **[Voltaire-only]** (until expressed in-play)
-- **What’s happening**: Voltaire’s overarching goal is to “will” himself into higher divinity. So far he’s advanced this by acquiring followers and implanting belief/worship memories (Ink of Unbeing conversions; disciples like [[Robin]]). See `Codex/Lore/Divine Rank 0.md` and `Codex/Factions/Voltaire's Followers.md`.
+- **What’s happening**: Voltaire’s overarching goal is to “will” himself into higher divinity. After acquiring followers, implanting belief, darkening a Feywild territory, and receiving roughly twenty Shadar-kai followers/initiates, he advanced from [[Divine Rank 0]] to [[Divine Rank 1]] on 2026-06-06. V is his confirmed divine symbol. He calls his proposed domain the **Domain of Unbecoming**, pending table recognition. See `Codex/Factions/Voltaire's Followers.md`.
 - **Next actions (in play)**:
-  - Clarify the “rank-up triggers” at this table (thresholds, domain acts, artifacts, bargains).
+  - Record Rank 1’s explicit benefits, limits, domain, and responsibilities.
   - Decide the “clean” worship pipeline (voluntary rites, contracts, oaths) vs coercive implantation (higher risk, higher backlash).
-  - Choose a domain expression for Voltaire (memory/ink/contracts/sunlight/rules) and perform repeatable “domain acts” to make reality agree.
+  - Ask the table whether **Domain of Unbecoming** is formally recognised and what portfolio/mechanics it grants.
+  - If the summit sphere permits it, attempt the first repeatable domain act: linking marked thresholds through the planned portal network.
 
 ## Resolved (Keep for Continuity)
 

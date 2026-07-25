@@ -48,3 +48,23 @@ Shar's engagement with Voltaire seems driven by a profound and calculating curio
 *   **The Sharite Dagger**: The fact that he carries one of her ceremonial weapons (see [[Sharite Ceremonial Dagger]]) is a mystery she likely intends to solve.
 *   **[[The Ink of Unbeing]]**: This power, linked to the "House Sharimythal," operates directly within her portfolio of memory and loss. His potential as "The Inephemeral Scribe" makes him a figure of immense interest.
 *   **The Game Itself**: A mortal attempting to codify the rules of reality and inviting her to play is a novel form of worship or blasphemy that she cannot ignore.
+
+## Feywild Tower Manifestation (2026-06-06)
+
+- **[Voltaire-only]** Voltaire perceived Shar’s influence in a darkening region of the Feywild and followed it to a mountain tower crowned by a sphere of “bright darkness.”
+- **[Voltaire-only]** While using the voidbone pen to combine the concepts of darkness, light, and life in nearby dark creatures, Voltaire’s own life force began to drain. He understood that Shar was stopping him from creating a new form of life.
+- **[Voltaire-only]** During the experiment he perceived Shar as an immense human woman with **pale/white skin** and knew the figure was Shar.
+- **[To verify]** It is not yet clear whether this was Shar’s human form, an aspect/avatar, a vision, a symbolic memory, or an interpretation imposed by the concept-memory experiment.
+
+## Tower Statue Chamber (2026-07-25)
+
+- **[Voltaire-only]** The Shadar-kai led Voltaire into a chamber containing divine statues identified as Shar, [[Loviatar]], and dethroned [[Mask]].
+- The rite focused on Voltaire destroying Mask’s hollow statue and occupying its place for six subjective months; Shar’s statue remained intact.
+- **[To verify]** Whether the chamber belongs to Shar, judges potential divine successors, preserves dethroned offices, or stages a different symbolic trial.
+
+## Voltaire’s First Divine Rite — Declared Intent (2026-07-25)
+
+- **[Voltaire-only | Declared, not yet resolved]** Voltaire intends to begin his first openly acknowledged divine rite by praying to Shar and thanking her for her part in his becoming.
+- He plans to inscribe Shar’s circle/square/triangle geometry into his own flesh before using the resulting blood to form his followers’ sigil around the tower’s summit anti-light.
+- Voltaire’s gratitude does not concede the tower to Shar: he intends to place V through the blood-sigil, claim the tower as his own threshold realm, and awaken a linked teleportation system.
+- **[To verify]** Whether Shar understands this as gratitude, worship, succession, theft, blasphemy, an accepted move in their game, or several of these at once.

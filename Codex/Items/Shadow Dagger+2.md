@@ -11,11 +11,13 @@ A dagger listed twice on Voltaire’s D&D Beyond inventory (suggesting he carrie
 ## What the Party Knows (in-play)
 
 - Voltaire carries at least one “Shadow Dagger+2” (inventory).
+- **2026-06-06 [Voltaire-only]**: Voltaire offered a Shadow Dagger to a Shadar-kai leader, who used it to carve V into Voltaire’s chest and forehead during the tower initiation.
 
 ## Known / Reported Traits
 
 - +2 weapon (from name).
 - **[To verify]** Voltaire has described a returning/recall behavior (“can reappear in hand”), but the precise mechanic is unclear.
+- **[To verify]** Whether the offered dagger returned to Voltaire or remains with the Shadar-kai leader.
 
 ## Possible Overlap
 

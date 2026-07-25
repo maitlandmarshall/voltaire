@@ -37,6 +37,12 @@ Since his return, Cornholio has been instrumental in party activities, including
 
 Voltaire perceives Cornholio with a mix of camaraderie and strategic interest. He is keenly aware that Cornholio is Shar's consort ("your fella, right?"), a fact he views as a fascinating social and tactical variable. Voltaire has nominated Cornholio as a key participant in his proposed "Head-Space™" game, citing his "matrimonial adjacency" as a factor that might boost Shar's attendance or interest.
 
+### Visitor-Book Conduit (2026-07-25)
+
+- **[Party | To verify mechanism]** The session notes associate Cornholio/Tom signing the Ink-laden visitor book at the Warlock Knights’ tower with Voltaire later perceiving through his eye “in reverse” and apparently influencing or manifesting through him at the [[Temple of Blood]].
+- During the manifestation, the temple turned black, Voltaire’s voice echoed “Machinations,” numerous eyes formed around the walls and coalesced into V, and the oppressive atmosphere diminished.
+- **[To verify]** Whether Cornholio knowingly signed, what he experienced during the connection, whether he could resist it, and whether his status as Shar’s chosen/consort was necessary.
+
 ## Notable Abilities & Possessions
 
 *   **Echo Knight Abilities**: Able to summon an echo of himself to scout, fight, and swap places with.

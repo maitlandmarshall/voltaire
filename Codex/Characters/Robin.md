@@ -23,9 +23,14 @@ Robin is Voltaire’s “Sun Card” turned disciple: a luminous, Tinkerbell-lik
 - Robin bows to [[Titania]]’s statue and speaks of the **Circle of Dreams** area as if it has layered counterparts.
   - Robin claims this area looks the same as the [[Prime Material Plane]], while its version in the Faerealm is **much grander**.
   - Robin claims the Faerealm version is still abandoned, but **not as desolate** as it was in the Material realm, and that the Faerealm is **cyclic**—people may return.
+- **2026-07-25 [Voltaire-only]**: Robin suddenly appeared in the Shadar-kai tower after Voltaire’s six-month vigil in the place of Mask’s destroyed statue, apparently summoned.
+- **2026-07-25 [Voltaire-only]**: Voltaire granted Robin the **Blessing of V** as a token of appreciation for her divine loyalty.
+- Voltaire told Robin of his plan to enter Arvandor and confront the ancient divine fracture represented by Corellon.
+- Robin pledged to be Voltaire’s guiding light in the dark—his **sun**. Voltaire pledged to be her **moonlight**.
 
 ## Open Questions
 
 - Is Robin an awakened manifestation of the Sun Card, a summoned entity, or a new being “born” from the card’s solar radiance?
 - What can Robin do mechanically (actions, senses, limitations)?
+- What does the **Blessing of V** grant Robin mechanically, and did it change her appearance, abilities, bond, or status?
   - **[To verify]** Can `Find Familiar` succeed on/with Robin at all, or does this confirm she is not a familiar/beast-type entity?

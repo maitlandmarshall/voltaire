@@ -16,6 +16,11 @@ Yennefer's journey is one of physical transformation and becoming entangled in t
 
 During the party's time in the [[Abeil Hive City]], Yennefer cashed in her reward for a long-term personal goal: the ability to fly. She underwent a dangerous surgery where Abeil healers grafted a pair of their own chitinous wings onto her back. The procedure was successful, but also marked her as "dripping with necromantic residue" in the eyes of the Warlock Knights.
 
+## Sundew-Chamber Battle (2026-07-25)
+
+- **[Party | To verify attribution]** The handwritten notes identify “Norhan” as blasting a [[Lizard-Scorpion Beasts (Blood Temple)|lizard-scorpion beast]] for **150 damage** in the chamber beyond the [[Temple of Blood]]. This is recorded here as Yennefer’s action because Norhan is Yennefer’s player; confirm if a different character was in use.
+- The barrage blasted off one of the beast’s legs, but it remained active and appeared to retain substantial health.
+
 ### Gifts from the Lady of Loss
 
 While in [[Shar]]'s restored shrine, [[Cornholio]] placed Yennefer upon the altar. In a shower of divine attention, she received several "gifts":

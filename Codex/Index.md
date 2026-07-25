@@ -2,6 +2,7 @@
 
 - Start here: `Codex/README.md`
 - Character sheet: `Codex/Characters/Party/Voltaire.md`
+- Latest D&D Beyond snapshot: `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Dicfuc_131028470_2026-07-25.md`
 - Persistent open threads (player HUD): `Codex/Lore/Open Threads (Voltaire).md`
 - Voltaire quick reference (actions/abilities): `Codex/Lore/Voltaire Quick Reference (Actions & Abilities).md`
 - High-level compendium: `Overview.md`
@@ -13,6 +14,7 @@
 ## Categories
 
 - Items: `Codex/Items/`
+  - `Codex/Items/Voltaire Inventory (D&D Beyond 2026-07-25).md`
   - `Codex/Items/Voltaire Inventory (D&D Beyond 2026-01-25).md`
   - `Codex/Items/Voltaire Inventory (Paper Sheet - Rogue 8).md`
   - `Codex/Items/Sun Card.md`
@@ -28,6 +30,9 @@
   - `Codex/Items/Dark Moon Heresy.md`
 - Lore: `Codex/Lore/`
   - `Codex/Lore/Divine Rank 0.md`
+  - `Codex/Lore/Divine Rank 1.md`
+  - `Codex/Lore/Mask.md`
+  - `Codex/Lore/Loviatar.md`
   - `Codex/Lore/Open Threads (Voltaire).md`
   - `Codex/Lore/Voltaire Quick Reference (Actions & Abilities).md`
   - `Codex/Lore/Telos.md`
@@ -53,6 +58,7 @@
   - `Codex/Characters/Gold Dragon (Westward Slayer).md`
   - `Codex/Characters/Green Dragon (Swamp Lake).md`
   - `Codex/Characters/Halfling (Golden Sickle).md`
+  - `Codex/Characters/Lizard-Scorpion Beasts (Blood Temple).md`
   - `Codex/Characters/Quasit (Zeppo’s Claim).md`
   - `Codex/Characters/Robin.md`
   - `Codex/Characters/Sharias.md`
@@ -60,6 +66,7 @@
   - `Codex/Characters/Unclaimed Slave (Palashaey).md`
   - `Codex/Characters/Tayhra Savras.md`
 - Powers: `Codex/Powers/`
+  - `Codex/Powers/Voltaire Spell List (D&D Beyond 2026-07-25).md`
   - `Codex/Powers/Demon Gate.md`
   - `Codex/Powers/Book-Scent Synesthesia (Author-Sense).md`
   - `Codex/Powers/Find Familiar.md`
@@ -78,7 +85,9 @@
   - `Codex/Places/Palischuk.md`
   - `Codex/Places/Prime Material Plane.md`
   - `Codex/Places/Shadowfell.md`
+  - `Codex/Places/Shadar-kai Tower of Bright Darkness.md`
   - `Codex/Places/Sigil.md`
+  - `Codex/Places/Temple of Blood.md`
   - `Codex/Places/Vasa.md`
   - `Codex/Places/Void Realm.md`
 - Factions: `Codex/Factions/`

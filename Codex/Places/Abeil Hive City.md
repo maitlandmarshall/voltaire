@@ -14,6 +14,8 @@ The Abeil Hive City is a vast subterranean metropolis of the **[[Abeils]]**—a 
 - The city contains a library with access controls/certifications; the party spent days earning entry and studying.
 - The queen has near-divine presence/authority (per party characterization in notes).
 - There is internal conflict: a heretical Abeil faction in older tunnels worships **[[Dagon]] / [[Mother Hydra]]** (see [[Implements of Mother Hydra]] and [[Outsider Gold]]).
+- **2026-06-06**: The queen resealed the city while the party was outside and barred them from returning. She was angry, but the exact cause and terms of the exile are **[To verify]**.
+- During an audience, the queen took a book carried by [[Tamerac]]. Its identity and why she seized it are **[To verify]**.
 
 ## Observations (from notes; mostly Dagoth’s lens)
 
@@ -35,3 +37,4 @@ The Abeil Hive City is a vast subterranean metropolis of the **[[Abeils]]**—a 
 - What is the queen’s name and lineage, and what powers does she actually wield?
 - What is the “deep red iridescent liquid” that burns Abeil hands (**[To verify]** properties and role)?
 - What are the Abeils’ true long-term intentions: isolationism, colonization, trade, or conquest?
+- Why did the queen expel the party, what would permit their return, and what does the letter directing them toward Palashaey / Palischuk require?

@@ -9,9 +9,19 @@
 ## At a Glance (Current Snapshot)
 
 - **Level**: 13 — Rogue 5 (Thief) / Warlock 8 (Archfey) (`Codex/Characters/Party/Voltaire.md`)
-- **Spellcasting**: CHA, **DC 18**, **Spell attack +10** (`Codex/Powers/Voltaire Spell List (D&D Beyond 2026-01-25).md`)
-- **Big numbers** (from sheet): **Stealth +14**, **Perception +9**, **Sleight of Hand +9**, **Acrobatics +9**
+- **Alignment**: **Chaotic Neutral**
+- **Spellcasting**: CHA, **DC 18**, **Spell attack +10** (`Codex/Powers/Voltaire Spell List (D&D Beyond 2026-07-25).md`)
+- **Big numbers** (from sheet): **Stealth +14**, **Performance +10**, **Perception +9**, **Sleight of Hand +9**, **Acrobatics +9**
 - **Key “buttons”**: `Disguise Self` at-will; `Suggestion`; `Hypnotic Pattern`; `Invisibility` / `Greater Invisibility`; `Misty Step`; `Misty Escape`; `Shadow Blade`; `Uncanny Dodge`; `Lucky`
+- **Divine rank**: **[[Divine Rank 1]]**, gained on 2026-06-06. Mechanics are not yet recorded.
+- **XP**: **122,783 / 140,000** on the 2026-07-25 D&D Beyond snapshot. The source of the 500 XP gained since the last logged total is **[To verify]**.
+- **Divine symbol**: **V**
+- **Claimed domain**: **Domain of Unbecoming** — player intent; table recognition/mechanics **[To verify]**.
+- **Inspiration**: **1 available**, gained on 2026-06-06 with no later expenditure recorded.
+- **Current marks**: A Shadar-kai carved a V into Voltaire’s chest and forehead.
+- **Current position**: In giant-spider form, sprinting up the [[Shadar-kai Tower of Bright Darkness]] toward the summit anti-light; still separated from the party.
+- **Subjective time**: Roughly twelve months total across the earlier Feywild survival and the six-month statue vigil.
+- **Immediate play**: Reach and examine the anti-light; establish whether Mask’s hollow statue and the blessing of V changed Voltaire’s divine capabilities.
 
 ## Action Economy (Cheat Grid)
 
@@ -70,6 +80,7 @@ Common contenders you’ll actually fight over:
 - When the DM calls for it, roll `d20 + skill mod`.
 - **Expertise** doubles your proficiency bonus for that skill (your sheet shows Expertise on **Stealth** and **Perception**).
 - **Passive Perception** is typically `10 + Perception mod` (your sheet shows **19**).
+- **Performance is +10** (**[user-confirmed]**); use +10 even if an export or parser displays a different value.
 
 **Practical implication**:
 - You’re built to **spot** the trap *and* be the person who can **solve** it without stopping the scene.
@@ -156,6 +167,14 @@ Common contenders you’ll actually fight over:
 
 **Practical implication**:
 - You have two layers of narrative leverage: “I get one more try” (Inspiration) and “I brought my own probability” (Lucky).
+
+## Emerging Divine Effects — Ask the DM
+
+- **Divine Rank 1 / symbol V**: confirmed narratively; exact actions, senses, resources, and limits remain **[To verify]**.
+- **Blessing of V**: bestowed on Robin; effect remains **[To verify]**.
+- **Signed visitor-book conduit**: after Cornholio/Tom apparently signed Voltaire’s Ink-laden “Voltaire is divine” visitor book, Voltaire perceived through his eye “in reverse” and remotely manifested at the [[Temple of Blood]]. **[To verify mechanism]**
+- **Blood Temple manifestation**: Voltaire’s voice echoed “Machinations,” many eyes coalesced into V, and the oppressive atmosphere diminished as the temple was cleansed in his name. Ask whether this established a shrine/claim, created a persistent mark, or can be repeated.
+- **Summit rite**: still planned and **not yet performed**.
 
 ## Mundane Props (Fast Hands-friendly)
 
