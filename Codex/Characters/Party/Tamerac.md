@@ -4,6 +4,8 @@
 **Affiliation**: The Party, Unwitting Agent of Tiamat
 **Known For**: Musical magic, extreme volatility, a literal portal in his eye socket
 
+> **Continuity update (2026-06-06):** Tamerac was alive and active again and had become a **Kender rather than a Dragonborn**. The mechanism of his return and transformation is **[To verify]**; this supersedes the older “corpse remains with the party” status below.
+
 Tamerac is a Bard whose connection to magic and reality has become dangerously frayed. Once a servant of Tiamat, he was supposedly freed of her control, yet he continues to venerate her and his actions have become increasingly erratic and destructive. His slide into insanity makes him one of the most unpredictable and perilous members of the party.
 
 ## Narrative Arc & Key Events
@@ -23,6 +25,13 @@ It was Tamerac who single-handedly consecrated a temple they had cleared into a 
 Tamerac's behavior has grown progressively more unhinged. He has been observed casting Legend Lore on a heretical book from [[Glasya]], resulting in an epileptic fit and bleeding from his eyes. He often venerates Tiamat at the most inopportune moments, such as during the party's flight from the Tiamat shrine, which provoked [[Dagoth]] to attack him.
 
 His final act (for now) was to chase after the Archdevil [[Glasya]] in a fit of madness, intending to "annoy" her. Glasya, unimpressed, summoned an Erinyes that dispatched him with little effort. He was left on the ground making death saving throws, with his player requesting that he not be revived. His corpse remains with the party.
+
+### Return and Kender Form
+
+- **2026-06-06 [Party]**: Tamerac was again travelling with the party, now a Kender rather than a Dragonborn.
+- During an audience at the [[Abeil Hive City]], he carried a book that the queen took.
+- As the party passed after being barred from the city, Tamerac said, “say hi to Oberon.”
+- **[To verify]** How Tamerac returned, why his ancestry changed, which book the queen seized, and who the Oberon remark addressed.
 
 ## Relationship with Voltaire
 

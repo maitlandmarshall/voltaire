@@ -19,10 +19,18 @@
 - Voltaire has explicitly recorded that he is **Divine Rank 0**.
 - Voltaire’s conversions/creations (fae conversions, [[Shrek]] fine print, [[Robin]] disciple) are treated as evidence of this status.
 
+## Advancement Recorded on 2026-06-06
+
+- **[Voltaire-only]** After surviving roughly six subjective months in the Feywild, darkening Bloodweb spider territory, performing a concept-memory experiment under Shar’s intervention, and receiving roughly twenty Shadar-kai followers/initiates at a tower of “bright darkness,” Voltaire’s handwritten notes state: **“Gain 1 divine rank.”**
+- **Confirmed**: Voltaire advanced from **Divine Rank 0 to [[Divine Rank 1]]**.
+- The DM-facing mechanics, domain, benefits, and limits of Rank 1 have not yet been recorded.
+- This page remains the history of Voltaire’s former Rank 0 state.
+
 ## Open Questions
 
 - What are the explicit benefits/limits of Divine Rank 0 at this table?
 - What escalations (rank-up triggers) exist: follower thresholds, domain acts, divine bargains, artifacts consumed?
+- What exact mechanical and narrative state changes accompanied the transition to [[Divine Rank 1]]?
 
 ## New Leads (2026-02-21 | Voltaire-only) — To Verify
 

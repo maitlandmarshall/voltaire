@@ -21,3 +21,9 @@ Feral Transformation is a feature on Voltaire’s D&D Beyond sheet that allows h
 
 - What is the narrative source of this feature at this table (boon, invocation variant, story reward)?
 - Does the beast form visually reflect Voltaire’s tattoos/crab-book bond in any way?
+
+## Recorded Use
+
+- **2026-06-06 [Voltaire-only]**: At the base of a roughly 30 km Feywild tower, Voltaire considered taking a long rest to regain Feral Transformation and then becoming a **giant spider** to scale the exterior. Roughly twenty Shadar-kai revealed themselves before he executed the plan, and they later admitted him into the lower tower/temple instead. He has **not** yet climbed to the summit sphere.
+- **2026-07-25 [Voltaire-only]**: After completing the Shadar-kai statue-room rite and reuniting with Robin, Voltaire transformed into a **giant spider** and began sprinting up the tower toward the anti-light at its summit.
+- **Current state**: The use is expended until the applicable recovery; exact remaining duration and rest timing are **[To verify]**.

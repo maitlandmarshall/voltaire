@@ -15,6 +15,9 @@ Voltaire’s attuned robe that enhances perception and provides many-eyed awaren
 ## Voltaire-Only Notes
 
 - Passive Perception has been recorded as unusually high on older sheets (consistent with expertise + heightened awareness).
+- **2026-07-25 [Voltaire-only]**: Voltaire removed the robe to expose the V carved into his chest during the Shadar-kai statue-room rite.
+- After destroying Mask’s hollow statue, Voltaire placed its remaining rubble onto the robe.
+- **[To verify]** Whether the rubble fused with the robe, remains physically carried on it, or altered its abilities.
 
 ## Open Questions
 

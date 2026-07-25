@@ -8,10 +8,10 @@ _Prince-Emeritus of Swampy Repute, The Inephemeral Scribe_
 
 ## Latest Character Sheet (D&D Beyond)
 
-- PDF: `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Voltaire_131028470.pdf`
-- Extracted fields + page renders: `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Voltaire_131028470.md`
-- Inventory snapshot: `Codex/Items/Voltaire Inventory (D&D Beyond 2026-01-25).md`
-- Spell list snapshot: `Codex/Powers/Voltaire Spell List (D&D Beyond 2026-01-25).md`
+- PDF: `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Dicfuc_131028470_2026-07-25.pdf`
+- Extracted fields + page renders: `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Dicfuc_131028470_2026-07-25.md`
+- Inventory snapshot: `Codex/Items/Voltaire Inventory (D&D Beyond 2026-07-25).md`
+- Spell list snapshot: `Codex/Powers/Voltaire Spell List (D&D Beyond 2026-07-25).md`
 - Legacy paper notes extract: `Adventures/Voltaire's Notes/Character Sheet D&D Beyond/Imports/Voltaire Paper Character Sheet (extract).md`
 
 ## Core Identity
@@ -19,9 +19,9 @@ _Prince-Emeritus of Swampy Repute, The Inephemeral Scribe_
 **Current Form**: Variant Human (formerly Fae Prince)  
 **Class**: Rogue 5 (Thief) / Warlock 8 (Archfey)  
 **Background**: Hermit  
-**Alignment**: Chaotic Good (self-proclaimed god unto himself)  
+**Alignment**: Chaotic Neutral (self-proclaimed god unto himself)<br>
 **Level**: 13  
-**Experience**: 121,983 / 140,000 XP
+**Experience**: 122,783 / 140,000 XP
 
 ## Backstory
 
@@ -71,12 +71,15 @@ A powerful wizard named Greg later used Voltaire (under the influence of a potio
 - **Speed**: 30 ft. (Walking)
 - **Proficiency Bonus**: +5
 - **Senses**: Darkvision 120 ft.
+- **Performance**: +10 (**[user-confirmed]**; use this value even if an export/parser displays otherwise)
 
 ### Unique Abilities
 
 - **Universal Language**: Can read, write, and understand ALL languages (unconscious ability)
 - **Sun Card Power**: 6d8 radiant damage blast from the Deck of Many Things
-- **Divine Rank 0**: Recorded as [[Divine Rank 0]]; see also [[Voltaire's Followers]].
+- **Divine Rank**: **[[Divine Rank 1]]**, advanced from [[Divine Rank 0]] on 2026-06-06. See also [[Voltaire's Followers]].
+- **Divine Symbol**: **V**
+- **Claimed Domain**: **Domain of Unbecoming** **[player intent; table mechanics to verify]**
 - **Self-Patronage**: Acts as his own Warlock patron
 - **Book-Scent Synesthesia**: Can smell books and sense the author’s first-person experience at the time of writing (see [[Book-Scent Synesthesia (Author-Sense)]]).
 - **Exhaustion recovery change**: No longer requires food/drink intake to reduce exhaustion; a long rest is sufficient (as observed in notes).
@@ -142,6 +145,7 @@ A horrific yet fascinating merger of multiple elements:
 - **[[Chakram +6 (magical)]]**
 - **[[Sun Card]]** (From Deck of Many Things)
 - **[[Sharite Ceremonial Dagger]]** (Mysterious connection to Shar)
+- **Anti-scrying gem** — each party member had one; the gem blurs a scrying eye. Current ownership/count is **[To verify]**.
 
 ### The Ink of Unbeing
 
@@ -177,14 +181,36 @@ Potentially connected to the role of "The Inephemeral Scribe":
 
 ## Current Status
 
-Recently returned from Shar's realm after:
+Latest recorded state (2026-06-06):
 
-- Using Inspiration to title his book as the "Player's Handbook"
-- Inviting Shar, Glasya, and others to play D&D in his "Head-Space™"
-- Proposing a high-stakes cosmic bet
-- Discovering hints about the "Ink of Unbeing" and his potential role as the Inephemeral Scribe
+- **[Voltaire-only]** Experienced roughly six subjective months in the Feywild while the party experienced approximately one combat round.
+- Bloodweb spiders accepted him into their hive. They liked his daily bone rituals, and their territory grew darker as fae disappeared and shadow creatures appeared.
+- Reached a roughly 30 km tower crowned by “bright darkness.” He considered resting and climbing it in giant-spider form, but did not execute that plan.
+- Used the voidbone pen to combine the concepts of darkness, light, and life in dark creatures. Creating life drained his life force until he understood Shar was stopping him; he stripped concepts away and left V in their minds.
+- Perceived Shar as an immense, pale/white-skinned human woman.
+- Addressed roughly twenty Shadar-kai. Their leader whipped him and used his offered Shadow Dagger to carve V into his chest and forehead.
+- The Shadar-kai admitted Voltaire into the lower tower/temple, licked his blood from him, adorned/dedicated themselves to him, and became his followers/initiates.
+- Advanced to **[[Divine Rank 1]]**, gained **300 XP** (total **122,283 / 140,000**), and gained Inspiration.
+- **Position at the end of 2026-06-06**: inside the lower tower/temple among the Shadar-kai initiates, still separated from the party and not yet at the summit sphere.
+- **[Voltaire-only | Planned, not executed]** Ascend to the sphere, carve and blood-anoint it with V, reproduce the aspen sigils, and attempt a portal network linking aspen, flesh marks, and sphere.
+- **[To verify]** Current HP, conditions, spell slots, Feral Transformation availability, Shadow Dagger possession/return state, and whether the earlier Level 1 Exhaustion remains.
 
-Currently suffering from Level 1 Exhaustion and following Glasya while planning mysterious "games" and "trials."
+### 2026-07-25 Advancement
+
+- Accepted the Shadar-kai’s statue-room rite before statues of Shar, Loviatar, and dethroned Mask.
+- Endured the chamber’s overwhelming pulsation for twenty-four seconds while everyone else fell to their knees.
+- Destroyed Mask’s hollow statue in ritual rhythm with the Shadar-kai and occupied its place for six subjective months.
+- Placed Mask-statue rubble onto the Robe of Eyes, disguised himself as a statue, and repeated “As above, so below.”
+- Granted Robin the **Blessing of V**; its mechanical effect remains **[To verify]**.
+- Told Robin of the plan to enter Arvandor and confront the divine fracture represented by Corellon.
+- Robin pledged to be Voltaire’s guiding sunlight in the dark; Voltaire pledged to be her moonlight.
+- Used Feral Transformation to become a giant spider and began ascending the tower toward its summit anti-light.
+- Before the planned summit rite occurred, perceived the [[Temple of Blood]] through Cornholio/Tom’s eye “in reverse.” Voltaire’s voice echoed “Machinations” there; many eyes manifested and coalesced into V; the temple was described as cleansed in his name and its oppressive atmosphere diminished.
+- **[To verify]** Whether this remote manifestation was controlled by Voltaire, triggered by Cornholio/Tom signing the Ink-laden visitor book, or emerged automatically from Divine Rank 1.
+- **Current position**: climbing the [[Shadar-kai Tower of Bright Darkness]] in giant-spider form.
+- **Subjective time**: approximately twelve months total across the two recorded Feywild/tower distortions.
+- **Latest D&D Beyond snapshot (2026-07-25)**: **122,783 / 140,000 XP**, Chaotic Neutral, Performance **+10**, and Divine Rank 1 recorded in Additional Notes.
+- **[To verify]** The source of the additional 500 XP between the last logged total (122,283) and the latest sheet total (122,783).
 
 ## Mysteries & Hooks
 

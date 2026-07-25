@@ -41,10 +41,11 @@ This power is deeply intertwined with [[Voltaire]]'s entire being, even if he is
 *   **House Sharimythal**: The name of the house associated with this power is strikingly similar to **Shar**. This implies the power may originate from her, be a splinter sect, or be a title she bestows. This makes Voltaire's potential as The Scribe of immense interest to the Lady of Loss.
 *   **The Trial**: This ability is a perfect tool or test for the "game/trial" Shar is facilitating. She may task him with using it to prove his worth or understanding.
 
-## Voidbone Pen — Status (To Verify)
+## Voidbone Pen — Status
 
 - **Confirmed**: Voltaire has performed memory extraction/transference effects in-play (see “Known Uses” below).
-- **Unclear**: Whether Voltaire possesses a **literal, discrete “voidbone pen”** as an item, or whether the “voidbone pen” is metaphorical / represented by some other implement (quill, enchanted pen, the crab-book itself, etc.).
+- **Confirmed (2026-06-06 | Voltaire-only)**: In the detailed session recount, the implement was identified as the **voidbone pen** and used in the concept-memory experiment at the Feywild tower.
+- **Still unclear**: Whether the voidbone pen is a **literal, persistent carried item**, a temporary manifestation, or a stand-in implement.
 - **Not currently recorded**: A “Voidbone Pen” is **not** listed in `Codex/Items/Voltaire Inventory (D&D Beyond 2026-01-25).md` (note: that file is a snapshot, not authoritative for all-time items).
 - **[To verify]** If Lachlan confirms the pen is a real item Voltaire has, create `Codex/Items/Voidbone Pen.md` and link it from Voltaire’s inventory/character sheet.
 
@@ -55,7 +56,15 @@ This power is deeply intertwined with [[Voltaire]]'s entire being, even if he is
 - **Sigil inscription (material use)**: Voltaire used the Ink as the “dark” component when carving the followers’ sigil into the Shadowfell aspen, causing the mark to sink/age into the bark as if always present.
 - **Visitor-book inscription** (**2026-02-21 | To verify**): Voltaire wrote “Voltaire is divine” on the Warlock Knights tower **visitor book**, leaving a final underlined “sign here” space.
   - **Clarification (To verify)**: Voltaire reports writing **35 lines** at ~**6 seconds/line** (≈ **3.5 minutes**) with impeccably consistent “font/hand.”
-  - **[To verify]** Whether this is a belief-binding/faith rewrite effect, a magical “anchor,” or simply provocative writing with residue.
+  - **New evidence (2026-07-25 | To verify mechanism)**: The notes connect Cornholio/Tom signing the visitor book with Voltaire subsequently perceiving through his eye “in reverse” and influencing or manifesting through him at the [[Temple of Blood]].
+  - At the temple, Voltaire’s voice echoed “Machinations,” many eyes appeared around the walls and coalesced into V, and the oppressive atmosphere diminished as the temple was described as cleansed in Voltaire’s name.
+  - **[To verify]** Whether the signature is a belief-binding contract, divine communication link, possession/influence vector, sigil anchor, or only one factor in the event.
+- **Feywild tower concept-memory experiment** (**2026-06-06 | Voltaire-only**):
+  - Voltaire used the voidbone pen on dark creatures near the tower, including a nightgaunt and creatures resembling enemies killed near the temple several sessions earlier.
+  - He extracted the concept-memories of **darkness** and **light**, combined them with his own memory of **life**, and tried to write life back into the creatures.
+  - Writing life drained Voltaire’s own life force. He understood that Shar was preventing the creation of a new form of life.
+  - Voltaire pivoted: he removed as many concepts as he could and replaced them with **V**, a calling card or essence of Voltaire in their minds.
+  - During the experiment he perceived an immense, pale/white-skinned human woman whom he knew to be Shar. Whether this was a vision, aspect, avatar, or memory remains unresolved.
 
 ## Speculation / Intent (not yet confirmed as executed)
 
